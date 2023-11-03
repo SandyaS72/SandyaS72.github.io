@@ -20,13 +20,13 @@ author: Sandya Subramanian, Ph.D.
 ###############################################
 
 navbar-links:
-  Research: "aboutme"
+  Research: "labmembers"
   People:
     - PI: "https://www.linkedin.com/in/sandya-subramanian/"
-    - Lab Members: "https://www.markdowntutorial.com/"
-  News: "aboutme"
+    - Lab Members: "labmembers"
+  News: "labmembers"
   Publications: "https://scholar.google.com/citations?user=ihRIXQUAAAAJ&hl=en&oi=ao"
-  Teaching: "https://www.markdowntutorial.com/"
+  Teaching: "labmembers"
   Join: "https://www.markdowntutorial.com/"
 
 ################
