@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sandya Subramanian, PhD
+title: Sandya Subramanian, Ph.D.
 subtitle: Principal Investigator
 ---
 
