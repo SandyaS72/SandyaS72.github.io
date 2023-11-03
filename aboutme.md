@@ -6,7 +6,7 @@ subtitle: Principal Investigator
 
 Email: <a href="mailto:sandyas@berkeley.edu">sandyas@berkeley.edu</a>
 
-![Sandya_headshot](/assets/img/crepe.jpg)
+![Sandya_headshot](/assets/img/crepe.jpg){: style="float: left"}
 
 - I rock a great mustache
 - I'm extremely loyal to my family
