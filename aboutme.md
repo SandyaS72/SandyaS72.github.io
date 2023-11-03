@@ -4,7 +4,7 @@ title: Sandya Subramanian
 subtitle: Principal Investigator
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Email: sandyas@berkeley.edu
 
 - I rock a great mustache
 - I'm extremely loyal to my family
