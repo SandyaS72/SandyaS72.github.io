@@ -22,12 +22,10 @@ author: Sandya Subramanian, Ph.D.
 navbar-links:
   Research: "aboutme"
   People:
-    - PI: "https://www.linkedin.com/in/sandya-subramanian/"
+    - Principal Investigator: "https://www.linkedin.com/in/sandya-subramanian/"
     - Lab Members: "https://www.markdowntutorial.com/"
   News: "https://deanattali.com"
   Publications: "https://scholar.google.com/citations?user=ihRIXQUAAAAJ&hl=en&oi=ao"
-  Join: "https://deanattali.com"
-  Contact: "https://deanattali.com"
 
 ################
 # --- Logo --- #
