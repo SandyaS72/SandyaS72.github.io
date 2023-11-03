@@ -12,8 +12,8 @@ subtitle: We're hiring!
 
 Email: <a href="mailto:sandyas@berkeley.edu">sandyas@berkeley.edu</a>
 
-  - I rock a great mustache
-  - I'm extremely loyal to my family
+  - Placeholder
+  - TBD
 
 What else do you need?
 
