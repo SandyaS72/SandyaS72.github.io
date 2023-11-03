@@ -4,7 +4,7 @@ title: Sandya Subramanian
 subtitle: Principal Investigator
 ---
 
-Email: sandyas@berkeley.edu
+Email: <a href="mailto:sandyas@berkeley.edu">sandyas@berkeley.edu</a>
 
 - I rock a great mustache
 - I'm extremely loyal to my family
