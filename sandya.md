@@ -11,7 +11,7 @@ sizes="(min-width: 1110px) calc(25vw - 20px), ((min-width: 660px) and (max-width
 alt="Sandya Subramanian">
 
 Email: sandyas AT berkeley DOT edu\
-[Linkedin](www.linkedin.com/in/sandya-subramanian/)
+[Linkedin](https://www.linkedin.com/in/sandya-subramanian/)
 
 ### Education
   - **B.S.** Biomedical Engineering, Applied Mathematics & Statistics, 2015\
