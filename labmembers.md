@@ -6,8 +6,6 @@ subtitle: We're hiring!
 
 ### Principal Investigator
 
-![Sandya_headshot](/assets/img/20220609_0469_SSubramanian_cropped.jpg){: style="float: left; margin-right: 2em;" width="250"}
-
 <img src="/assets/img/20220609_0469_SSubramanian_cropped.jpg" style="float: left; margin-right: 2em;" width="250"/>
 
 #### Sandya Subramanian, Ph.D.
