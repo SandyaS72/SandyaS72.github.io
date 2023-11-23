@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-gem 'rmagick' -v '4.3.0'
+gem 'rmagick'
 
 gem 'jekyll-responsive-image'
 
