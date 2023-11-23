@@ -4,7 +4,7 @@ title: Lab Members
 subtitle: We're hiring!
 ---
 
-### Principal Investigator
+## Principal Investigator
 
 <img src="/assets/img/20220609_0469_SSubramanian_cropped.jpg"
 style="float: left; margin-right: 2em;"
@@ -16,7 +16,7 @@ alt="Sandya Subramanian">
 
 Email: <a href="mailto:sandyas@berkeley.edu">sandyas@berkeley.edu</a>
 
-##### Education
+### Education
   - B.S. Biomedical Engineering, Applied Mathematics & Statistics, 2015
     Johns Hopkins University
   - M.Phil. Clinical Neurosciences, 2016
@@ -24,7 +24,7 @@ Email: <a href="mailto:sandyas@berkeley.edu">sandyas@berkeley.edu</a>
   - Ph.D. Medical Engineering and Medical Physics, 2021
     Harvard-MIT Division of Health Sciences and Technology
 
-##### About Sandya
+### About Sandya
 
-##### Awards and Honors
+### Awards and Honors
 
