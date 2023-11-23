@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Join the SANDLab
-subtitle: We're hiring!
+subtitle: We're recruiting!
 ---
 
 If you are interested in: 
