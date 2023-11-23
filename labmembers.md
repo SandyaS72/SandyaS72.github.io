@@ -9,7 +9,7 @@ subtitle: We're hiring!
 <img src="/assets/img/20220609_0469_SSubramanian_cropped.jpg"
 style="float: left; margin-right: 2em;"
 srcset="/assets/img/20220609_0469_SSubramanian_cropped.jpg 4124w, /assets/img/Ssubramanian_2000.jpg 2000w, /assets/img/SSubramanian_crop.jpg 500w, /assets/img/crepe.jpg 348w"
-sizes="33vw"
+sizes=“(min-width: 300px) calc(100vw - 20px), (min-width: 650px) calc(50vw - 20px), (min-width: 1100px) calc(33vw - 20px), 100w”
 alt="Sandya Subramanian">
 
 #### Sandya Subramanian, Ph.D.
