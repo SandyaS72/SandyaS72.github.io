@@ -10,7 +10,7 @@ subtitle: We're hiring!
 
 <img src="/assets/img/20220609_0469_SSubramanian_cropped.jpg"
 style="float: left; margin-right: 2em;"
-srcset="/assets/img/20220609_0469_SSubramanian_cropped.jpg 4124w, /assets/img/SSubramanian_crop.jpg 500w, /assets/img/crepe.jpg 100w"
+srcset="/assets/img/20220609_0469_SSubramanian_cropped.jpg 4124w, /assets/img/SSubramanian_crop.jpg 500w, /assets/img/crepe.jpg 348w"
 sizes="33vw"
 alt="Sandya Subramanian">
 
