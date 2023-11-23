@@ -22,6 +22,32 @@ Email: sandyas AT berkeley DOT edu\
     *Harvard-MIT Division of Health Sciences and Technology*
 
 ### About Sandya
+All of my training and research experience has always been at the intersection of multiple fields. I completed my undergraduate training in 2015 at Johns Hopkins University, where I double majored in Biomedical Engineering and Applied Mathematics & Statistics. It was there, in the lab of Professor Sridevi Sarma, that I discovered that I really loved translational research. From there I studied at the University of Cambridge as a Churchill Scholar for one year to earn an M.Phil in Clinical Neurosciences in 2016 (though all of my work was computational). Then I returned to the US to the other Cambridge where I completed my Ph.D. at the Harvard-MIT Division of Health Sciences and Technology in the lab of Professor Emery Brown. In 2021, I moved across the country to Stanford for my postdoctoral training in the Department of Bioengineering with Professor Todd Coleman and the Division Pain Medicine with Professor Sean Mackey. Now, I'm excited to continue working on translational interdisciplinary solutions at UC Berkeley and UCSF as part of Computational Precision Health!
 
 ### Awards and Honors
+
+#### National & International 
+- Johns Hopkins/Columbia Rising Stars in Engineering in Health 2022 Selectee, 2022
+- L’Oreal USA For Women in Science Fellowship, 2022
+- Schmidt Science Fellows, 2022
+- NIH F32 Postdoctoral Fellowship, 2021
+- IEEE International Conference on Engineering in Biology and Medicine (EMBC) Student Paper Competition 3rd place winner. 2020
+- Society for Neuroscience Trainee Professional Development Award, 2017
+- National Science Foundation Graduate Fellowship, 2015
+- Churchill Scholarship, 2015
+- Tau Beta Pi National Engineering Honor Society, 2013
+- USPTO Collegiate Inventor’s Competition Undergraduate Champion, 2013
+- Goldwater Scholarship, 2013
+
+#### Within Institution
+2021-2024	Stanford Data Science Postdoctoral Fellowship
+2020-2021	MIT Office of Graduate Education Collamore-Rogers Fellowship 
+2020	Sloan School of Management Healthcare Certificate
+2019	MIT Innovation Initiative IMPACT Program Fellow 
+2019	Kauffman Teaching Certificate Program Graduate
+2016	MIT Presidential Fellow
+2015	Richard J. Johns Award, Johns Hopkins University 
+2015	Departmental Honors, Biomedical Engineering; Applied Mathematics & Statistics
+2011-2015	Dean’s List, Johns Hopkins University, all semesters
+
 
