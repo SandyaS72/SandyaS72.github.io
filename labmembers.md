@@ -18,11 +18,11 @@ Email: sandyas AT berkeley DOT edu
 
 ### Education
   - **B.S.** Biomedical Engineering, Applied Mathematics & Statistics, 2015\
-    Johns Hopkins University
+    *Johns Hopkins University*\
   - **M.Phil.** Clinical Neurosciences, 2016\
-    University of Cambridge
+    *University of Cambridge*\
   - **Ph.D.** Medical Engineering and Medical Physics, 2021\
-    Harvard-MIT Division of Health Sciences and Technology
+    *Harvard-MIT Division of Health Sciences and Technology*\
 
 ### About Sandya
 
