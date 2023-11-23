@@ -8,6 +8,8 @@ subtitle: We're hiring!
 
 ![Sandya_headshot](/assets/img/20220609_0469_SSubramanian_cropped.jpg){: style="float: left; margin-right: 2em;" width="250"}
 
+<img src="/assets/img/20220609_0469_SSubramanian_cropped.jpg" style="height: 100px; width:100px;"/>
+
 #### Sandya Subramanian, Ph.D.
 
 Email: <a href="mailto:sandyas@berkeley.edu">sandyas@berkeley.edu</a>
