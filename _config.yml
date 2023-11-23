@@ -27,7 +27,7 @@ navbar-links:
   News: "labmembers"
   Publications: "https://scholar.google.com/citations?user=ihRIXQUAAAAJ&hl=en&oi=ao"
   Teaching: "labmembers"
-  Join: "https://www.markdowntutorial.com/"
+  Join: "join"
 
 ################
 # --- Logo --- #
