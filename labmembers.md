@@ -14,7 +14,7 @@ alt="Sandya Subramanian">
 
 #### Sandya Subramanian, Ph.D.
 
-Email: <a href="mailto:sandyas@berkeley.edu">sandyas@berkeley.edu</a>
+Email: sandyas AT berkeley DOT edu
 
 ### Education
   - **B.S.** Biomedical Engineering, Applied Mathematics & Statistics, 2015\
