@@ -8,17 +8,23 @@ subtitle: We're hiring!
 
 <img src="/assets/img/20220609_0469_SSubramanian_cropped.jpg"
 style="float: left; margin-right: 2em;"
-srcset="/assets/img/20220609_0469_SSubramanian_cropped.jpg 4124w, /assets/img/Ssubramanian_2000.jpg 2000w, /assets/img/SSubramanian_crop.jpg 500w, /assets/img/crepe.jpg 348w"
-sizes=“(min-width: 300px) calc(100vw - 20px), (min-width: 650px) calc(50vw - 20px), (min-width: 1100px) calc(33vw - 20px), 100w”
+srcset="/assets/img/20220609_0469_SSubramanian_cropped.jpg 4124w, /assets/img/Ssubramanian_2000.jpg 2000w, /assets/img/Ssubramanian_1000.jpg 1000w, /assets/img/Ssubramanian_720.jpg 720w, /assets/img/SSubramanian_crop.jpg 500w, /assets/img/crepe.jpg 348w"
+sizes="(min-width: 300px) calc(100vw - 20px), (min-width: 650px) calc(50vw - 20px), (min-width: 1100px) calc(33vw - 20px), 100w"
 alt="Sandya Subramanian">
 
 #### Sandya Subramanian, Ph.D.
 
 Email: <a href="mailto:sandyas@berkeley.edu">sandyas@berkeley.edu</a>
 
-  - Placeholder
-  - TBD
+## Education
+  - B.S. Biomedical Engineering, Applied Mathematics & Statistics, 2015
+    Johns Hopkins University
+  - M.Phil. Clinical Neurosciences, 2016
+    University of Cambridge
+  - Ph.D. Medical Engineering and Medical Physics, 2021
+    Harvard-MIT Division of Health Sciences and Technology
 
-What else do you need?
+## About Sandya
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## Awards and Honors
+
