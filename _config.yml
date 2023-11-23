@@ -24,7 +24,7 @@ navbar-links:
   Team:
     - PI: "sandya"
     - The Lab: "labmembers"
-  News: "labmembers"
+  News: "news"
   Publications: "https://scholar.google.com/citations?user=ihRIXQUAAAAJ&hl=en&oi=ao"
   Teaching: "labmembers"
   Join: "join"
