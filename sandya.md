@@ -31,7 +31,7 @@ All of my training and research experience has always been at the intersection o
 - L’Oreal USA For Women in Science Fellowship, 2022
 - Schmidt Science Fellows, 2022
 - NIH F32 Postdoctoral Fellowship, 2021
-- IEEE International Conference on Engineering in Biology and Medicine (EMBC) Student Paper Competition 3rd place winner. 2020
+- IEEE International Conference on Engineering in Biology and Medicine (EMBC) Student Paper Competition 3rd place winner, 2020
 - Society for Neuroscience Trainee Professional Development Award, 2017
 - National Science Foundation Graduate Fellowship, 2015
 - Churchill Scholarship, 2015
@@ -40,14 +40,13 @@ All of my training and research experience has always been at the intersection o
 - Goldwater Scholarship, 2013
 
 #### Within Institution
-2021-2024	Stanford Data Science Postdoctoral Fellowship
-2020-2021	MIT Office of Graduate Education Collamore-Rogers Fellowship 
-2020	Sloan School of Management Healthcare Certificate
-2019	MIT Innovation Initiative IMPACT Program Fellow 
-2019	Kauffman Teaching Certificate Program Graduate
-2016	MIT Presidential Fellow
-2015	Richard J. Johns Award, Johns Hopkins University 
-2015	Departmental Honors, Biomedical Engineering; Applied Mathematics & Statistics
-2011-2015	Dean’s List, Johns Hopkins University, all semesters
+- Stanford Data Science Postdoctoral Fellowship, 2021
+- MIT Office of Graduate Education Collamore-Rogers Fellowship, 2020
+- Sloan School of Management Healthcare Certificate, 2020
+- MIT Innovation Initiative IMPACT Program Fellow, 2019
+- Kauffman Teaching Certificate Program Graduate, 2019
+- MIT Presidential Fellow, 2016
+- Richard J. Johns Award, Johns Hopkins University, 2015
+- Departmental Honors, Biomedical Engineering; Applied Mathematics & Statistics, 2015
 
 
