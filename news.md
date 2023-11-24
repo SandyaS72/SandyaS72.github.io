@@ -14,7 +14,7 @@ title: News
 <p style="text-align: center;">Sandya wins the L'Oreal For Women in Science Fellowship!</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KnHq8WW9BoE?si=KPpdHx85QcMGdoJh" style="display: block; margin-left: auto; margin-right: auto;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+\
 <h3 style="text-align: center;"><b>Jun 2022</b></h3>
 
 <p style="text-align: center;">Sandya is named a 2022 Schmidt Science Fellow!</p>
