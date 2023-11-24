@@ -3,7 +3,7 @@ layout: page
 title: News
 ---
 
-<p style="text-align: center;"><b>Oct 2023</b></p>
+#### <p style="text-align: center;"><b>Oct 2023</b></p>
 
 <p style="text-align: center;">Sandya presents at the 2023 UC Berkeley Graduate Diversity Fair as part of CPH (starting at 39:15 in the video below).</p>
 
