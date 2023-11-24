@@ -17,5 +17,5 @@ Our lab focuses on understanding how the brain interacts with the rest of the bo
 <img src="/assets/img/wordcloud.jpg"
 style="float: right; margin-left: 2em;"
 srcset="/assets/img/wordcloud.jpg 2098w"
-sizes="(min-width: 1501px) calc(30vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(40vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(60vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(80vw - 20px), 150px"
+sizes="(min-width: 1501px) calc(25vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(35vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(50vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(60vw - 20px), 150px"
 alt="Autonomic nervous system word cloud">
