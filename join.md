@@ -4,6 +4,12 @@ title: Join the SANDLab
 subtitle: We're recruiting!
 ---
 
+<img src="/assets/img/schematic.jpg"
+style="float: right;"
+srcset="/assets/img/schematic.jpg 2364w"
+sizes="(min-width: 1501px) calc(20vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(25vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(33vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(40vw - 20px), 150px"
+alt="Lab schematic">
+
 If you are interested in: 
 - **Interdisciplinary research** across computation, engineering, and neuroscience
 - Developing **new models and algorithms** to understand new physiology
@@ -15,9 +21,3 @@ please reach out by emailing **sandyas AT berkeley DOT edu**!\
 We're looking for students (graduate, undergraduate, masters) and post-baccalaureate research assistants!\
 \
 If you are applying to the [UCSF-UC Berkeley Computational Precision Health Ph.D. program](https://computationalhealth.berkeley.edu/) and are interested in rotating with us, please reach out!
-
-<img src="/assets/img/schematic.jpg"
-style="display: block; margin-left: auto; margin-right: auto;"
-srcset="/assets/img/schematic.jpg 2364w"
-sizes="(min-width: 1501px) calc(20vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(25vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(33vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(40vw - 20px), 150px"
-alt="Lab schematic">
