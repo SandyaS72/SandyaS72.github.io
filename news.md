@@ -3,19 +3,19 @@ layout: page
 title: News
 ---
 
-<h4 style="text-align: center;"><b>Oct 2023</b></h4>
+<h3 style="text-align: center;"><b>Oct 2023</b></h3>
 
 <p style="text-align: center;">Sandya presents at the 2023 UC Berkeley Graduate Diversity Fair as part of CPH (starting at 39:15 in the video below).</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XAV4WkQviOM?si=XqtuA8LQnA4bgm2b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<p style="text-align: center;"><b>Nov 2022</b></p>
+<h3 style="text-align: center;"><b>Nov 2022</b></h3>
 
 <p style="text-align: center;">Sandya wins the L'Oreal For Women in Science Fellowship!</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KnHq8WW9BoE?si=KPpdHx85QcMGdoJh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<p style="text-align: center;"><b>Jun 2022</b></p>
+<h3 style="text-align: center;"><b>Jun 2022</b></h3>
 
 <p style="text-align: center;">Sandya is named a 2022 Schmidt Science Fellow!</p>
 
