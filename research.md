@@ -4,6 +4,8 @@ title: Research
 subtitle: Harnessing the brain-body connection through the autonomic nervous system
 ---
 
+Under construction 
+
 <img src="/assets/img/ANS_overview.jpg"
 style="float: left; margin-left: 2em;"
 srcset="/assets/img/ANS_overview.jpg 1083w"
