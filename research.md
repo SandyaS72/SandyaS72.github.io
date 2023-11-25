@@ -28,3 +28,19 @@ srcset="/assets/img/continuum.jpg 3774w"
 sizes="(min-width: 1501px) calc(90vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(95vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(95vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(100vw - 20px), 150px"
 alt="Impact continuum">
 
+#### At-home monitoring for personalized healthcare
+
+#### Critical care decision support
+
+#### Methods/Model development to uncover new physiology
+
+<img src="/assets/img/ANS_network.jpg"
+style="float: left; margin-right: 2em;"
+srcset="/assets/img/ANS_network.jpg 502w"
+sizes="(min-width: 1501px) calc(10vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(20vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(30vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(45vw - 20px), 150px"
+alt="ANS network">
+
+At the core of all of these exciting new applications is the development of new methods and computational models that allow us to capture and quantify the relevant underlying physiology, such as how the ANS acts as a network. We aim to build physiologically and statistically rigorous models that are also interpretable for scientists and clinicians. You can check out our previous work quantifying the physiology of electrodermal activity from first principles and the biophysics of sweat glands.
+
+
+
