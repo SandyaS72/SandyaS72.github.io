@@ -21,9 +21,10 @@ alt="Autonomic nervous system word cloud">
 
 ### Our Envisioned Impact Continuum
 
-We believe that monitoring and modeling the ANS can have a huge impact on patient care across a wide array of applications, from shedding light on underlying physiology to providing clinical decision support tools based on an individual's physiology to personalized advance prediction and closed-loop therapeutic delivery algorithms. We aim to work along all points of this continuum. 
+We believe that monitoring and modeling the ANS can have a huge impact on patient care across a wide array of applications, from shedding light on underlying physiology to providing clinical decision support tools based on an individual's physiology to personalized advance prediction and closed-loop therapeutic delivery algorithms. We aim to work along all points of this continuum. Below are a few examples of the directions we aim to pursue, illustrating the range of applications and impacts. 
 
 <img src="/assets/img/continuum.jpg"
 srcset="/assets/img/continuum.jpg 3774w"
 sizes="(min-width: 1501px) calc(90vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(95vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(95vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(100vw - 20px), 150px"
 alt="Impact continuum">
+
