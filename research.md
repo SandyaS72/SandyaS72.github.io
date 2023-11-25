@@ -33,7 +33,7 @@ alt="Impact continuum">
 <img src="/assets/img/wearables.jpg"
 style="float: left; margin-right: 2em;"
 srcset="/assets/img/wearables.jpg 970w"
-sizes="(min-width: 1501px) calc(10vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(20vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(30vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(45vw - 20px), 150px"
+sizes="(min-width: 1501px) calc(7vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(15vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(25vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(35vw - 20px), 150px"
 alt="ANS network">
 
 There is only so much we can learn from data we can only collect in the clinic. The majority of life and disease happens outside of that. We believe that monitoring the ANS at home in patients with various chronic or complex diseases using non-invasive wearables and sensors can shed light on nuances of their individual physiology, help us monitor their disease progression, and personalize their treatment strategy. Eventually, we envision the possibility of individualized prediction and closed-loop control algorithms for therapeutic delivery. You can check out our previous work with functional digestive disorders, chronic pain, and migraines. We are excited to explore new sensors, modalities of data, methods, and disease areas in the future! 
