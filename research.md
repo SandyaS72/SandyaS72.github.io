@@ -30,6 +30,14 @@ alt="Impact continuum">
 
 #### At-home monitoring for personalized healthcare
 
+<img src="/assets/img/wearables.jpg"
+style="float: left; margin-right: 2em;"
+srcset="/assets/img/wearables.jpg 970w"
+sizes="(min-width: 1501px) calc(10vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(20vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(30vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(45vw - 20px), 150px"
+alt="ANS network">
+
+There is only so much we can learn from data we can only collect in the clinic. The majority of life and disease happens outside of that. We believe that monitoring the ANS at home in patients with various chronic or complex diseases using non-invasive wearables and sensors can shed light on nuances of their individual physiology, help us monitor their disease progression, and personalize their treatment strategy. Eventually, we envision the possibility of individualized prediction and closed-loop control algorithms for therapeutic delivery. You can check out our previous work with functional digestive disorders, chronic pain, and migraines. We are excited to explore new sensors, modalities of data, methods, and disease areas in the future! 
+
 #### Critical care decision support
 
 #### Methods/Model development to uncover new physiology
@@ -40,7 +48,7 @@ srcset="/assets/img/ANS_network.jpg 502w"
 sizes="(min-width: 1501px) calc(10vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(20vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(30vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(45vw - 20px), 150px"
 alt="ANS network">
 
-At the core of all of these exciting new applications is the development of new methods and computational models that allow us to capture and quantify the relevant underlying physiology, such as how the ANS acts as a network. We aim to build physiologically and statistically rigorous models that are also interpretable for scientists and clinicians. You can check out our previous work quantifying the physiology of electrodermal activity from first principles and the biophysics of sweat glands.
+At the core of all of these exciting new applications is the development of new methods and computational models that allow us to capture and quantify the relevant underlying physiology, such as how the ANS acts as a network. We aim to build physiologically and statistically rigorous models that are also interpretable for scientists and clinicians. You can check out our previous work quantifying the physiology of electrodermal activity from first principles and the biophysics of sweat glands. We look forward to exploring new modalities of data and integrating them into our multimodal methods.
 
 
 
