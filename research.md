@@ -61,7 +61,7 @@ There are a number of clinical settings in which having more and higher quality 
 <img src="/assets/img/ANS_network.jpg"
 style="float: left; margin-right: 2em;"
 srcset="/assets/img/ANS_network.jpg 502w"
-sizes="(min-width: 1501px) calc(8vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(18vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(30vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(45vw - 20px), 150px"
+sizes="(min-width: 1501px) calc(8vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(18vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(35vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(45vw - 20px), 150px"
 alt="ANS network">
 
 At the core of all of these exciting new applications is the development of new methods and computational models that allow us to capture and quantify the relevant underlying physiology, such as how the ANS acts as a network. We aim to build physiologically and statistically rigorous models that are also interpretable for scientists and clinicians. We look forward to exploring new modalities of data and integrating them into our multimodal methods.
