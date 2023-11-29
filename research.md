@@ -31,7 +31,7 @@ alt="Impact continuum">
 #### At-home monitoring for personalized healthcare
 
 <img src="/assets/img/wearables.jpg"
-style="float: left; margin-right: 2em;"
+style="float: right; margin-left: 2em;"
 srcset="/assets/img/wearables.jpg 970w"
 sizes="(min-width: 1501px) calc(7vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(14vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(25vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(35vw - 20px), 150px"
 alt="wearables">
@@ -45,7 +45,7 @@ Examples of previous work:
 #### Critical care and in-clinic decision support
 
 <img src="/assets/img/OR_elayne.jpg"
-style="float: right; margin-left: 2em;"
+style="float: left; margin-right: 2em;"
 srcset="/assets/img/OR_elayne.jpg 1512w"
 sizes="(min-width: 1501px) calc(10vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(18vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(25vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(35vw - 20px), 150px"
 alt="picture in the OR">
@@ -59,7 +59,7 @@ Examples of previous work:
 #### Methods/Model development to uncover new physiology
 
 <img src="/assets/img/ANS_network.jpg"
-style="float: left; margin-right: 2em;"
+style="float: right; margin-left: 2em;"
 srcset="/assets/img/ANS_network.jpg 502w"
 sizes="(min-width: 1501px) calc(10vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(20vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(30vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(45vw - 20px), 150px"
 alt="ANS network">
