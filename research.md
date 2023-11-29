@@ -68,7 +68,7 @@ At the core of all of these exciting new applications is the development of new 
 
 **Examples of previous work:**
 - Quantifying the physiology of sweat gland activity from first principles and biophysics ([IEEE TBME 2021](ttps://doi.org/10.1109/TBME.2021.3071366), [PLOS Comp Bio 2021](https://doi.org/10.1371/journal.pcbi.1009099), [PNAS 2020](https://doi.org/10.1073/pnas.2004403117))
-- Automatic artifact removal from electrodermal activity data in the operating room ([Phys Meas 2022](https://doi.org/10.1088/1361-6579/ac92bd))
+- Automatic artifact removal from electrodermal activity data in the operating room ([Phys Meas 2022](https://doi.org/10.1088/1361-6579/ac92bd), [Proc IEEE EMBC 2021](https://doi.org/10.1109/EMBC46164.2021.9630535))
 - Automated classification of sleep and wake from triaxial accelerometer data ([Proc IEEE EMBC 2022](https://doi.org/10.1109/EMBC48229.2022.9871823))
 
 
