@@ -3,4 +3,4 @@ layout: page
 title: Publications
 ---
 
-{% include publications.html %}
+{% include publications %}
