@@ -66,10 +66,10 @@ alt="ANS network">
 
 At the core of all of these exciting new applications is the development of new methods and computational models that allow us to capture and quantify the relevant underlying physiology, such as how the ANS acts as a network. We aim to build physiologically and statistically rigorous models that are also interpretable for scientists and clinicians. We look forward to exploring new modalities of data and integrating them into our multimodal methods.
 
-**Examples of previous work:**
-    - Quantifying the physiology of microscopic sweating from first principles and sweat gland biophysics
-    - Robust and automatic artifact removal from electrodermal activity data in the operating room
-    - Automated classification of sleep and wake from triaxial accelerometer data
+**Examples of previous work:**  
+    - Quantifying the physiology of microscopic sweating from first principles and sweat gland biophysics  
+    - Robust and automatic artifact removal from electrodermal activity data in the operating room  
+    - Automated classification of sleep and wake from triaxial accelerometer data  
 
 
 
