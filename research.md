@@ -53,7 +53,7 @@ alt="picture in the OR">
 There are a number of clinical settings in which having more and higher quality information can help clinicians make better informed and more timely decisions about a patient in a high acuity condition. The ANS plays a unique role in such conditions as the controller of our most basic life-preserving functions and reflexes. We believe it may be the key to understanding new disease physiology and capturing a detailed picture of what is happening in a patient. We want to explore new clinical areas of application and understand how the ANS communicates with the central nervous system as well!
 
 **Examples of previous work:**
-- Quantifying autonomic responses and unconscious pain under general anesthesia ([PLOS One 2021](https://doi.org/10.1371/journal.pone.0254053), []())
+- Quantifying autonomic responses and unconscious pain under general anesthesia ([PLOS One 2021](https://doi.org/10.1371/journal.pone.0254053), [Proc IEEE EMBC 2022](https://doi.org/10.1109/EMBC48229.2022.9871080))
 - EEG-based patient stratification in chronic pain (In press)
 
 #### Methods/Model development to uncover new physiology
