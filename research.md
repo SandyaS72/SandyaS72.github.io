@@ -39,7 +39,7 @@ alt="wearables">
 There is only so much we can learn from data we can only collect in the clinic. The majority of life and disease happens outside of that. We believe that monitoring the ANS at home in patients with various chronic or complex diseases using non-invasive wearables and sensors can shed light on nuances of their individual physiology, help us monitor their disease progression, and personalize their treatment strategy. Eventually, we envision the possibility of individualized prediction and closed-loop control algorithms for therapeutic delivery. We are excited to explore new sensors, modalities of data, methods, and disease areas in the future! 
 
 **Examples of previous work:**
-- Tracking 24-hour autonomic activity in different types of gastroparesis
+- Tracking 24-hour autonomic activity in different types of gastroparesis (![IEEE TBME 2023](https://ieeexplore.ieee.org/abstract/document/10149529), ![Proc EMBC 2023](https://arinex.com.au/EMBC/pdf/full-paper_709.pdf))
 - Tracking multi-day autonomic activity in chronic migraine (ongoing)
 
 #### Critical care and in-clinic decision support
