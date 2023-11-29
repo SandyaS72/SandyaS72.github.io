@@ -38,7 +38,7 @@ alt="wearables">
 
 There is only so much we can learn from data we can only collect in the clinic. The majority of life and disease happens outside of that. We believe that monitoring the ANS at home in patients with various chronic or complex diseases using non-invasive wearables and sensors can shed light on nuances of their individual physiology, help us monitor their disease progression, and personalize their treatment strategy. Eventually, we envision the possibility of individualized prediction and closed-loop control algorithms for therapeutic delivery. We are excited to explore new sensors, modalities of data, methods, and disease areas in the future! 
 
-Examples of previous work:
+**Examples of previous work:**
 - Tracking 24-hour autonomic activity in different types of gastroparesis
 - Tracking multi-day autonomic activity in chronic migraine (ongoing)
 
@@ -52,7 +52,7 @@ alt="picture in the OR">
 
 There are a number of clinical settings in which having more and higher quality information can help clinicians make better informed and more timely decisions about a patient in a high acuity condition. The ANS plays a unique role in such conditions as the controller of our most basic life-preserving functions and reflexes. We believe it may be the key to understanding new disease physiology and capturing a detailed picture of what is happening in a patient. We want to explore new clinical areas of application and understand how the ANS communicates with the central nervous system as well!
 
-Examples of previous work: 
+**Examples of previous work:**
 - Quantifying autonomic responses and unconscious pain under general anesthesia
 - EEG-based patient stratification in chronic pain
 
@@ -66,7 +66,7 @@ alt="ANS network">
 
 At the core of all of these exciting new applications is the development of new methods and computational models that allow us to capture and quantify the relevant underlying physiology, such as how the ANS acts as a network. We aim to build physiologically and statistically rigorous models that are also interpretable for scientists and clinicians. We look forward to exploring new modalities of data and integrating them into our multimodal methods.
 
-Examples of previous work: 
+**Examples of previous work:**
 - Quantifying the physiology of microscopic sweating from first principles and sweat gland biophysics
 - Robust and automatic artifact removal from electrodermal activity data in the operating room
 - Automated classification of sleep and wake from triaxial accelerometer data
