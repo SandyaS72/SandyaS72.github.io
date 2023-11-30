@@ -2,8 +2,6 @@
 {% assign tableFileParam = {{include.file}} %}
 {% assign tableFile = site.data[tableFileParam] %}
 
-<p>1. {{tableFile}}</p>
-
 <table class="grid" style="width: 100%">
     <colgroup>
         <col width="30%" />
@@ -13,7 +11,8 @@
     {% for entry in tableItems %}
         <tr>
           <td>....</td>
-          <td>{{ tableFile[entry].authors }}</td>
+          <td>{{ tableFile[entry].title }}<br/>
+              {{ tableFile[entry].authors }}</td>
         </tr>
     {% endfor %}
     </tbody>
