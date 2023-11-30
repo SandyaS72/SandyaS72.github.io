@@ -1,10 +1,10 @@
 EMBC_2014:
-  title: <b>The Precuneus May Encode Irrationality in Human Gambling</b>
-  authors: "P Sacré, M Kerr, S Subramanian, K Kahn, J Gonzalez-Martinez, M Johnson, SV Sarma, JT Gale"
+  title: <b>Computing Network-Based Features from Intracranial EEG Time Series Data: Application to Seizure Focus Localization</b>
+  authors: "S Hao*, S Subramanian*, A Jordan, R Yaffe, S Santaniello, C Jouny, G Bergey, WS Anderson, SV Sarma"
   journal: <i>Proc IEEE Eng in Med & Biol</i>
-  year: "2016"
-  link: <a href="https://doi.org/10.1109/EMBC.2016.7591459">Link</a>
+  year: "2014"
+  link: <a href="https://doi.org/10.1109/EMBC.2014.6944949">Link</a>
   image: <img src="/assets/img/EMBC_2016.jpg">
 
 
-Hao S*, Subramanian S* (co-first author), Jordan A, Yaffe R, Santaniello S, Jouny C, Bergey G, Anderson WS, and Sarma SV (2014). Computing Network-Based Features from Intracranial EEG Time Series Data: Application to Seizure Focus Localization. Proc. 36th IEEE International Conf on Eng in Biol and Med (EMBC). Chicago, IL, Aug 26-30. pp. 5812-5815. https://doi.org/10.1109/EMBC.2014.6944949
+
