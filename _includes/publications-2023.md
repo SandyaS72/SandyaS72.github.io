@@ -1,6 +1,6 @@
 {% assign tableItems = include.items | split: ", " %}
 {% assign tableFileParam = {{include.file}} %}
-{% assign tableFile = site.data[tableFileParam] %}
+{% assign tableFile = site.data.[tableFileParam] %}
 
 <p>1. {{tableItems}}</p>
 <p>2. {{tableFileParam}}</p>
