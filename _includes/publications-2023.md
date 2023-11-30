@@ -10,7 +10,7 @@
     <tbody>
     {% for entry in tableItems %}
         <tr>
-          <td>....</td>
+          <td>{{ tableFile[entry].image }}</td>
           <td>{{ tableFile[entry].title }}<br/>
               {{ tableFile[entry].authors }}<br/>
               {{tableFile[entry].journal}} {{tableFile[entry].year}} {{tableFile[entry].link}}</td>
