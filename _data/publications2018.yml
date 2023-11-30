@@ -7,8 +7,19 @@ Network_2018:
   image: <img src="/assets/img/PNAS_2019.jpg">
 
 
+CinC_2018:
+  title: <b>Arousal Detection in Obstructive Sleep Apnea using Physiology-Derived Features</b>
+  authors: "S Subramanian, S Chamadia, S Chakravarty"
+  journal: <i>Proc Computing in Cardiology</i>
+  year: "2018"
+  link: <a href="http://www.cinc.org/archives/2018/pdf/CinC2018-349.pdf">Link</a>
+  image: <img src="/assets/img/PNAS_2019.jpg">
+  
 
-Subramanian S, Chamadia S, Chakravarty S (2018). Arousal Detection in Obstructive Sleep Apnea using Physiology-Derived Features. Proceedings of Computing in Cardiology 2018. Maastricht, The Netherlands, September 24-26. http://www.cinc.org/archives/2018/pdf/CinC2018-349.pdf
-C14.
-Subramanian S, Barbieri R, Brown EN (2018). A Point Process Characterization of Electrodermal Activity. Proc. 40th IEEE International Conf on Eng in Biol and Med (EMBC). Honolulu, HI, July 17-21. pp. 37-40. https://doi.org/10.1109/EMBC.2018.8512211
-
+EMBC_2018:
+  title: <b>A Point Process Characterization of Electrodermal Activity</b>
+  authors: "S Subramanian, R Barbieri, EN Brown"
+  journal: <i>Proc IEEE Eng in Med & Biol</i>
+  year: "2018"
+  link: <a href="https://doi.org/10.1109/EMBC.2018.8512211">Link</a>
+  image: <img src="/assets/img/PNAS_2019.jpg">
