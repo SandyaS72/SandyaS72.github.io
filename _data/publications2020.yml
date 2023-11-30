@@ -1,1 +1,34 @@
+PNAS_2020:
+  title: <b>Point Process Temporal Structure Characterizes Electrodermal Activity</b>
+  authors: "S Subramanian, R Barbieri, EN Brown"
+  journal: <i>PNAS</i>
+  year: "2020"
+  link: <a href="https://doi.org/10.1073/pnas.2004403117">Link</a>
+  image: <img src="/assets/img/TBME_2021.jpg">
 
+
+CinC_2020:
+  title: <b>Multimodal vs Unimodal Estimation of Sympathetic-Driven Arousal States</b>
+  authors: "S Subramanian, EN Brown, R Barbieri"
+  journal: <i>Proc Computing in Cardiology</i>
+  year: "2020"
+  link: <a href="https://doi.org/10.22489/CinC.2020.290">Link</a>
+  image: <img src="/assets/img/TBME_2021.jpg">
+
+
+EMBC_2020:
+  title: <b>Detecting Loss and Regain of Consciousness during Propofol Anesthesia using Multimodal Indices of Autonomic State</b>
+  authors: "S Subramanian, R Barbieri, PL Purdon, EN Brown"
+  journal: <i>Proc IEEE Eng in Med & Biol</i>
+  year: "2020"
+  link: <a href="https://doi.org/10.1109/EMBC44109.2020.9175366">Link</a>
+  image: <img src="/assets/img/TBME_2021.jpg">
+
+
+ESGCO_2020:
+  title: <b>Analyzing Transitions in Anesthesia by Multimodal Characterization of Autonomic State</b>
+  authors: "S Subramanian, R Barbieri, PL Purdon, EN Brown"
+  journal: <i>Proc European Study Group on Cardiovascular Oscillations</i>
+  year: "2020"
+  link: <a href="https://doi.org/10.1109/ESGCO49734.2020.9158139">Link</a>
+  image: <img src="/assets/img/TBME_2021.jpg">
