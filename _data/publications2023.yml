@@ -1,3 +1,12 @@
+DataSci:
+  title: <b>Unsupervised Stratification of Chronic Pain Patients Using EEG Peak Alpha Spatial Signatures</b>
+  authors: "S Subramanian, E Lannon, S Mackey"
+  journal: <i>Proc IEEE EMBS Special Topic Conference on Data Science and Engineering in Healthcare, Medicine and Biology</i>
+  year: "2023"
+  link: 
+  image: <img src="/assets/img/DataSci_2023.jpg">
+
+
 TBME:
   title: <b>Exploring the Gut-Brain Connection in Gastroparesis with Autonomic and Gastric Myoelectric Monitoring</b>
   authors: "S Subramanian, DC Kunkel, L Nguyen, TP Coleman"
