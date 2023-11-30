@@ -1,16 +1,12 @@
-apple:
-  field: "<code>apple</code>"
-  description: >
-    <p>A round red fruit that tastes tart, sweet, and crisp.</p>
-  required: false
-  type: "String"
-  values: "<p><i>Example</i>: <code>Honeycrisp</code>, <code>Pink Lady</code></p>"
+TBME:
+  title: <p><b>Exploring the Gut-Brain Connection in Gastroparesis with Autonomic and Gastric Myoelectric Monitoring</b></p>
+  authors: "S Subramanian, DC Kunkel, L Nguyen, TP Coleman"
+  journal: <i>IEEE Trans on Biomed Eng</i>
+  year: "2023"
 
 
-orange:
-  field: "Orange"
-  description: >
-    <p>A small orange-colored fruit divided into sections with a sweet and juicy taste.</p>
-  required: false
-  type: "String"
-  values: "<p><i>Example</i>: <code>Navel</code>, <code>Minneola</code></p>"
+EMBC:
+  title: <p><b>Exploring the aperiodic nature of parasympathetic activity during sleep in idiopathic gastroparesis</b></p>
+  authors: "S Subramanian, DC Kunkel, TP Coleman"
+  journal: <i>Proc IEEE Eng in Med & Biol</i>
+  year: "2023"
