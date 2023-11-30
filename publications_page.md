@@ -27,5 +27,6 @@ title: Publications
 {% include publications-format.md items="SciRep_2017" file="publications2017" caption="2017 publications" %}
 
 ## 2016
+{% include publications-format.md items="EMBC_2016, CISS_2016" file="publications2016" caption="2016 publications" %}
 
 ## 2014
