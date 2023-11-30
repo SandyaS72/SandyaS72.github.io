@@ -4,7 +4,7 @@ MMGA_2019:
   journal: <i>Anesthesiology News Special Edition</i>
   year: "2019"
   link: 
-  image: <img src="/assets/img/PNAS_2020.jpg">
+  image: <img src="/assets/img/PNAS_2019.jpg">
 
 
 PNAS_2019:
@@ -13,7 +13,7 @@ PNAS_2019:
   journal: <i>PNAS</i>
   year: "2019"
   link: <a href="https://doi.org/10.1073/pnas.1811259115">Link</a>
-  image: <img src="/assets/img/PNAS_2020.jpg">
+  image: <img src="/assets/img/PNAS_2019.jpg">
 
 
 EMBC_2019_1: 
@@ -22,7 +22,7 @@ EMBC_2019_1:
   journal: <i>Proc IEEE Eng in Med & Biol</i>
   year: "2019"
   link: <a href="https://doi.org/10.1109/EMBC.2019.8857757">Link</a>
-  image: <img src="/assets/img/PNAS_2020.jpg">
+  image: <img src="/assets/img/EMBC_1_2019.jpg">
 
 
 EMBC_2019_2: 
@@ -31,4 +31,4 @@ EMBC_2019_2:
   journal: <i>Proc IEEE Eng in Med & Biol</i>
   year: "2019"
   link: <a href="https://doi.org/10.1109/EMBC.2019.8856817">Link</a>
-  image: <img src="/assets/img/PNAS_2020.jpg">
+  image: <img src="/assets/img/EMBC_2_2019.jpg">
