@@ -1,10 +1,9 @@
 {% assign tableItems = include.items | split: ", " %}
 {% assign tableFileParam = {{include.file}} %}
-{% assign tableFile = site.data.[tableFileParam] %}
+{% assign tableFile = site.data[tableFileParam] %}
 
-<p>1. {{tableItems}}</p>
-<p>2. {{tableFileParam}}</p>
-<p>3. {{tableFile}}</p>
+<p>1. {{tableFile}}</p>
+<p>2. {{site.data}}</p>
 
 <table class="grid" style="width: 100%">
     <colgroup>
@@ -15,7 +14,7 @@
     {% for entry in tableItems %}
         <tr>
           <td>....</td>
-          <td>{{ tableFile.[entry].authors }}</td>
+          <td>{{ tableFile[entry].authors }}</td>
         </tr>
     {% endfor %}
     </tbody>
