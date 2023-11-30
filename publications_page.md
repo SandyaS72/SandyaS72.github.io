@@ -15,3 +15,4 @@ title: Publications
 {% include publications-format.md items="TBME_2021, PLOSOne_2021, PLOSCompBio_2021, EMBC_2021" file="publications2021" caption="2021 publications" %}
 
 ## 2020
+{% include publications-format.md items="PNAS_2020, CinC_2020, EMBC_2020, ESGCO_2020" file="publications2020" caption="2020 publications" %}
