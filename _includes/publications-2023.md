@@ -2,9 +2,9 @@
 {% assign tableFileParam = {{include.file}} %}
 {% assign tableFile = site.data[tableFileParam] %}
 
-<p>{{tableItems}}</p>
-<p>{{tableFileParam}}</p>
-<p>{{tableFile}}</p>
+<p>1. {{tableItems}}</p>
+<p>2. {{tableFileParam}}</p>
+<p>3. {{tableFile}}</p>
 
 <table class="grid" style="width: 100%">
     <colgroup>
