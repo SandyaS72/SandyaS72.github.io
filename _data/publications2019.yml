@@ -12,9 +12,23 @@ PNAS_2019:
   authors: "P Sacré, MSD Kerr, S Subramanian, Z Fitzgerald, K Kahn, MA Johnson, E Niebur, UT Eden, J Gonzalez-Martinez, JT Gale*, SV Sarma*"
   journal: <i>PNAS</i>
   year: "2019"
-  link: 
+  link: <a href="https://doi.org/10.1073/pnas.1811259115">Link</a>
   image: <img src="/assets/img/PNAS_2020.jpg">
-  
-https://doi.org/10.1073/pnas.1811259115
-Song AH*, Chlon L*, Soulat H, Tauber J, Subramanian S, Ba D, Prerau MJ (2019). Multitaper Infinite Hidden Markov Model for EEG. Proc. 41st IEEE International Conf on Eng in Biol and Med (EMBC). Berlin, Germany, July 23-27. pp. 5803-5807. https://doi.org/10.1109/EMBC.2019.8856817
-Subramanian S, Barbieri R, Brown EN (2019). A Systematic Method for Preprocessing and Analyzing Electrodermal Activity. Proc. 41st IEEE International Conf on Eng in Biol and Med (EMBC). Berlin, Germany, July 23-27. pp. 6902-6905. https://doi.org/10.1109/EMBC.2019.8857757
+
+
+EMBC_2019_1: 
+  title: <b>A Systematic Method for Preprocessing and Analyzing Electrodermal Activity</b>
+  authors: "S Subramanian, R Barbieri, EN Brown"
+  journal: <i>Proc IEEE Eng in Med & Biol</i>
+  year: "2019"
+  link: <a href="https://doi.org/10.1109/EMBC.2019.8857757">Link</a>
+  image: <img src="/assets/img/PNAS_2020.jpg">
+
+
+EMBC_2019_2: 
+  title: <b>Multitaper Infinite Hidden Markov Model for EEG</b>
+  authors: "AH Song*, L Chlon*, H Soulat, J Tauber, S Subramanian, D Ba, MJ Prerau"
+  journal: <i>Proc IEEE Eng in Med & Biol</i>
+  year: "2019"
+  link: <a href="https://doi.org/10.1109/EMBC.2019.8856817">Link</a>
+  image: <img src="/assets/img/PNAS_2020.jpg">
