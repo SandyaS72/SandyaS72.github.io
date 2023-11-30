@@ -4,7 +4,7 @@ Network_2018:
   journal: <i>Network Neuroscience</i>
   year: "2018"
   link: <a href="https://doi.org/10.1162/netn_a_00043">Link</a>
-  image: <img src="/assets/img/PNAS_2019.jpg">
+  image: <img src="/assets/img/Network_2018.jpg">
 
 
 CinC_2018:
@@ -13,7 +13,7 @@ CinC_2018:
   journal: <i>Proc Computing in Cardiology</i>
   year: "2018"
   link: <a href="http://www.cinc.org/archives/2018/pdf/CinC2018-349.pdf">Link</a>
-  image: <img src="/assets/img/PNAS_2019.jpg">
+  image: <img src="/assets/img/CinC_2018.jpg">
   
 
 EMBC_2018:
@@ -22,4 +22,4 @@ EMBC_2018:
   journal: <i>Proc IEEE Eng in Med & Biol</i>
   year: "2018"
   link: <a href="https://doi.org/10.1109/EMBC.2018.8512211">Link</a>
-  image: <img src="/assets/img/PNAS_2019.jpg">
+  image: <img src="/assets/img/EMBC_2018.jpg">
