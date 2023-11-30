@@ -4,7 +4,7 @@ PNAS_2020:
   journal: <i>PNAS</i>
   year: "2020"
   link: <a href="https://doi.org/10.1073/pnas.2004403117">Link</a>
-  image: <img src="/assets/img/TBME_2021.jpg">
+  image: <img src="/assets/img/PNAS_2020.jpg">
 
 
 CinC_2020:
@@ -13,7 +13,7 @@ CinC_2020:
   journal: <i>Proc Computing in Cardiology</i>
   year: "2020"
   link: <a href="https://doi.org/10.22489/CinC.2020.290">Link</a>
-  image: <img src="/assets/img/TBME_2021.jpg">
+  image: <img src="/assets/img/CinC_2020.jpg">
 
 
 EMBC_2020:
@@ -22,7 +22,7 @@ EMBC_2020:
   journal: <i>Proc IEEE Eng in Med & Biol</i>
   year: "2020"
   link: <a href="https://doi.org/10.1109/EMBC44109.2020.9175366">Link</a>
-  image: <img src="/assets/img/TBME_2021.jpg">
+  image: <img src="/assets/img/EMBC_2020.jpg">
 
 
 ESGCO_2020:
