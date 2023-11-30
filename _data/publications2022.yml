@@ -1,25 +1,16 @@
-DataSci:
-  title: <b>Unsupervised Stratification of Chronic Pain Patients Using EEG Peak Alpha Spatial Signatures</b>
-  authors: "S Subramanian, E Lannon, S Mackey"
-  journal: <i>Proc IEEE EMBS Special Topic Conference on Data Science and Engineering in Healthcare, Medicine and Biology</i>
-  year: "2023"
-  link: 
-  image: <img src="/assets/img/DataSci_2023.jpg">
+PhysMeas:
+  title: <b>An unsupervised automated paradigm for artifact removal from electrodermal activity in an uncontrolled clinical setting</b>
+  authors: "S Subramanian, B Tseng, R Barbieri, EN Brown"
+  journal: <i>Physiological Measurement</i>
+  year: "2022"
+  link: <a href="https://doi.org/10.1088/1361-6579/ac92bd">Link</a>
+  image: <img src="/assets/img/PhysMeas_2022.jpg">
 
 
-TBME:
-  title: <b>Exploring the Gut-Brain Connection in Gastroparesis with Autonomic and Gastric Myoelectric Monitoring</b>
-  authors: "S Subramanian, DC Kunkel, L Nguyen, TP Coleman"
-  journal: <i>IEEE Trans on Biomed Eng</i>
-  year: "2023"
-  link: <a href="https://doi.org/10.1109/TBME.2023.3285491">Link</a>
-  image: <img src="/assets/img/TBME_2023.jpg">
-
-
-EMBC:
-  title: <b>Exploring the aperiodic nature of parasympathetic activity during sleep in idiopathic gastroparesis</b>
-  authors: "S Subramanian, DC Kunkel, TP Coleman"
-  journal: <i>Proc IEEE Eng in Med & Biol</i>
-  year: "2023"
-  link: <a href="https://arinex.com.au/EMBC/pdf/full-paper_709.pdf">Link</a>
-  image: <img src="/assets/img/EMBC_2023.jpg">
+Review:
+  title: <b>How Machine Learning is Powering Neuroimaging to Improve Brain Health</b>
+  authors: "NM Singh, JB Harrod, S Subramanian, M Robinson, K Chang, S Cetin-Karayumak, A Vasile Dalca, S Eickhoff, M Fox, L Franke, P Golland, D Haehn, J Eugenio Iglesias, LJ O’Donnell, Y Ou, Y Rathi, SH Siddiqi, H Sun, MB Westover, S Whitfield-Gabrieli, RL Gollub"
+  journal: <i>Neuroinformatics</i>
+  year: "2022"
+  link: <a href="https://doi-org10.1007/s12021-022-09572-9">Link</a>
+  image: <img src="/assets/img/Review_2023.jpg">
