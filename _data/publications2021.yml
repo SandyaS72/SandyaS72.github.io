@@ -4,7 +4,7 @@ TBME_2021:
   journal: <i>IEEE Trans Biomed Eng</i>
   year: "2021"
   link: <a href="https://doi.org/10.1109/TBME.2021.3071366">Link</a>
-  image: <img src="/assets/img/PhysMeas_2022.jpg">
+  image: <img src="/assets/img/TBME_2021.jpg">
 
 
 PLOSOne_2021:
@@ -13,7 +13,7 @@ PLOSOne_2021:
   journal: <i>PLoS ONE</i>
   year: "2021"
   link: <a href="https://doi.org/10.1371/journal.pone.0254053">Link</a>
-  image: <img src="/assets/img/PhysMeas_2022.jpg">
+  image: <img src="/assets/img/PLOSOne_2021.jpg">
 
 
 PLOSCompBio_2021:
@@ -22,7 +22,7 @@ PLOSCompBio_2021:
   journal: <i>PLoS Comput Biol</i>
   year: "2021"
   link: <a href="https://doi.org/10.1371/journal.pcbi.1009099">Link</a>
-  image: <img src="/assets/img/PhysMeas_2022.jpg">
+  image: <img src="/assets/img/PLOSCompBio_2021.jpg">
 
 
 EMBC_2021:
