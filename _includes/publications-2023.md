@@ -15,7 +15,7 @@
     {% for entry in tableItems %}
         <tr>
           <td>....</td>
-          <td>{{ tableFile[entry].authors }}</td>
+          <td>{{ tableFile.[entry].authors }}</td>
         </tr>
     {% endfor %}
     </tbody>
