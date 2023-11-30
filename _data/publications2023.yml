@@ -1,10 +1,28 @@
-DataSci:
+DataSci_SS:
   title: <b>Unsupervised Stratification of Chronic Pain Patients Using EEG Peak Alpha Spatial Signatures</b>
   authors: "S Subramanian, E Lannon, S Mackey"
   journal: <i>Proc IEEE EMBS Special Topic Conference on Data Science and Engineering in Healthcare, Medicine and Biology</i>
   year: "2023"
   link: 
   image: <img src="/assets/img/DataSci_2023.jpg">
+
+
+DataSci_BR:
+  title: <b>Building AI Models of Patient-Specific Drug Side Effect Predictions</b>
+  authors: "B Ramsundar, S Subramanian"
+  journal: <i>Proc IEEE EMBS Special Topic Conference on Data Science and Engineering in Healthcare, Medicine and Biology</i>
+  year: "2023"
+  link: 
+  image: <img src="/assets/img/DataSci_BR_2023.jpg">
+
+
+BSN:
+  title: <b>A Convex Formulation of Point Process Heartbeat Dynamics using a Gamma Generalized Linear Model</b>
+  authors: "AS Perley, S Subramanian, TP Coleman"
+  journal: <i>Proc. IEEE Body Sensor Networks</i>
+  year: "2023"
+  link: 
+  image: <img src="/assets/img/BSN_2023.jpg">
 
 
 TBME:
