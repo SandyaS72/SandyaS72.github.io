@@ -19,16 +19,16 @@ Review:
 EMBC_2022_1:
   title: <b>Automated classification of sleep and wake from single day triaxial accelerometer data</b>
   authors: "S Subramanian, TP Coleman"
-  journal: <i>Neuroinformatics</i>
+  journal: <i>Proc IEEE Eng in Med & Biol</i>
   year: "2022"
   link: <a href="https://doi.org/10.1109/EMBC48229.2022.9871823">Link</a>
-  image: <img src="/assets/img/Review_2022.jpg">
+  image: <img src="/assets/img/EMBC_1_2022.jpg">
 
 
 EMBC_2022_2:
   title: <b>Tonic Electrodermal Activity is a Robust Marker of Psychological and Physiological Changes during Induction of Anesthesia</b>
   authors: "B Tseng, S Subramanian, R Barbieri, EN Brown"
-  journal: <i>Neuroinformatics</i>
+  journal: <i>Proc IEEE Eng in Med & Biol</i>
   year: "2022"
   link: <a href="https://doi.org/10.1109/EMBC48229.2022.9871080">Link</a>
-  image: <img src="/assets/img/Review_2022.jpg">
+  image: <img src="/assets/img/EMBC_2_2022.jpg">
