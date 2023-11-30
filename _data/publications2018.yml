@@ -1,10 +1,7 @@
-PNAS_2019:
-  title: <b>Risk-taking bias in human decision-making is encoded via a right-left brain push-pull system</b>
-  authors: "P Sacré, MSD Kerr, S Subramanian, Z Fitzgerald, K Kahn, MA Johnson, E Niebur, UT Eden, J Gonzalez-Martinez, JT Gale*, SV Sarma*"
-  journal: <i>PNAS</i>
-  year: "2019"
-  link: <a href="https://doi.org/10.1073/pnas.1811259115">Link</a>
+Network_2018:
+  title: <b>Using Network Analysis to Localize the Epileptogenic Zone from Invasive EEG Recordings in Intractable Focal Epilepsy</b>
+  authors: "Li A*, Chennuri B*, Subramanian S, Yaffe R, Gliske S, Stacey W, Norton R, Jordan A, Zaghloul KA, Inati SK, Agarwal S, Haagensen J, Hopp J, Atallah C, Johnson E, Crone N, Andersen WS, Fitzgerald Z, Bulacio J, Gale JT, Sarma SV, Gonzalez-Martinez JA"
+  journal: <i>Network Neuroscience</i>
+  year: "2018"
+  link: <a href="https://doi.org/10.1162/netn_a_00043">Link</a>
   image: <img src="/assets/img/PNAS_2019.jpg">
-
-
-Li A*, Chennuri B*, Subramanian S, Yaffe R, Gliske S, Stacey W, Norton R, Jordan A, Zaghloul KA, Inati SK, Agarwal S, Haagensen J, Hopp J, Atallah C, Johnson E, Crone N, Andersen WS, Fitzgerald Z, Bulacio J, Gale JT, Sarma SV, Gonzalez-Martinez JA (2018). Using Network Analysis to Localize the Epileptogenic Zone from Invasive EEG Recordings in Intractable Focal Epilepsy. Network Neuroscience 2(2): 218-240. https://doi.org/10.1162/netn_a_00043
