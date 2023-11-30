@@ -3,6 +3,8 @@
 {% assign tableFile = site.data[tableFileParam] %}
 
 <p>{{tableItems}}</p>
+<p>{{tableFileParam}}</p>
+<p>{{tableFile}}</p>
 
 <table class="grid" style="width: 100%">
     <colgroup>
