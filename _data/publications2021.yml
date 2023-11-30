@@ -1,0 +1,34 @@
+PhysMeas:
+  title: <b>An unsupervised automated paradigm for artifact removal from electrodermal activity in an uncontrolled clinical setting</b>
+  authors: "S Subramanian, B Tseng, R Barbieri, EN Brown"
+  journal: <i>Physiological Measurement</i>
+  year: "2022"
+  link: <a href="https://doi.org/10.1088/1361-6579/ac92bd">Link</a>
+  image: <img src="/assets/img/PhysMeas_2022.jpg">
+
+
+Review:
+  title: <b>How Machine Learning is Powering Neuroimaging to Improve Brain Health</b>
+  authors: "NM Singh, JB Harrod, S Subramanian, M Robinson, K Chang, S Cetin-Karayumak, A Vasile Dalca, S Eickhoff, M Fox, L Franke, P Golland, D Haehn, J Eugenio Iglesias, LJ O’Donnell, Y Ou, Y Rathi, SH Siddiqi, H Sun, MB Westover, S Whitfield-Gabrieli, RL Gollub"
+  journal: <i>Neuroinformatics</i>
+  year: "2022"
+  link: <a href="https://doi-org10.1007/s12021-022-09572-9">Link</a>
+  image: <img src="/assets/img/Review_2022.jpg">
+
+
+EMBC_2022_1:
+  title: <b>Automated classification of sleep and wake from single day triaxial accelerometer data</b>
+  authors: "S Subramanian, TP Coleman"
+  journal: <i>Proc IEEE Eng in Med & Biol</i>
+  year: "2022"
+  link: <a href="https://doi.org/10.1109/EMBC48229.2022.9871823">Link</a>
+  image: <img src="/assets/img/EMBC_1_2022.jpg">
+
+
+EMBC_2022_2:
+  title: <b>Tonic Electrodermal Activity is a Robust Marker of Psychological and Physiological Changes during Induction of Anesthesia</b>
+  authors: "B Tseng, S Subramanian, R Barbieri, EN Brown"
+  journal: <i>Proc IEEE Eng in Med & Biol</i>
+  year: "2022"
+  link: <a href="https://doi.org/10.1109/EMBC48229.2022.9871080">Link</a>
+  image: <img src="/assets/img/EMBC_2_2022.jpg">
