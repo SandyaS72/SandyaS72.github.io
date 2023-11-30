@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-<p style="text-align: center;">[Google Scholar](https://scholar.google.com/citations?user=ihRIXQUAAAAJ&hl=en&oi=ao)</p>
+<p style="text-align: center;"><a href="https://scholar.google.com/citations?user=ihRIXQUAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
 
 ## 2023  
 {% include publications-format.md items="DataSci_SS, DataSci_BR, BSN, TBME, EMBC" file="publications2023" caption="2023 publications" %}
