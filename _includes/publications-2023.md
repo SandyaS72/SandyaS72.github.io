@@ -13,7 +13,7 @@
           <td>....</td>
           <td>{{ tableFile[entry].title }}<br/>
               {{ tableFile[entry].authors }}<br/>
-              {{tableFile[entry].journal}} {{tableFile[entry].year}}</td>
+              {{tableFile[entry].journal}} {{tableFile[entry].year}} {{tableFile[entry].link}}</td>
         </tr>
     {% endfor %}
     </tbody>
