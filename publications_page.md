@@ -21,6 +21,7 @@ title: Publications
 {% include publications-format.md items="MMGA_2019, PNAS_2019, EMBC_2019_1, EMBC_2019_2" file="publications2019" caption="2019 publications" %}
 
 ## 2018
+{% include publications-format.md items="Network_2018, CinC_2018, EMBC_2018" file="publications2018" caption="2018 publications" %}
 
 ## 2017
 
