@@ -24,6 +24,7 @@ title: Publications
 {% include publications-format.md items="Network_2018, CinC_2018, EMBC_2018" file="publications2018" caption="2018 publications" %}
 
 ## 2017
+{% include publications-format.md items="SciRep_2017" file="publications2017" caption="2017 publications" %}
 
 ## 2016
 
