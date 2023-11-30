@@ -9,3 +9,4 @@ title: Publications
 {% include publications-format.md items="DataSci, TBME, EMBC" file="publications2023" caption="2023 publications" %}
 
 ## 2022
+{% include publications-format.md items="DataSci, TBME, EMBC" file="publications2022" caption="2022 publications" %}
