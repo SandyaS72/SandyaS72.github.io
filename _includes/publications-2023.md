@@ -13,7 +13,8 @@
           <td>{{ tableFile[entry].image }}</td>
           <td>{{ tableFile[entry].title }}<br/>
               {{ tableFile[entry].authors }}<br/>
-              {{tableFile[entry].journal}} {{tableFile[entry].year}} {{tableFile[entry].link}}</td>
+              {{tableFile[entry].journal}} {{tableFile[entry].year}} 
+              {% if tableFile[entry].link != empty %}{{ tableFile[entry].link }}{% endif %}</td>
         </tr>
     {% endfor %}
     </tbody>
