@@ -12,7 +12,8 @@
         <tr>
           <td>....</td>
           <td>{{ tableFile[entry].title }}<br/>
-              {{ tableFile[entry].authors }}{{tableFile[entry].journal}}</td>
+              {{ tableFile[entry].authors }}<br/>
+              {{tableFile[entry].journal}}</td>
         </tr>
     {% endfor %}
     </tbody>
