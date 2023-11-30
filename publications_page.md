@@ -30,3 +30,4 @@ title: Publications
 {% include publications-format.md items="EMBC_2016, CISS_2016" file="publications2016" caption="2016 publications" %}
 
 ## 2014
+{% include publications-format.md items="EMBC_2014" file="publications2014" caption="2014 publications" %}
