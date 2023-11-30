@@ -23,3 +23,12 @@ PLOSCompBio_2021:
   year: "2021"
   link: <a href="https://doi.org/10.1371/journal.pcbi.1009099">Link</a>
   image: <img src="/assets/img/PhysMeas_2022.jpg">
+
+
+EMBC_2021:
+  title: <b>Unsupervised Machine Learning Methods for Artifact Removal in Electrodermal Activity</b>
+  authors: "S Subramanian, B Tseng, R Barbieri, EN Brown"
+  journal: <i>Proc IEEE Eng in Med & Biol</i>
+  year: "2021"
+  link: <a href="https://doi.org/10.1109/EMBC46164.2021.9630535">Link</a>
+  image: <img src="/assets/img/PhysMeas_2022.jpg">
