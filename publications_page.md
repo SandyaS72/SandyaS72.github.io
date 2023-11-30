@@ -18,4 +18,4 @@ title: Publications
 {% include publications-format.md items="PNAS_2020, CinC_2020, EMBC_2020, ESGCO_2020" file="publications2020" caption="2020 publications" %}
 
 ## 2019
-{% include publications-format.md items="MMGA_2019, PNAS_2019, EMBC_2019_1, ESGCO_2019_2" file="publications2019" caption="2019 publications" %}
+{% include publications-format.md items="MMGA_2019, PNAS_2019, EMBC_2019_1, EMBC_2019_2" file="publications2019" caption="2019 publications" %}
