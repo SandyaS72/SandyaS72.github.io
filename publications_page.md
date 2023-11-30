@@ -19,3 +19,11 @@ title: Publications
 
 ## 2019
 {% include publications-format.md items="MMGA_2019, PNAS_2019, EMBC_2019_1, EMBC_2019_2" file="publications2019" caption="2019 publications" %}
+
+## 2018
+
+## 2017
+
+## 2016
+
+## 2014
