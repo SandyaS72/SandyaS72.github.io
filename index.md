@@ -7,7 +7,7 @@ subtitle: Subramanian Lab at UC Berkeley & UCSF
 {: .box-landingpage1}
 <center><h3>Welcome to the Systemic Autonomic Neuro Dynamics (SAND) Lab!</h3></center>  
 
-**Coming Fall 2024**
+<center><b>Coming Fall 2024!</b></center>
 
 <h4>About us</h4>
 
@@ -15,8 +15,7 @@ subtitle: Subramanian Lab at UC Berkeley & UCSF
   
 <center>We are <b>uniquely positioned</b> as dual citizens of two world-class institutions, <b>UC Berkeley and UCSF</b>, as part of the Computational Precision Health division.</center>
 
-{: .box-landingpage2}
-<center><h4>Our values</h4></center> 
+<h4>Our values</h4>
 
 
 
