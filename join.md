@@ -21,3 +21,7 @@ please reach out by emailing **sandyas AT berkeley DOT edu**!\
 We're looking for students (graduate, undergraduate, masters) and post-baccalaureate research assistants!\
 \
 If you are applying to the [UCSF-UC Berkeley Computational Precision Health Ph.D. program](https://computationalhealth.berkeley.edu/) and are interested in rotating with us, please reach out!
+
+You can check out our lab expectations document here: 
+<center><button class="button" onclick="window.location.href='https://sandyas72.github.io/research';"><b>Lab expectations</b></button></center>
+
