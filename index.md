@@ -22,7 +22,7 @@ Learn more about our research, publications, and our principal investigator here
 <h3>Our values</h3>
 We strongly believe that the most innovative and cutting-edge solutions are reached when people from diverse backgrounds and experiences work as a team, also reflected in our interdisciplinarity. We are committed to building a supportive and inclusive environment that welcomes individuals from all backgrounds. It is important to us that all trainees receive high-quality mentorship and support and are empowered to define and reach their career goals. 
 
-We are currently recruiting!
+<b>We are currently recruiting!</b>
 
 <center><button class="button" onclick="window.location.href='https://sandyas72.github.io/research';"><b>Lab expectations</b></button>    <button class="button" onclick="window.location.href='https://sandyas72.github.io/join';"><b>Join us!</b></button></center>
 
