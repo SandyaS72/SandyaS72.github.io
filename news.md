@@ -10,7 +10,7 @@ Our IEEE TBME 2023 paper on 24-hour monitoring of patients with gastroparesis ha
 
 <img src="/assets/img/TBME_featured_thumbnail.jpg"
 srcset="/assets/img/TBME_featured_thumbnail.jpg 789w"
-sizes="(min-width: 1501px) calc(20vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(30vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(50vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(70vw - 20px)",
+sizes="(min-width: 1501px) calc(20vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(30vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(50vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(70vw - 20px)"
 alt="TBME featured article thumbnail">
 
 ### Oct 2023
