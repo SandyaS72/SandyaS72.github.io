@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: SANDLab
 subtitle: Subramanian Lab at UC Berkeley & UCSF
 ---
