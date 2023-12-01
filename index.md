@@ -9,13 +9,13 @@ subtitle: Subramanian Lab at UC Berkeley & UCSF
 
 <center><b>Coming Fall 2024!</b></center>
 
-<h4>About us</h4>
+<h3>About us</h3>
 
 <center>Our team provides a <b>unique interdiciplinary environment</b> bridging computation, engineering, and physiology to understand disease and build precision diagnostic and therapeutic solutions. To do this, we harness the most primitive connection between the brain and the body: <b>the autonomic nervous system</b>.</center>  
   
 <center>We are <b>uniquely positioned</b> as dual citizens of two world-class institutions, <b>UC Berkeley and UCSF</b>, as part of the Computational Precision Health division.</center>
 
-<h4>Our values</h4>
+<h3>Our values</h3>
 
 
 
