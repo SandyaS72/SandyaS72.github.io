@@ -19,6 +19,7 @@ Learn more about our research, publications, and our principal investigator here
 
 <center><button class="button" onclick="window.location.href='https://sandyas72.github.io/sandya';"><b>Prof. Subramanian</b></button>   <button class="button" onclick="window.location.href='https://sandyas72.github.io/research';"><b>Our research</b></button>   <button class="button" onclick="window.location.href='https://sandyas72.github.io/publications_page';"><b>Our publications</b></button></center>
 
+
 <h3>Our values</h3>
 We strongly believe that the most innovative and cutting-edge solutions are reached when people from diverse backgrounds and experiences work as a team, also reflected in our interdisciplinarity. We are committed to building a supportive and inclusive environment that welcomes individuals from all backgrounds. It is important to us that all trainees receive high-quality mentorship and support and are empowered to define and reach their career goals. 
 
@@ -27,3 +28,8 @@ We strongly believe that the most innovative and cutting-edge solutions are reac
 <center><button class="button" onclick="window.location.href='https://sandyas72.github.io/research';"><b>Lab expectations</b></button>    <button class="button" onclick="window.location.href='https://sandyas72.github.io/join';"><b>Join us!</b></button></center>
 
 
+<h3>News from the lab</h3>
+
+Our recent IEEE TBME paper was chosen as a Featured Article for this month! Check out more lab news here!
+
+<center><button class="button" onclick="window.location.href='https://sandyas72.github.io/news';"><b>News from the lab</b></button></center>
