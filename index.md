@@ -17,7 +17,7 @@ We are <b>uniquely positioned</b> as dual citizens of two world-class institutio
 
 Learn more about our research and our principal investigator here!
 
-<center><button class="button" onclick="window.location.href='https://sandyas72.github.io/research';"><b>Our research</b></button><button class="button" onclick="window.location.href='https://sandyas72.github.io/sandya';"><b>Our PI</b></button></center>
+<center><button class="button" onclick="window.location.href='https://sandyas72.github.io/research';"><b>Our research</b></button>                                   <button class="button" onclick="window.location.href='https://sandyas72.github.io/sandya';"><b>Prof. Subramanian</b></button></center>
 
 <h3>Our values</h3>
 
