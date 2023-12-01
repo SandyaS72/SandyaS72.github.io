@@ -25,4 +25,4 @@ We strongly believe that the most innovative and cutting-edge solutions are reac
 
 <b>We are currently recruiting!</b>
 
-<center><button class="button" onclick="window.location.href='https://sandyas72.github.io/research';"><b>Lab expectations</b></button>    <button class="button" onclick="window.location.href='https://sandyas72.github.io/join';"><b>Join us!</b></button></center>
+<center><button class="button" onclick="window.location.href='https://docs.google.com/document/d/18HSRw8P7dqVkpWCDEW89U1pUrczRmdDNJ0QUJZUHaIk/edit?usp=sharing';"><b>Lab expectations</b></button>    <button class="button" onclick="window.location.href='https://sandyas72.github.io/join';"><b>Join us!</b></button></center>
