@@ -15,9 +15,9 @@ Our team provides a <b>unique interdiciplinary environment</b> bridging computat
   
 We are <b>uniquely positioned</b> as dual citizens of two world-class institutions, <b>UC Berkeley and UCSF</b>, as part of the <b>Computational Precision Health</b> division.
 
-Learn more about our research, publications, and our principal investigator here!
+Learn more about our lab here!
 
-<center><button class="button" onclick="window.location.href='https://sandyas72.github.io/sandya';"><b>Prof. Subramanian</b></button>   <button class="button" onclick="window.location.href='https://sandyas72.github.io/research';"><b>Our research</b></button>   <button class="button" onclick="window.location.href='https://sandyas72.github.io/publications_page';"><b>Our publications</b></button></center>
+<center><button class="button" onclick="window.location.href='https://sandyas72.github.io/sandya';"><b>Prof. Subramanian</b></button>   <button class="button" onclick="window.location.href='https://sandyas72.github.io/research';"><b>Our research</b></button>   <button class="button" onclick="window.location.href='https://sandyas72.github.io/publications_page';"><b>Our publications</b></button>   <button class="button" onclick="window.location.href='https://sandyas72.github.io/news';"><b>Lab news</b></button></center>
 
 
 <h3>Our values</h3>
@@ -26,10 +26,3 @@ We strongly believe that the most innovative and cutting-edge solutions are reac
 <b>We are currently recruiting!</b>
 
 <center><button class="button" onclick="window.location.href='https://sandyas72.github.io/research';"><b>Lab expectations</b></button>    <button class="button" onclick="window.location.href='https://sandyas72.github.io/join';"><b>Join us!</b></button></center>
-
-
-<h3>News from the lab</h3>
-
-Our recent IEEE TBME paper was chosen as a Featured Article for this month! Check out more lab news here!
-
-<center><button class="button" onclick="window.location.href='https://sandyas72.github.io/news';"><b>News from the lab</b></button></center>
