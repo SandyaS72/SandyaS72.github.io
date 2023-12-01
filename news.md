@@ -9,8 +9,8 @@ subtitle: Recent lab happenings
 Our IEEE TBME 2023 paper on 24-hour monitoring of patients with gastroparesis has been selected as a [Featured Article](https://www.embs.org/tbme/articles/exploring-the-gut-brain-connection-in-gastroparesis-with-autonomic-and-gastric-myoelectric-monitoring/) for this month!
 
 <img src="/assets/img/TBME_featured_thumbnail.jpg"
-srcset="/assets/img/TBME_featured_thumbnail.jpg 2098w"
-sizes="80vw"
+srcset="/assets/img/TBME_featured_thumbnail.jpg 789w"
+sizes="90vw"
 alt="TBME featured article thumbnail">
 
 ### Oct 2023
