@@ -947,7 +947,8 @@ pre {
 
 .button {
   border: none;
-  color: #b8e3e8;
+  background-color: #04AA6D;
+  color: white;
   padding: 15px 32px;
   border-radius: 10px;
   text-align: center;
