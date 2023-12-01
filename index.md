@@ -10,7 +10,7 @@ subtitle: Subramanian Lab at UC Berkeley & UCSF
 <center>Our team provides a <b>unique interdiciplinary environment</b> bridging computation, engineering, and physiology to understand disease and build personalized diagnostic and therapeutic solutions.</center>
 
 {: .box-landingpage2}
-<center><b></b>To do this, we harness the most primitive connection between the brain and the body, the autonomic nervous system</b>.</center> 
+<center><b>To do this, we harness the most primitive connection between the brain and the body, the autonomic nervous system</b>.</center> 
 
 
 
