@@ -15,7 +15,7 @@ Our team provides a <b>unique interdiciplinary environment</b> bridging computat
   
 We are <b>uniquely positioned</b> as dual citizens of two world-class institutions, <b>UC Berkeley and UCSF</b>, as part of the <b>Computational Precision Health</b> division.
 
-<button onclick="window.location.href='https://sandyas72.github.io/research';">Our research</button>
+<button class="button" onclick="window.location.href='https://sandyas72.github.io/research';">Our research</button>
 
 <h3>Our values</h3>
 
