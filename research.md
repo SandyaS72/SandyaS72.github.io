@@ -61,7 +61,7 @@ There are a number of clinical settings in which having more and higher quality 
 <img src="/assets/img/ANS_network.jpg"
 style="float: left; margin-right: 1em;"
 srcset="/assets/img/ANS_network.jpg 502w"
-sizes="(min-width: 1501px) calc(9vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(20vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(36vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(46vw - 20px), 150px"
+sizes="(min-width: 1501px) calc(9vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(21vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(36vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(46vw - 20px), 150px"
 alt="ANS network">
 
 At the core of all of these exciting new applications is the development of new methods and computational models that allow us to capture and quantify the relevant underlying physiology, such as how the ANS acts as a network. We aim to build physiologically and statistically rigorous models that are also interpretable for scientists and clinicians. One of our interests is embedding rich inductive biases drawn from physiological priors into computational models to enhance their performance even on small datasets. We are excited to explore new modalities of data and integrate them into our multi-sensor methods.
