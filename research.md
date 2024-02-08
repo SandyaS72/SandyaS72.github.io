@@ -64,7 +64,8 @@ srcset="/assets/img/ANS_network.jpg 502w"
 sizes="(min-width: 1501px) calc(7vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(18vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(35vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(45vw - 20px), 150px"
 alt="ANS network">
 
-At the core of all of these exciting new applications is the development of new methods and computational models that allow us to capture and quantify the relevant underlying physiology, such as how the ANS acts as a network. We aim to build physiologically and statistically rigorous models that are also interpretable for scientists and clinicians. We look forward to exploring new modalities of data and integrating them into our multimodal methods.
+At the core of all of these exciting new applications is the development of new methods and computational models that allow us to capture and quantify the relevant underlying physiology, such as how the ANS acts as a network. We aim to build physiologically and statistically rigorous models that are also interpretable for scientists and clinicians. One of our interests is embedding rich inductive biases drawn from physiological priors into computational models to enhance their performance even on small datasets. We are excited to explore new modalities of data and integrate them into our multi-sensor methods.
+ 
 
 **Examples of previous work:**
 - Quantifying the physiology of sweat gland activity from first principles and biophysics ([IEEE TBME 2021](https://doi.org/10.1109/TBME.2021.3071366), [PLoS Comp Bio 2021](https://doi.org/10.1371/journal.pcbi.1009099), [PNAS 2020](https://doi.org/10.1073/pnas.2004403117), [Proc IEEE EMBC 2019](https://doi.org/10.1109/EMBC.2019.8857757), [Proc IEEE EMBC 2018](https://doi.org/10.1109/EMBC.2018.8512211))
