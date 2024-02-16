@@ -4,6 +4,10 @@ title: News
 subtitle: Recent lab happenings
 ---
 
+### Feb 2024
+
+Sandya had the chance to sit down with Times Higher Education and talk about the impact of interdisciplinary science, particularly focusing on her postdoctoral work with chronic migraine! Link to the full article [here](https://www.timeshighereducation.com/campus/inside-datadriven-search-migraine-relief).
+
 ### Dec 2023
 
 Our IEEE TBME 2023 paper on 24-hour monitoring of patients with gastroparesis has been selected as a [Featured Article](https://www.embs.org/tbme/articles/exploring-the-gut-brain-connection-in-gastroparesis-with-autonomic-and-gastric-myoelectric-monitoring/) for this month!
