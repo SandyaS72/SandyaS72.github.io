@@ -3,7 +3,7 @@ DataSci_SS:
   authors: "S Subramanian, E Lannon, S Mackey"
   journal: <i>Proc IEEE EMBS Special Topic Conference on Data Science and Engineering in Healthcare, Medicine and Biology</i>
   year: "2023"
-  link: 
+  link: <a href="https://doi.org/10.1109/IEEECONF58974.2023.10404287">Link</a>
   image: <img src="/assets/img/DataSci_2023.jpg">
 
 
@@ -12,7 +12,7 @@ DataSci_BR:
   authors: "B Ramsundar, S Subramanian"
   journal: <i>Proc IEEE EMBS Special Topic Conference on Data Science and Engineering in Healthcare, Medicine and Biology</i>
   year: "2023"
-  link: 
+  link: <a href="https://doi.org/10.1109/IEEECONF58974.2023.10404544">Link</a>
   image: <img src="/assets/img/DataSci_BR_2023.jpg">
 
 
