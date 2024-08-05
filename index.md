@@ -9,9 +9,9 @@ subtitle: Subramanian Lab at UC Berkeley & UCSF
 
 <h3>About us</h3>
 
-Our team provides a <b>unique interdiciplinary environment</b> bridging computation, engineering, and physiology to understand disease and build precision diagnostic and therapeutic solutions. To do this, we harness the most primitive connection between the brain and the body: <b>the autonomic nervous system</b>.  
+Our team provides a <b>unique interdiciplinary environment</b> bridging computation, engineering, and physiology to understand disease and build precision diagnostic and therapeutic solutions. Specifically, we aim to capture valuable information from the human body that is currently inaccessible to the healthcare system.  
   
-We are <b>uniquely positioned</b> as dual citizens of two world-class institutions, <b>UC Berkeley and UCSF</b>, as part of the <b>Computational Precision Health</b> division.
+We are <b>uniquely positioned</b> as dual citizens of two world-class institutions, <b>UC Berkeley and UCSF</b>, as part of the <b>Computational Precision Health</b> program.
 
 Learn more about our lab here!
 
