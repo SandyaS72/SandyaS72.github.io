@@ -4,6 +4,11 @@ title: News
 subtitle: Recent lab happenings
 ---
 
+### Jul 2024
+
+SANDlab is officially here!
+
+
 ### Feb 2024
 
 Sandya had the chance to sit down with Times Higher Education and talk about the impact of interdisciplinary science, particularly focusing on her postdoctoral work with chronic migraine! Link to the full article [here](https://www.timeshighereducation.com/campus/inside-datadriven-search-migraine-relief).
