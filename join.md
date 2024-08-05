@@ -24,4 +24,3 @@ If you are applying to the [UCSF-UC Berkeley Computational Precision Health Ph.D
 
 You can check out our lab expectations here: 
 <center><button class="button" onclick="window.location.href='https://docs.google.com/document/d/18HSRw8P7dqVkpWCDEW89U1pUrczRmdDNJ0QUJZUHaIk/edit?usp=sharing';"><b>Lab expectations</b></button></center>
-
