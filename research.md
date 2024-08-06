@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-subtitle: Capturing valuable information from the human body to improve healthcare
+subtitle: Making valuable information from the human body accessible to healthcare
 ---
 
 ### The Autonomic Nervous System
