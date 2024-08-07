@@ -46,13 +46,13 @@ We take a highly interdisciplinary approach to address the main areas of need: n
 
 #### Clinically immersive data collection and system prototyping
 <img src="/assets/img/wearables.jpg"
-style="float: left; margin-right: 1em;"
+style="float: right; margin-left: 1em;"
 srcset="/assets/img/wearables.jpg 970w"
 sizes="(min-width: 1501px) calc(7vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(11vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(30vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(37vw - 20px), 150px"
 alt="wearables">
 
 <img src="/assets/img/OR_elayne.jpg"
-style="float: right; margin-left: 1em;"
+style="float: left; margin-right: 1em;"
 srcset="/assets/img/OR_elayne.jpg 1512w"
 sizes="(min-width: 1501px) calc(11vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(16vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(30vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(40vw - 20px), 150px"
 alt="picture in the OR">
