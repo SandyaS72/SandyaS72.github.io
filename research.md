@@ -15,8 +15,11 @@ The key questions we work on in the lab are:
 The vast majority of patients spend a relatively small fraction of their total time in a clinic. Most of our time is spent on the rest of life, which includes factors like diet and sleep that play a huge role in our health, but remain mostly out of the purview of the current healthcare system.
 
 This excludes a lot of valuable information. What about....
+
 ...everything we experience outside of the clinic?
+
 ...situatiions where patients cannot speak for themselves? 
+
 ...information that is outside of our conscious awareness and control?
 
 We seek to address this challenge in the SANDlab.
@@ -24,6 +27,7 @@ We seek to address this challenge in the SANDlab.
 #### The Autonomic Nervous System 
 
 One key to addressing these challenges is the autonomic nervous system. The autonomic nervous system controls everything in our body we don’t consciously think about – from heartbeats and breathing to digestion, sweating, and hormone production, to name a few. You might have heard of the “fight or flight” reflex – the autonomic nervous system controls that. Tapping into the autonomic nervous system address all of the categories of missing information I just mentioned. It’s working around the clock 24/7 as long as a person is alive to control all of our basic functions, and advances in wearable sensing over the last decade allow us a window into it that we didn’t have before. 
+
 ![image](https://github.com/user-attachments/assets/7e9a8b83-f258-4451-a84d-ad2af9f078c5)
  
 
