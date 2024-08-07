@@ -30,7 +30,7 @@ We seek to address this challenge in the SANDlab.
 #### The Autonomic Nervous System 
 
 <img src="/assets/img/ANS_overview.jpg"
-style="float: left; margin-right: 2em;"
+style="float: right; margin-left: 2em;"
 srcset="/assets/img/ANS_overview.jpg 1083w"
 sizes="(min-width: 1501px) calc(10vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(20vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(30vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(45vw - 20px), 150px"
 alt="Autonomic nervous system">
