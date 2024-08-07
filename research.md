@@ -55,7 +55,7 @@ srcset="/assets/img/OR_elayne.jpg 1512w"
 sizes="(min-width: 1501px) calc(11vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(16vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(30vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(40vw - 20px), 150px"
 alt="picture in the OR">
 
-We collect our own data through running human studies with healthy volunteers and patient populations, both in clinical settings and at home. Each of these data collection scenarios presents unique challenges that require creative solutions from the hardware standpoint. Our goal is to balance (1) the need for high-quality clinical-grade data with (2) time and resource constraints of busy clinics and clinicians and (3) usability and convenience for the patient.  
+We collect our own data by running human studies with healthy volunteers and patient populations, both in clinical settings and at home. Each of these data collection scenarios presents unique challenges that require creative solutions from the hardware standpoint. Our goal is to balance (1) the need for high-quality clinical-grade data with (2) time and resource constraints of busy clinics and clinicians and (3) usability and convenience for the patient.  
 
 **Previous studies:**
 - Modulation of autonomic activity in a controlled setting in healthy volunteers
