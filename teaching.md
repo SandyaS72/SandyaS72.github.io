@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-subtitle: Stay tuned for updates in Spring 2024!
+subtitle: Updated for Fall 2024
 ---
 
 <h3>Fall 2024</h3> 
