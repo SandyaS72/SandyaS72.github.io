@@ -42,34 +42,29 @@ One answer to addressing these challenges is taking advantange of the autonomic 
 
 ### Our Interdisciplinary Approach
 
-We believe that monitoring and modeling the ANS can have a huge impact on patient care across a wide array of applications, from shedding light on underlying physiology to providing clinical decision support tools based on an individual's physiology to personalized advance prediction and closed-loop therapeutic delivery algorithms. We aim to work along all points of this continuum. We also take a unique approach to interdisciplinary research in that we run our own clinical studies to collect data from patients. Below are a few examples of the directions we aim to pursue, illustrating the range of applications and impacts. 
+We take a highly interdisciplinary approach to address the main areas of need: new modalities of information, new models and methods, and new applications. Our work falls into three parallel and synergistic lines of inquiry: clinically immersive data collection and system prototyping, algorithm development, and physiologic modeling. 
 
-<img src="/assets/img/continuum.jpg"
-srcset="/assets/img/continuum.jpg 3774w"
-sizes="(min-width: 1501px) calc(90vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(95vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(95vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(100vw - 20px), 150px"
-alt="Impact continuum">
-
-#### Clinically immersive data collection and device engineering
-
+#### Clinically immersive data collection and system prototyping
 <img src="/assets/img/wearables.jpg"
 style="float: left; margin-right: 1em;"
 srcset="/assets/img/wearables.jpg 970w"
 sizes="(min-width: 1501px) calc(7vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(11vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(30vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(37vw - 20px), 150px"
 alt="wearables">
 
-There is only so much we can learn from data we can only collect in the clinic. The majority of life and disease happens outside of that. We believe that monitoring the ANS at home in patients with various chronic or complex diseases using non-invasive wearables and sensors can shed light on nuances of their individual physiology, help us monitor their disease progression, and personalize their treatment strategy. Eventually, we envision the possibility of individualized prediction and closed-loop control algorithms for therapeutic delivery. We are excited to explore new sensors, modalities of data, methods, and disease areas in the future! 
-
-**Examples of previous work:**
-- Tracking 24-hour autonomic activity in different types of gastroparesis ([IEEE TBME 2023](https://doi.org/10.1109/TBME.2023.3285491), [Proc IEEE EMBC 2023](https://arinex.com.au/EMBC/pdf/full-paper_709.pdf))
-- Tracking multi-day autonomic activity in chronic migraine (ongoing)
-
-#### Algorithm development
-
 <img src="/assets/img/OR_elayne.jpg"
 style="float: right; margin-left: 1em;"
 srcset="/assets/img/OR_elayne.jpg 1512w"
 sizes="(min-width: 1501px) calc(11vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(16vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(30vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(40vw - 20px), 150px"
 alt="picture in the OR">
+
+We collect our own data through running human studies with healthy volunteers and patient populations, both in clinical settings and at home. Each of these data collection scenarios presents unique challenges that require creative solutions from the hardware standpoint. Our goal is to balance (1) the need for high-quality clinical-grade data with (2) time and resource constraints of busy clinics and clinicians and (3) usability and convenience for the patient.  
+
+**Previous studies:**
+- Modulation of autonomic activity in a controlled setting in healthy volunteers
+- Monitoring multi-sensor activity in patients undergoing surgery while under anesthesia
+- Tracking 24-72 hours of multi-sensor autonomic activity at home in healthy volunteers and patients with chronic migraine
+
+#### Algorithm development
 
 There are a number of clinical settings in which having more and higher quality information can help clinicians make better informed and more timely decisions about a patient in a high acuity condition. The ANS plays a unique role in such conditions as the controller of our most basic life-preserving functions and reflexes. We believe it may be the key to understanding new disease physiology and capturing a detailed picture of what is happening in a patient. We want to explore new clinical areas of application and understand how the ANS communicates with the central nervous system as well!
 
@@ -90,6 +85,7 @@ At the core of all of these exciting new applications is the development of new 
  
 **Examples of previous work:**
 - Using autonomic responses to monitor general anesthesia ([PLoS ONE 2021](https://doi.org/10.1371/journal.pone.0254053), [Proc IEEE EMBC 2022](https://doi.org/10.1109/EMBC48229.2022.9871080), [Proc IEEE EMBC 2020](https://doi.org/10.1109/EMBC44109.2020.9175366), [Proc IEEE ESGCO 2020](https://doi.org/10.1109/ESGCO49734.2020.9158139), [Proc CinC 2020](https://doi.org/10.22489/CinC.2020.290))
+- Tracking 24-hour autonomic activity at home in different types of gastroparesis ([IEEE TBME 2023](https://doi.org/10.1109/TBME.2023.3285491), [Proc IEEE EMBC 2023](https://arinex.com.au/EMBC/pdf/full-paper_709.pdf))
 - EEG-based patient stratification in chronic pain (In press)
 - Tracking unconscious pain during surgery (In press)
 
