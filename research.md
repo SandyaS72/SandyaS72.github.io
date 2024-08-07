@@ -14,7 +14,7 @@ The key questions we work on in the lab are:
 
 <img src="/assets/img/wordcloud.jpg"
  style="float: right; margin-left: 2em;"
-srcset="/assets/img/wordcloud.jpg 2098w"
+srcset="/assets/img/life_pie_chart.png 2098w"
 sizes="(min-width: 1501px) calc(23vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(33vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(65vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(80vw - 20px), 150px"
 alt="Autonomic nervous system word cloud">
 
