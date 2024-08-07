@@ -12,11 +12,11 @@ The key questions we work on in the lab are:
 
 ### The Problem
 
-<img src="/assets/img/wordcloud.jpg"
+<img src="/assets/img/life_pie_chart.png"
  style="float: right; margin-left: 2em;"
 srcset="/assets/img/life_pie_chart.png 2098w"
 sizes="(min-width: 1501px) calc(23vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(33vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(65vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(80vw - 20px), 150px"
-alt="Autonomic nervous system word cloud">
+alt="Life pie chart">
 
 The vast majority of patients spend a relatively small fraction of their total time in a clinic. Most of our time is spent on the rest of life, which includes factors like diet and sleep that play a huge role in our health, but remain mostly out of the purview of the current healthcare system.
 
