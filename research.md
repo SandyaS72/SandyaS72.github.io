@@ -35,7 +35,10 @@ srcset="/assets/img/ANS_overview.jpg 1083w"
 sizes="(min-width: 1501px) calc(10vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(20vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(30vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(45vw - 20px), 150px"
 alt="Autonomic nervous system">
 
-One answer to addressing these challenges is taking advantange of the autonomic nervous system. The autonomic nervous system controls all of our unconscious function (e.g. heartbeats, breathing, digestion, sweating, hormone production, etc.) Advances in wearable sensing over the last decade allow us to track it in ways we could not before. This means it can be monitored outside of the clinic, even when people are unconscious or incapacitated, and exclusively covers functions out of our conscious awareness, addressing all of the categories of missing information from the previous section. 
+One answer to addressing these challenges is taking advantange of the autonomic nervous system. The autonomic nervous system controls all of our unconscious function (e.g. heartbeats, breathing, digestion, sweating, hormone production, etc.) Advances in wearable sensing over the last decade allow us to track it in ways we could not before. This means it can be monitored:
+- outside of the clinic
+- even when people are unconscious or incapacitated
+- to capture body function beyond conscious control
 
 ### Our Interdisciplinary Approach
 
