@@ -12,29 +12,30 @@ The key questions we work on in the lab are:
 
 ### The Problem
 
+<img src="/assets/img/wordcloud.jpg"
+ style="float: right; margin-left: 2em;"
+srcset="/assets/img/wordcloud.jpg 2098w"
+sizes="(min-width: 1501px) calc(23vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(33vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(65vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(80vw - 20px), 150px"
+alt="Autonomic nervous system word cloud">
+
 The vast majority of patients spend a relatively small fraction of their total time in a clinic. Most of our time is spent on the rest of life, which includes factors like diet and sleep that play a huge role in our health, but remain mostly out of the purview of the current healthcare system.
 
 This excludes a lot of valuable information. What about....
 - ... everything we experience outside of the clinic?
 - ... situations where patients cannot speak for themselves? 
-- ... information that is outside of our conscious awareness and control?
+- ... functions outside of our conscious awareness and control?
 
 We seek to address this challenge in the SANDlab.
 
 #### The Autonomic Nervous System 
 
-One key to addressing these challenges is the autonomic nervous system. The autonomic nervous system controls everything in our body we don’t consciously think about – from heartbeats and breathing to digestion, sweating, and hormone production, to name a few. You might have heard of the “fight or flight” reflex – the autonomic nervous system controls that. Tapping into the autonomic nervous system address all of the categories of missing information I just mentioned. It’s working around the clock 24/7 as long as a person is alive to control all of our basic functions, and advances in wearable sensing over the last decade allow us a window into it that we didn’t have before. 
-
 <img src="/assets/img/ANS_overview.jpg"
-style="float: right; margin-left: 2em;"
+style="float: left; margin-right: 2em;"
 srcset="/assets/img/ANS_overview.jpg 1083w"
 sizes="(min-width: 1501px) calc(10vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(20vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(30vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(45vw - 20px), 150px"
 alt="Autonomic nervous system">
 
-<img src="/assets/img/wordcloud.jpg"
-srcset="/assets/img/wordcloud.jpg 2098w"
-sizes="(min-width: 1501px) calc(23vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(33vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(65vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(80vw - 20px), 150px"
-alt="Autonomic nervous system word cloud">
+One answer to addressing these challenges is taking advantange of the autonomic nervous system. The autonomic nervous system controls all of our unconscious function (e.g. heartbeats, breathing, digestion, sweating, hormone production, etc.) Advances in wearable sensing over the last decade allow us to track it in ways we could not before. This means it can be monitored outside of the clinic, even when people are unconscious or incapacitated, and exclusively covers functions out of our conscious awareness, addressing all of the categories of missing information from the previous section. 
 
 ### Our Interdisciplinary Approach
 
@@ -70,8 +71,9 @@ alt="picture in the OR">
 There are a number of clinical settings in which having more and higher quality information can help clinicians make better informed and more timely decisions about a patient in a high acuity condition. The ANS plays a unique role in such conditions as the controller of our most basic life-preserving functions and reflexes. We believe it may be the key to understanding new disease physiology and capturing a detailed picture of what is happening in a patient. We want to explore new clinical areas of application and understand how the ANS communicates with the central nervous system as well!
 
 **Examples of previous work:**
-- Quantifying autonomic responses and unconscious pain under general anesthesia ([PLoS ONE 2021](https://doi.org/10.1371/journal.pone.0254053), [Proc IEEE EMBC 2022](https://doi.org/10.1109/EMBC48229.2022.9871080), [Proc IEEE EMBC 2020](https://doi.org/10.1109/EMBC44109.2020.9175366), [Proc IEEE ESGCO 2020](https://doi.org/10.1109/ESGCO49734.2020.9158139), [Proc CinC 2020](https://doi.org/10.22489/CinC.2020.290))
-- EEG-based patient stratification in chronic pain (In press)
+- Quantifying the physiology of sweat gland activity from first principles and biophysics ([IEEE TBME 2021](https://doi.org/10.1109/TBME.2021.3071366), [PLoS Comp Bio 2021](https://doi.org/10.1371/journal.pcbi.1009099), [PNAS 2020](https://doi.org/10.1073/pnas.2004403117), [Proc IEEE EMBC 2019](https://doi.org/10.1109/EMBC.2019.8857757), [Proc IEEE EMBC 2018](https://doi.org/10.1109/EMBC.2018.8512211))
+- Automatic artifact removal from electrodermal activity data in the operating room ([Phys Meas 2022](https://doi.org/10.1088/1361-6579/ac92bd), [Proc IEEE EMBC 2021](https://doi.org/10.1109/EMBC46164.2021.9630535))
+- Automated classification of sleep and wake from triaxial accelerometer data ([Proc IEEE EMBC 2022](https://doi.org/10.1109/EMBC48229.2022.9871823))
 
 #### Physiologic modeling
 
@@ -83,11 +85,10 @@ alt="ANS network">
 
 At the core of all of these exciting new applications is the development of new methods and computational models that allow us to capture and quantify the relevant underlying physiology, such as how the ANS acts as a network. We aim to build physiologically and statistically rigorous models that are also interpretable for scientists and clinicians. One of our interests is embedding rich inductive biases drawn from physiological priors into computational models to enhance their performance even on small datasets. We are excited to explore new modalities of data and integrate them into our multi-sensor methods.
  
-
 **Examples of previous work:**
-- Quantifying the physiology of sweat gland activity from first principles and biophysics ([IEEE TBME 2021](https://doi.org/10.1109/TBME.2021.3071366), [PLoS Comp Bio 2021](https://doi.org/10.1371/journal.pcbi.1009099), [PNAS 2020](https://doi.org/10.1073/pnas.2004403117), [Proc IEEE EMBC 2019](https://doi.org/10.1109/EMBC.2019.8857757), [Proc IEEE EMBC 2018](https://doi.org/10.1109/EMBC.2018.8512211))
-- Automatic artifact removal from electrodermal activity data in the operating room ([Phys Meas 2022](https://doi.org/10.1088/1361-6579/ac92bd), [Proc IEEE EMBC 2021](https://doi.org/10.1109/EMBC46164.2021.9630535))
-- Automated classification of sleep and wake from triaxial accelerometer data ([Proc IEEE EMBC 2022](https://doi.org/10.1109/EMBC48229.2022.9871823))
+- Using autonomic responses to monitor general anesthesia ([PLoS ONE 2021](https://doi.org/10.1371/journal.pone.0254053), [Proc IEEE EMBC 2022](https://doi.org/10.1109/EMBC48229.2022.9871080), [Proc IEEE EMBC 2020](https://doi.org/10.1109/EMBC44109.2020.9175366), [Proc IEEE ESGCO 2020](https://doi.org/10.1109/ESGCO49734.2020.9158139), [Proc CinC 2020](https://doi.org/10.22489/CinC.2020.290))
+- EEG-based patient stratification in chronic pain (In press)
+- Tracking unconscious pain during surgery (In press)
 
 
 
