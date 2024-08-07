@@ -64,7 +64,7 @@ We collect our own data through running human studies with healthy volunteers an
 
 #### Algorithm development
 
-There are a number of clinical settings in which having more and higher quality information can help clinicians make better informed and more timely decisions about a patient in a high acuity condition. The ANS plays a unique role in such conditions as the controller of our most basic life-preserving functions and reflexes. We believe it may be the key to understanding new disease physiology and capturing a detailed picture of what is happening in a patient. We want to explore new clinical areas of application and understand how the ANS communicates with the central nervous system as well!
+Collecting data in challenging real-world settings (in and out of the clinic) results in similarly challenging data. These data are noisy, filled with known and unknown artifacts, incomplete, and either lacking ground truth or labeled with annotations that are often inexact or even incorrect due to human error.  
 
 **Examples of previous work:**
 - Quantifying the physiology of sweat gland activity from first principles and biophysics ([IEEE TBME 2021](https://doi.org/10.1109/TBME.2021.3071366), [PLoS Comp Bio 2021](https://doi.org/10.1371/journal.pcbi.1009099), [PNAS 2020](https://doi.org/10.1073/pnas.2004403117), [Proc IEEE EMBC 2019](https://doi.org/10.1109/EMBC.2019.8857757), [Proc IEEE EMBC 2018](https://doi.org/10.1109/EMBC.2018.8512211))
