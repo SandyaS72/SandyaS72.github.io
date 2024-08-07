@@ -35,7 +35,7 @@ We seek to address this challenge in the SANDlab.
 
 #### The Autonomic Nervous System 
 
-One answer to addressing these challenges is taking advantange of the autonomic nervous system. The autonomic nervous system controls all of our unconscious function (e.g. heartbeats, breathing, digestion, sweating, hormone production, etc.) Advances in wearable sensing over the last decade allow us to track it in ways we could not before. This means it can be monitored:
+One answer to addressing these challenges is taking advantage of the autonomic nervous system. The autonomic nervous system controls all of our unconscious function (e.g. heartbeats, breathing, digestion, sweating, hormone production, etc.) Advances in wearable sensing over the last decade allow us to track it in ways we could not before. This means it can be monitored:
 - outside of the clinic
 - even when people are unconscious or incapacitated
 - to capture body function beyond conscious control
