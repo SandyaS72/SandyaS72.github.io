@@ -70,6 +70,7 @@ Collecting data in challenging real-world settings (in and out of the clinic) re
 - Quantifying the physiology of sweat gland activity from first principles and biophysics ([IEEE TBME 2021](https://doi.org/10.1109/TBME.2021.3071366), [PLoS Comp Bio 2021](https://doi.org/10.1371/journal.pcbi.1009099), [PNAS 2020](https://doi.org/10.1073/pnas.2004403117), [Proc IEEE EMBC 2019](https://doi.org/10.1109/EMBC.2019.8857757), [Proc IEEE EMBC 2018](https://doi.org/10.1109/EMBC.2018.8512211))
 - Automatic artifact removal from electrodermal activity data in the operating room ([Phys Meas 2022](https://doi.org/10.1088/1361-6579/ac92bd), [Proc IEEE EMBC 2021](https://doi.org/10.1109/EMBC46164.2021.9630535))
 - Automated classification of sleep and wake from triaxial accelerometer data ([Proc IEEE EMBC 2022](https://doi.org/10.1109/EMBC48229.2022.9871823))
+- Neural temporal point process methods for modeling heartbeat dynamics ([ICLR TS4H Workshop 2024](https://openreview.net/pdf?id=CRTVmL4VBv))
 
 #### Physiologic modeling
 
@@ -84,7 +85,7 @@ At the core of all of these exciting new applications is finding new and creativ
 **Examples of previous work:**
 - Using autonomic responses to monitor general anesthesia ([PLoS ONE 2021](https://doi.org/10.1371/journal.pone.0254053), [Proc IEEE EMBC 2022](https://doi.org/10.1109/EMBC48229.2022.9871080), [Proc IEEE EMBC 2020](https://doi.org/10.1109/EMBC44109.2020.9175366), [Proc IEEE ESGCO 2020](https://doi.org/10.1109/ESGCO49734.2020.9158139), [Proc CinC 2020](https://doi.org/10.22489/CinC.2020.290))
 - Tracking 24-hour autonomic activity at home in different types of gastroparesis ([IEEE TBME 2023](https://doi.org/10.1109/TBME.2023.3285491), [Proc IEEE EMBC 2023](https://arinex.com.au/EMBC/pdf/full-paper_709.pdf))
-- EEG-based patient stratification in chronic pain (In press)
+- EEG-based patient stratification in chronic pain ([Proc IEEE EMBS Data Sci](https://doi.org/10.1109/IEEECONF58974.2023.10404287))
 - Tracking unconscious pain during surgery (In press)
 
 
