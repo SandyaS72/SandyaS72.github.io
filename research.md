@@ -4,7 +4,7 @@ title: Research
 subtitle: Making valuable information from the human body accessible to healthcare
 ---
 
-The key questions we work on in the lab are: 
+The key research questions of the lab are: 
 
 1. How do we **engineer wearable sensor systems** for the real world?
 2. What **new machine learning/AI models** should we build to understand signals from the body?
