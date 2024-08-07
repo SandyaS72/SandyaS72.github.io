@@ -64,7 +64,7 @@ We collect our own data by running human studies with healthy volunteers and pat
 
 #### Algorithm development
 
-Collecting data in challenging real-world settings (in and out of the clinic) results in similarly challenging data. These data are noisy, filled with known and unknown artifacts, incomplete, and either lacking ground truth or labeled with annotations that are often inexact or even incorrect due to human error.  
+Collecting data in challenging real-world settings (in and out of the clinic) results in similarly challenging data. These data are noisy, filled with known and unknown artifacts, incomplete, and either lacking ground truth or labeled with annotations that are often inexact or even incorrect due to human error. Algorithm development, especially focused on robust, scalable automation without supervised (labeled datasets) is a major challenge. These methods must learn complex patterns that may be hard to see without losing physiologic integrity of the data (e.g. the point process nature of underlying signals). There are many opportunities to develop neural architectures and differentiable algorithms for biosignals for both single sensor and multimodal data.
 
 **Examples of previous work:**
 - Quantifying the physiology of sweat gland activity from first principles and biophysics ([IEEE TBME 2021](https://doi.org/10.1109/TBME.2021.3071366), [PLoS Comp Bio 2021](https://doi.org/10.1371/journal.pcbi.1009099), [PNAS 2020](https://doi.org/10.1073/pnas.2004403117), [Proc IEEE EMBC 2019](https://doi.org/10.1109/EMBC.2019.8857757), [Proc IEEE EMBC 2018](https://doi.org/10.1109/EMBC.2018.8512211))
