@@ -60,7 +60,7 @@ We collect our own data through running human studies with healthy volunteers an
 **Previous studies:**
 - Modulation of autonomic activity in a controlled setting in healthy volunteers
 - Monitoring multi-sensor activity in patients undergoing surgery while under anesthesia
-- Tracking 24-72 hours of multi-sensor autonomic activity at home in healthy volunteers and patients with chronic migraine
+- Tracking 24-72 hours of continuous multi-sensor autonomic activity at home in healthy volunteers and patients with chronic migraine
 
 #### Algorithm development
 
