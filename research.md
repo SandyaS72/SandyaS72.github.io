@@ -4,25 +4,41 @@ title: Research
 subtitle: Making valuable information from the human body accessible to healthcare
 ---
 
-### The Autonomic Nervous System
+The key questions we work on in the lab are: 
 
-<figure>
+1. How do we **engineer wearable sensor systems** for the real world?
+2. What **new machine learning/AI models** should we build to understand signals from the body?
+3. Where are the **untapped opportunities in clinical medicine** to better understand individual biology?
+
+### The Problem
+
+The vast majority of patients spend a relatively small fraction of their total time in a clinic. Most of our time is spent on the rest of life, which includes factors like diet and sleep that play a huge role in our health, but remain mostly out of the purview of the current healthcare system.
+
+This excludes a lot of valuable information. What about....
+...everything we experience outside of the clinic?
+...situatiions where patients cannot speak for themselves? 
+...information that is outside of our conscious awareness and control?
+
+We seek to address this challenge in the SANDlab.
+
+#### The Autonomic Nervous System 
+
+One key to addressing these challenges is the autonomic nervous system. The autonomic nervous system controls everything in our body we don’t consciously think about – from heartbeats and breathing to digestion, sweating, and hormone production, to name a few. You might have heard of the “fight or flight” reflex – the autonomic nervous system controls that. Tapping into the autonomic nervous system address all of the categories of missing information I just mentioned. It’s working around the clock 24/7 as long as a person is alive to control all of our basic functions, and advances in wearable sensing over the last decade allow us a window into it that we didn’t have before. 
+![image](https://github.com/user-attachments/assets/7e9a8b83-f258-4451-a84d-ad2af9f078c5)
+ 
+
 <img src="/assets/img/ANS_overview.jpg"
 style="float: right; margin-left: 2em;"
 srcset="/assets/img/ANS_overview.jpg 1083w"
 sizes="(min-width: 1501px) calc(10vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(20vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(30vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(45vw - 20px), 150px"
 alt="Autonomic nervous system">
-<figcaption>The autonomic nervous system</figcaption>
-</figure>
-
-Our lab focuses on understanding how the brain interacts with the rest of the body through the autonomic nervous system (ANS). As the body's hidden control system, the ANS is responsible for everything we do not consciously think about, from heartbeats to breathing to digestion to sweating and much more. Because of this, it plays a role in almost every normal and pathological function we have (see the word cloud below for some examples!). It also presents a very rich and understudied testbed to characterize how different parts of the body communicate with each other in health and disease, to track in detail how an individual's body functions, and to explore creative opportunities to intervene for both localized and global effects. 
 
 <img src="/assets/img/wordcloud.jpg"
 srcset="/assets/img/wordcloud.jpg 2098w"
 sizes="(min-width: 1501px) calc(23vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(33vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(65vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(80vw - 20px), 150px"
 alt="Autonomic nervous system word cloud">
 
-### Our Unique Approach
+### Our Interdisciplinary Approach
 
 We believe that monitoring and modeling the ANS can have a huge impact on patient care across a wide array of applications, from shedding light on underlying physiology to providing clinical decision support tools based on an individual's physiology to personalized advance prediction and closed-loop therapeutic delivery algorithms. We aim to work along all points of this continuum. We also take a unique approach to interdisciplinary research in that we run our own clinical studies to collect data from patients. Below are a few examples of the directions we aim to pursue, illustrating the range of applications and impacts. 
 
@@ -31,7 +47,7 @@ srcset="/assets/img/continuum.jpg 3774w"
 sizes="(min-width: 1501px) calc(90vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(95vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(95vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(100vw - 20px), 150px"
 alt="Impact continuum">
 
-#### At-home monitoring for personalized healthcare
+#### Clinically immersive data collection and device engineering
 
 <img src="/assets/img/wearables.jpg"
 style="float: left; margin-right: 1em;"
@@ -45,7 +61,7 @@ There is only so much we can learn from data we can only collect in the clinic. 
 - Tracking 24-hour autonomic activity in different types of gastroparesis ([IEEE TBME 2023](https://doi.org/10.1109/TBME.2023.3285491), [Proc IEEE EMBC 2023](https://arinex.com.au/EMBC/pdf/full-paper_709.pdf))
 - Tracking multi-day autonomic activity in chronic migraine (ongoing)
 
-#### Critical care and in-clinic decision support
+#### Algorithm development
 
 <img src="/assets/img/OR_elayne.jpg"
 style="float: right; margin-left: 1em;"
@@ -59,7 +75,7 @@ There are a number of clinical settings in which having more and higher quality 
 - Quantifying autonomic responses and unconscious pain under general anesthesia ([PLoS ONE 2021](https://doi.org/10.1371/journal.pone.0254053), [Proc IEEE EMBC 2022](https://doi.org/10.1109/EMBC48229.2022.9871080), [Proc IEEE EMBC 2020](https://doi.org/10.1109/EMBC44109.2020.9175366), [Proc IEEE ESGCO 2020](https://doi.org/10.1109/ESGCO49734.2020.9158139), [Proc CinC 2020](https://doi.org/10.22489/CinC.2020.290))
 - EEG-based patient stratification in chronic pain (In press)
 
-#### Methods/Model development to uncover new physiology
+#### Physiologic modeling
 
 <img src="/assets/img/ANS_network.jpg"
 style="float: left; margin-right: 1em;"
