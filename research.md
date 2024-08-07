@@ -8,7 +8,7 @@ The key research questions of the lab are:
 
 1. How do we **engineer wearable sensor systems** for the real world?
 2. What **new machine learning/AI models** should we build to understand signals from the body?
-3. Where are the **untapped opportunities in clinical medicine** to better understand individual biology?
+3. Where are the **untapped opportunities in clinical medicine** to better understand individual physiology?
 
 ### The Problem
 
