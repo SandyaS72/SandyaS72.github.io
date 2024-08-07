@@ -15,9 +15,9 @@ The key questions we work on in the lab are:
 The vast majority of patients spend a relatively small fraction of their total time in a clinic. Most of our time is spent on the rest of life, which includes factors like diet and sleep that play a huge role in our health, but remain mostly out of the purview of the current healthcare system.
 
 This excludes a lot of valuable information. What about....
-    ...everything we experience outside of the clinic?
-    ...situations where patients cannot speak for themselves? 
-    ...information that is outside of our conscious awareness and control?
+- ...everything we experience outside of the clinic?
+- ...situations where patients cannot speak for themselves? 
+- ...information that is outside of our conscious awareness and control?
 
 We seek to address this challenge in the SANDlab.
 
