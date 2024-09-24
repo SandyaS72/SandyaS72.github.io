@@ -6,7 +6,8 @@ subtitle: Recent lab happenings
 
 ### Sep 2024
 
-Sandya's final PhD work on tracking unconscious pain during surgery is published in [PNAS](https://www.pnas.org/doi/10.1073/pnas.2319316121)! This study is the result of over 7 years of work, including over 500 hours in the operating room, in a collaborative effort between MIT and MGH. 
+Sandya's final PhD work on tracking unconscious pain during surgery is published in [PNAS](https://www.pnas.org/doi/10.1073/pnas.2319316121)! This study is the result of over 7 years of work, including over 500 hours in the operating room, in a collaborative effort between MIT and MGH.
+Coverage: [MIT News](https://news.mit.edu/2024/research-quantifying-nociception-could-improve-management-surgical-pain-0924), [Picower Institute](https://picower.mit.edu/news/research-quantifying-nociception-could-help-improve-management-surgical-pain)
 
 
 Sandya was invited to give a talk at the UC Berkeley Biostat Graduate Seminar!
