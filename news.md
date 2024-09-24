@@ -4,6 +4,14 @@ title: News
 subtitle: Recent lab happenings
 ---
 
+### Sep 2024
+
+Sandya's final PhD work on tracking unconscious pain during surgery is published in [PNAS](https://www.pnas.org/doi/10.1073/pnas.2319316121)! This study is the result of over 7 years of work, including over 500 hours in the operating room, in a collaborative effort between MIT and MGH. 
+
+
+Sandya was invited to give a talk at the UC Berkeley Biostat Graduate Seminar!
+
+
 ### Jul 2024
 
 SANDlab is officially here!
