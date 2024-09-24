@@ -86,7 +86,7 @@ At the core of all of these exciting new applications is finding new and creativ
 - Using autonomic responses to monitor general anesthesia ([PLoS ONE 2021](https://doi.org/10.1371/journal.pone.0254053), [Proc IEEE EMBC 2022](https://doi.org/10.1109/EMBC48229.2022.9871080), [Proc IEEE EMBC 2020](https://doi.org/10.1109/EMBC44109.2020.9175366), [Proc IEEE ESGCO 2020](https://doi.org/10.1109/ESGCO49734.2020.9158139), [Proc CinC 2020](https://doi.org/10.22489/CinC.2020.290))
 - Tracking 24-hour autonomic activity at home in different types of gastroparesis ([IEEE TBME 2023](https://doi.org/10.1109/TBME.2023.3285491), [Proc IEEE EMBC 2023](https://arinex.com.au/EMBC/pdf/full-paper_709.pdf))
 - EEG-based patient stratification in chronic pain ([Proc IEEE EMBS Data Sci](https://doi.org/10.1109/IEEECONF58974.2023.10404287))
-- Tracking unconscious pain during surgery (In press)
+- Tracking unconscious pain during surgery ([PNAS](https://www.pnas.org/doi/10.1073/pnas.2319316121))
 
 
 
