@@ -13,3 +13,12 @@ EMBC:
   journal: <i>Proc IEEE Eng in Med & Biol</i>
   year: "2024"
   image: <img src="/assets/img/EMBC_2024.png">
+
+
+PNAS_2024:
+  title: <b>Monitoring Surgical Nociception Using Multimodal Physiologic Markers</b>
+  authors: "S Subramanian, B Tseng, M Del Carmen, AK Goodman, DM Dahl, R Barbieri, EN Brown"
+  journal: <i>PNAS</i>
+  year: "2024"
+  link: <a href="https://www.doi.org/10.1073/pnas.2319316121">Link</a>
+  image: <img src="/assets/img/PNAS_2024.jpg">
