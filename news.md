@@ -16,6 +16,7 @@ Sandya was invited to give a talk at the UC Berkeley Biostat Graduate Seminar!
 ### Jul 2024
 
 SANDlab is officially here!
+Coverage: [Berkeley CDSS](https://cdss.berkeley.edu/news/cdss-welcomes-seven-faculty-celebrates-two-new-college-chairs)
 
 
 ### Feb 2024
