@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lab Members
-subtitle: We're recruiting!
+subtitle: (Headshots coming soon!)
 ---
 
 
