@@ -8,6 +8,7 @@ subtitle: We're recruiting!
 ## Graduate Students ##
 
 **Belinda Chen**
+
 Belinda is a master’s student at UCSF in Health Data Science who recently obtained her B.S. in Chemical Biology and Data Science from UC Berkeley. Passionate about making chronic disease care personalized and accessible, her main research interests include model development for EEG and heart rate capture, medical devices, and medical image segmentation. Outside of research, you can find Belinda spiking volleyballs, playing video games, and exploring coffee shops. 
 
 
