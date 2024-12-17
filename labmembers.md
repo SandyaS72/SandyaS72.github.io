@@ -9,6 +9,8 @@ subtitle: (Headshots coming soon!)
 
 **Belinda Chen** is a master’s student at UCSF in Health Data Science who recently obtained her B.S. in Chemical Biology and Data Science from UC Berkeley. Passionate about making chronic disease care personalized and accessible, her main research interests include model development for EEG and heart rate capture, medical devices, and medical image segmentation. Outside of research, you can find Belinda spiking volleyballs, playing video games, and exploring coffee shops. 
 
+We're currently recruiting for the lab! If you are interested in [joining](https://sandyas72.github.io/join/), email Sandya at sandyas AT berkeley DOT edu! If you are a Ph.D. student applying to the CPH, BioE, or Biostat programs, you can list Sandya as faculty you are interested in!
+
 
 ## Undergraduate Students ##
 
@@ -27,7 +29,3 @@ subtitle: (Headshots coming soon!)
 **Sriram Gadepalli** is a second-year Integrative Biology major at UC Berkeley, researching Chronic Fatigue Syndrome (CFS)/Long COVID interactions as well as traumatic brain and spinal injuries. His work involves conducting literature reviews, identifying research gaps, assisting in grant writing and planning to collaborate with patients in clinical applications. Outside of the lab, Sriram enjoys listening to old rock music, swimming in the ocean, and imitating movie characters.
 
 **Wei Wang** is a third-year undergraduate majoring in Bioengineering. In SANDLab, Wei currently primarily works with prototyping sensors and learning more about their electronics. He is interested in the intersection of engineering and neuroscience, including fields such as neuromodulation or brain-machine interfaces. Pursuing a PhD, working in industry as an engineer, or going to medical school are all career choices of interest. As he decides between these options, he is most intent on acquiring applicable engineering skills through varied experiences. Outside of the lab, Wei can be found watching movies, doing a variety of physical activity, or cooking.
-
-
-
-We're currently recruiting for the lab! If you are interested in [joining](https://sandyas72.github.io/join/), email Sandya at sandyas AT berkeley DOT edu! If you are a Ph.D. student applying to the CPH, BioE, or Biostat programs, you can list Sandya as faculty you are interested in!
