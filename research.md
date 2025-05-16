@@ -62,6 +62,10 @@ We collect our own data by running human studies with healthy volunteers and pat
 - Monitoring multi-sensor activity in patients undergoing surgery while under anesthesia
 - Tracking 24-72 hours of continuous multi-sensor autonomic activity at home in healthy volunteers and patients with chronic migraine
 
+**Current/ongoing work:**
+- Developing new wearables for the tracking bladder muscle activity at home in multiple sclerosis
+- Developing v2 of our full at-home multi-sensor autonomic platform that is energy-efficient and easy to use
+
 #### Algorithm development
 
 Collecting data in challenging real-world settings (in and out of the clinic) results in similarly challenging data. These data are noisy, filled with known and unknown artifacts, incomplete, and either lacking ground truth or labeled with annotations that are often inexact or even incorrect due to human error. Algorithm development, especially focused on robust, scalable automation without supervised (labeled datasets) is a major challenge. These methods must learn complex patterns that may be hard to see without losing physiologic integrity of the data (e.g. the point process nature of underlying signals). There are many opportunities to develop neural architectures and differentiable algorithms for biosignals for both single sensor and multimodal data.
@@ -71,6 +75,9 @@ Collecting data in challenging real-world settings (in and out of the clinic) re
 - Automatic artifact removal from electrodermal activity data in the operating room ([Phys Meas 2022](https://doi.org/10.1088/1361-6579/ac92bd), [Proc IEEE EMBC 2021](https://doi.org/10.1109/EMBC46164.2021.9630535))
 - Automated classification of sleep and wake from triaxial accelerometer data ([Proc IEEE EMBC 2022](https://doi.org/10.1109/EMBC48229.2022.9871823))
 - Neural temporal point process methods for modeling heartbeat dynamics ([ICLR TS4H Workshop 2024](https://openreview.net/pdf?id=CRTVmL4VBv))
+
+**Current/Ongoing work:**
+- Network models of the ANS across the body
 
 #### Physiologic modeling
 
@@ -88,5 +95,7 @@ At the core of all of these exciting new applications is finding new and creativ
 - EEG-based patient stratification in chronic pain ([Proc IEEE EMBS Data Sci](https://doi.org/10.1109/IEEECONF58974.2023.10404287))
 - Tracking unconscious pain during surgery ([PNAS](https://www.pnas.org/doi/10.1073/pnas.2319316121))
 
-
+**Current/Ongoing work:**
+- Characterizing multi-system ANS activity in long COVID and chronic fatigue syndrome
+- Piloting the at-home autonomic clinic of tomorrow
 
