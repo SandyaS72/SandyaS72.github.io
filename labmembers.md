@@ -4,6 +4,8 @@ title: Lab Members
 subtitle: (Headshots coming soon!)
 ---
 
+<img style="width:100%;" id="image" src="/assets/img/20220609_0469_SSubramanian_cropped.jpg"
+alt="Sandya Subramanian">
 
 ## Graduate Students ##
 
