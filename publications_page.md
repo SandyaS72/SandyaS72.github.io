@@ -5,6 +5,9 @@ title: Publications
 
 <p style="text-align: center;"><a href="https://scholar.google.com/citations?user=ihRIXQUAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
 
+## 2025  
+{% include publications-format.md items="EMBC_1, EMBC_2, EMBC_3" file="publications2025" caption="2025 publications" %}
+
 ## 2024  
 {% include publications-format.md items="PNAS_2024, EMBC, ICLR" file="publications2024" caption="2024 publications" %}
 
