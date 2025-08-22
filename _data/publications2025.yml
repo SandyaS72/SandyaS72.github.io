@@ -14,7 +14,7 @@ EMBC_2:
   image: <img src="/assets/img/EMBC_2024.png">
 
 
-  EMBC_3:
+EMBC_3:
   title: <b>Data-Driven Peak Alpha Identification Reveals Distinct EEG Spatial Signature Phenotypes in Chronic Pain</b>
   authors: "S Subramanian, E Lannon, S Mackey"
   journal: <i>Proc IEEE Eng in Med & Biol</i>
