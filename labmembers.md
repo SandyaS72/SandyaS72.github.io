@@ -13,6 +13,8 @@ alt="Sandya Subramanian">
 
 **Hannah Aguilar** is a UC LEADS Scholar and 4th year masters student majoring in Statistics at UC Berkeley. She is interested in pursuing a career in research merging electronic health record data from wearable devices with genomic data to work on preventing, diagnosing, and treating disease from a personalized medicine lens. In her free time she enjoys running, hosting computational biology workshops, and trying vegetarian-friendly restaurants.
 
+**Bhuvana Ravi Kumar** is a master's student at UC Davis in Computer Science who was in SANDLab for the summer of 2025 through the CITRIS program. She worked on developing graph theoretic frameworks for modeling the autonomic nervous system as a network and neural temporal point process models for heartbeat dynamics. 
+
 We're currently recruiting for the lab! If you are interested in [joining](https://sandyas72.github.io/join/), email Sandya at sandyas AT berkeley DOT edu! If you are a Ph.D. student applying to the CPH, BioE, or Biostat programs, you can list Sandya as faculty you are interested in!
 
 
@@ -31,3 +33,5 @@ We're currently recruiting for the lab! If you are interested in [joining](https
 **Sriram Gadepalli** is an Integrative Biology major at UC Berkeley, researching Chronic Fatigue Syndrome (CFS)/Long COVID interactions as well as traumatic brain and spinal injuries. His work involves conducting literature reviews, identifying research gaps, assisting in grant writing and planning to collaborate with patients in clinical applications. Outside of the lab, Sriram enjoys listening to old rock music, swimming in the ocean, and imitating movie characters.
 
 **Wei Wang** is an undergraduate majoring in Bioengineering. In SANDLab, Wei currently primarily works with prototyping sensors and learning more about their electronics. He is interested in the intersection of engineering and neuroscience, including fields such as neuromodulation or brain-machine interfaces. Pursuing a PhD, working in industry as an engineer, or going to medical school are all career choices of interest. As he decides between these options, he is most intent on acquiring applicable engineering skills through varied experiences. Outside of the lab, Wei can be found watching movies, doing a variety of physical activity, or cooking.
+
+**Reuben Koshy Thomas** is an undergraduate majoring in Electrical Engineering and Computer Science at UC Berkeley. After graduating a semester early, he spent the spring of 2025 in SANDLab leading the sensor subgroup development of an integrated multi-sensor platform for at-home physiological monitoring. He brought extensive experience with electronics, PCB design, and neurotechnology to the lab. Now, he has moved to a position in industry in SF. 
