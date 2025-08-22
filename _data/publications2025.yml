@@ -1,22 +1,22 @@
 EMBC_1:
-  title: <b>Data-Driven Peak Alpha Identification Reveals Distinct EEG Spatial Signature Phenotypes in Chronic Pain</b>
-  authors: "S Subramanian, E Lannon, S Mackey"
+  title: <b>A nonparametric copula approach to predict heart rate trajectories from single overnight wearable accelerometry</b>
+  authors: "A Dua, S Subramanian"
   journal: <i>Proc IEEE Eng in Med & Biol</i>
-  year: "2024"
+  year: "2025"
   image: <img src="/assets/img/EMBC_2024.png">
 
 
 EMBC_2:
-  title: <b>Data-Driven Peak Alpha Identification Reveals Distinct EEG Spatial Signature Phenotypes in Chronic Pain</b>
-  authors: "S Subramanian, E Lannon, S Mackey"
+  title: <b>Automated REM vs NREM sleep staging using single overnight heart rate and accelerometer data</b>
+  authors: "J Mohan, S Subramanian"
   journal: <i>Proc IEEE Eng in Med & Biol</i>
-  year: "2024"
+  year: "2025"
   image: <img src="/assets/img/EMBC_2024.png">
 
 
 EMBC_3:
-  title: <b>Data-Driven Peak Alpha Identification Reveals Distinct EEG Spatial Signature Phenotypes in Chronic Pain</b>
-  authors: "S Subramanian, E Lannon, S Mackey"
+  title: <b>Automatic Detection of Transitions in Sleep Stage Using Single Overnight Triaxial Accelerometry and Heart Rate</b>
+  authors: "B Chen, S Subramanian"
   journal: <i>Proc IEEE Eng in Med & Biol</i>
-  year: "2024"
+  year: "2025"
   image: <img src="/assets/img/EMBC_2024.png">
