@@ -79,22 +79,22 @@ subtitle: Harnessing AI to understand human physiology
         <img src="/assets/img/OR_elayne.jpg" class="img-fluid rounded shadow-sm" alt="picture in the OR">
     </div>
     <div class="col-md-8">
-        <p>We run human studies with healthy volunteers and patient populations, both in clinical settings and at home. Our goal is to balance clinical-grade data quality with usability and clinician resource constraints.</p>
+        <p>We collect our own data by running human studies with healthy volunteers and patient populations, both in clinical settings and at home. Each of these data collection scenarios presents unique challenges that require creative solutions from the hardware standpoint. Our goal is to balance the need for high-quality clinical-grade data with the usability and resource constraints of busy clinics, clinicians, and patients. This is an area we hope to expand with more hardware prototyping in the future!</p>
         
-        <div class="row">
+        <div class="row mt-3">
             <div class="col-md-6">
                 <h6 class="text-teal font-weight-bold text-uppercase small">Previous Studies</h6>
                 <ul class="small">
-                    <li>Autonomic modulation in healthy volunteers</li>
-                    <li>Surgical anesthesia monitoring</li>
-                    <li>At-home tracking for chronic migraine</li>
+                    <li>Modulation of autonomic activity in a controlled setting in healthy volunteers</li>
+                    <li>Monitoring multi-sensor activity in patients undergoing surgery while under anesthesia</li>
+                    <li>Tracking 24-72 hours of continuous multi-sensor autonomic activity at home in healthy volunteers and patients with chronic migraine</li>
                 </ul>
             </div>
             <div class="col-md-6">
                 <h6 class="text-teal font-weight-bold text-uppercase small">Ongoing Work</h6>
                 <ul class="small">
-                    <li>MS bladder muscle tracking wearables</li>
-                    <li>V2 Energy-efficient multi-sensor platform</li>
+                    <li>Developing new wearables for tracking bladder muscle activity at home in multiple sclerosis</li>
+                    <li>Developing v2 of our full at-home multi-sensor autonomic platform that is energy-efficient and easy to use</li>
                 </ul>
             </div>
         </div>
@@ -104,14 +104,15 @@ subtitle: Harnessing AI to understand human physiology
 <div class="row mb-5">
     <div class="col-md-8">
         <h4 class="border-bottom pb-2" style="color: #4A5D6E;">2. Algorithm Development</h4>
-        <p>Real-world data is noisy and often lacks "ground truth." We develop <strong>robust, scalable, and automated</strong> algorithms that learn complex patterns without losing physiological integrity.</p>
+        <p>Collecting data in challenging real-world settings results in similarly challenging data: noisy, incomplete, and filled with artifacts. We focus on developing robust neural architectures and differentiable algorithms for biosignals that automate discovery without relying on heavy supervised labeling—all while maintaining the strict physiologic point-process nature of underlying physiological data.</p>
         
         <div class="bg-light p-3 rounded" style="font-size: 0.9rem;">
-            <strong class="d-block mb-2">Key Work:</strong>
-            <ul class="list-unstyled mb-0">
-                <li class="mb-1">• <strong>Sweat Gland Physiology:</strong> PNAS 2020, PLoS Comp Bio 2021</li>
-                <li class="mb-1">• <strong>Artifact Removal:</strong> Operating room EDA automation (Phys Meas 2022)</li>
-                <li class="mb-1">• <strong>Neural Point Processes:</strong> Modeling heartbeat dynamics (ICLR 2024)</li>
+            <strong class="d-block mb-2">Key Publications:</strong>
+            <ul class="list-unstyled mb-0" style="line-height: 1.6;">
+                <li class="mb-2">• <strong>Sweat Gland Biophysics:</strong> Quantifying physiology from first principles ([IEEE TBME 2021](https://doi.org/10.1109/TBME.2021.3071366), [PLoS Comp Bio 2021](https://doi.org/10.1371/journal.pcbi.1009099), [PNAS 2020](https://doi.org/10.1073/pnas.2004403117), [Proc IEEE EMBC 2019](https://doi.org/10.1109/EMBC.2019.8857757), [Proc IEEE EMBC 2018](https://doi.org/10.1109/EMBC.2018.8512211))</li>
+                <li class="mb-2">• <strong>Artifact Removal:</strong> Automated electrodermal artifact correction in operating rooms ([Phys Meas 2022](https://doi.org/10.1088/1361-6579/ac92bd), [Proc IEEE EMBC 2021](https://doi.org/10.1109/EMBC46164.2021.9630535))</li>
+                <li class="mb-2">• <strong>Activity Tracking:</strong> Classifying sleep and wake states automatically from triaxial accelerometer data ([Proc IEEE EMBC 2022](https://doi.org/10.1109/EMBC48229.2022.9871823))</li>
+                <li class="mb-1">• <strong>Heartbeat Dynamics:</strong> Neural temporal point process modeling methods for cardiac variance ([ICLR TS4H Workshop 2024](https://openreview.net/pdf?id=CRTVmL4VBv))</li>
             </ul>
         </div>
     </div>
@@ -119,6 +120,7 @@ subtitle: Harnessing AI to understand human physiology
         <div class="p-4 bg-teal text-white rounded shadow-sm w-100 text-center">
             <i class="fas fa-code fa-3x mb-3"></i>
             <h5>Differentiable Algorithms</h5>
+            <p class="small mb-0 opacity-75 mt-2">Network models of the ANS across the human body</p>
         </div>
     </div>
 </div>
@@ -129,34 +131,9 @@ subtitle: Harnessing AI to understand human physiology
     </div>
     <div class="col-md-8">
         <h4 class="border-bottom pb-2" style="color: #4A5D6E;">3. Physiologic Modeling</h4>
-        <p>We aim to find creative ways to mathematically model physiology at the organismal level. By embedding <strong>physiological priors</strong> into computational models, we enhance performance even on small, sparse clinical datasets.</p>
+        <p>At the core of our lab is finding creative ways to mathematically model macroscale physiology. We embed structural inductive biases from physiological priors straight into computational engines. This enhances their accuracy even on sparse datasets, resulting in robust models that remain clinically interpretable.</p>
         
-        <div class="row small mt-3">
-            <div class="col-md-6">
-                <h6 class="text-teal font-weight-bold text-uppercase x-small">Clinical Applications</h6>
-                <ul class="list-unstyled">
-                    <li>• General Anesthesia (PLoS ONE 2021)</li>
-                    <li>• Gastroparesis (IEEE TBME 2023)</li>
-                    <li>• Chronic Pain (IEEE EMBS)</li>
-                    <li>• Unconscious Pain Tracking (PNAS)</li>
-                </ul>
-            </div>
-            <div class="col-md-6">
-                <h6 class="text-teal font-weight-bold text-uppercase x-small">Future Directions</h6>
-                <ul class="list-unstyled">
-                    <li>• Multi-system ANS in Long COVID</li>
-                    <li>• Chronic Fatigue Syndrome (CFS)</li>
-                    <li>• At-home "Autonomic Clinic" pilots</li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</div>
-
-<style>
-.text-teal { color: #008080; }
-.bg-teal { background-color: #008080; }
-.x-small { font-size: 0.75rem; letter-spacing: 1px; }
-.border-rounded { border-radius: 15px; }
-li { margin-bottom: 0.5rem; }
-</style>
+        <div class="bg-light p-3 rounded" style="font-size: 0.9rem;">
+            <strong class="d-block mb-2">Key Publications & Milestones:</strong>
+            <ul class="list-unstyled mb-0" style="line-height: 1.6;">
+                <li class="mb-1">• <strong>General Anesthesia:</strong> Using autonomic responses for patient health tracking ([PLoS ONE 2021](https://doi.org/10.1371/journal.pone.0254053), [Proc IEEE EMBC 2022](https://doi.org/10.1109/EMBC48229.2022.9871080), [Proc IEEE EMBC 2020](https://doi.org/10.1109/EMBC44109.2020.9175366), [Proc IEEE ESGCO 2020](https://doi.org/10.1109/ESGCO49734.2020.9158139), [Proc CinC 2020](
