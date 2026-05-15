@@ -4,11 +4,34 @@ title: SANDLab
 subtitle: Systemic Autonomic Neuro Dynamics Lab
 ---
 
+{% assign news_page = site.pages | where: "path", "news.md" | first %}
+<div class="ticker-container">
+  <div class="ticker-label">LATEST</div>
+  <div class="ticker-window">
+    <div class="ticker-track">
+      {% if news_page and news_page.ticker_items %}
+        {% for item in news_page.ticker_items %}
+          <div class="ticker-item">{{ item }}</div>
+        {% endfor %}
+        {% for item in news_page.ticker_items %}
+          <div class="ticker-item">{{ item }}</div>
+        {% endfor %}
+      {% else %}
+        <div class="ticker-item">Welcome to the Subramanian Lab at UC Berkeley & UCSF!</div>
+        <div class="ticker-item">Welcome to the Subramanian Lab at UC Berkeley & UCSF!</div>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
 <div class="row mt-4">
   <div class="col-lg-8">
     <div class="jumbotron bg-white shadow-sm h-100 py-5 px-4" style="border-radius: 15px; border-left: 8px solid #008080;">
-      <h2 class="text-dark">Welcome to the SANDLab!</h2>
-      <p class="lead mt-3">
+      <h2 class="text-dark">Welcome to the **SAND Lab**</h2>
+      <p class="lead mt-3" style="color: #008080; font-weight: 600; font-size: 1.3rem;">
+        Harnessing AI to understand human physiology
+      </p>
+      <p class="mt-2">
         We bridge <strong>computation, engineering, and physiology</strong> to understand disease and build precision solutions. We capture human body data currently inaccessible to the healthcare system.
       </p>
       <div class="d-flex align-items-center mt-4">
@@ -18,7 +41,6 @@ subtitle: Systemic Autonomic Neuro Dynamics Lab
     </div>
   </div>
 
-  {% assign news_page = site.pages | where: "path", "news.md" | first %}
   <div class="col-lg-4">
     <div class="card shadow-sm h-100 border-0" style="border-radius: 15px; background-color: #f8fbfb;">
       <div class="card-body">
@@ -85,4 +107,17 @@ subtitle: Systemic Autonomic Neuro Dynamics Lab
 .btn-teal:hover { background-color: #006666; color: white; }
 
 .jumbotron h2 { font-weight: 700; }
+
+/* TICKER COLOR SCHEME (TEAL & SLATE GRAY) */
+.ticker-container { display: flex; background: #4A5D6E; color: white; border-radius: 4px; overflow: hidden; font-family: sans-serif; }
+.ticker-label { background: #008080; color: white; padding: 10px 20px; font-weight: bold; z-index: 2; letter-spacing: 1px; }
+.ticker-window { overflow: hidden; white-space: nowrap; flex-grow: 1; display: flex; align-items: center; }
+.ticker-track { display: inline-block; animation: scroll 35s linear infinite; }
+.ticker-track:hover { animation-play-state: paused; }
+.ticker-item { display: inline-block; padding: 0 60px; font-weight: 500; font-size: 0.95rem; }
+
+@keyframes scroll {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
 </style>
