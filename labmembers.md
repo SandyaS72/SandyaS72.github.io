@@ -17,7 +17,7 @@ subtitle: Systemic Autonomic Neuro Dynamics Lab
 </div>
 <div class="col-sm-8 pl-3" markdown="1">
 #### Vi Nguyen
-**Ph.D. Student, UCSF-UCB BioE** *Co-advised by Prasad Shirvalkar* Research focuses on the intersection of bioengineering and clinical neuro-dynamics.
+**Ph.D. Student, BioE** *Co-advised by Prasad Shirvalkar* Research focuses on the intersection of bioengineering and clinical neuro-dynamics.
 </div>
 </div>
 </div>
@@ -29,7 +29,7 @@ subtitle: Systemic Autonomic Neuro Dynamics Lab
 </div>
 <div class="col-sm-8 pl-3" markdown="1">
 #### Josh Everts
-**Ph.D. Student, UCSF-UCB BioE** Focusing on developing engineering solutions for systemic autonomic monitoring and diagnostics.
+**Ph.D. Student, BioE** Focusing on developing engineering solutions for systemic autonomic monitoring and diagnostics.
 </div>
 </div>
 </div>
@@ -41,7 +41,7 @@ subtitle: Systemic Autonomic Neuro Dynamics Lab
 </div>
 <div class="col-sm-8 pl-3" markdown="1">
 #### Shruthi Ravichandran
-**Ph.D. Student, UCB EECS** *Co-advised by Miki Lustig* Researching computational imaging and signal processing for health applications.
+**Ph.D. Student, EECS** *Co-advised by Miki Lustig* Researching computational imaging and signal processing for health applications.
 </div>
 </div>
 </div>
@@ -53,7 +53,7 @@ subtitle: Systemic Autonomic Neuro Dynamics Lab
 </div>
 <div class="col-sm-8 pl-3" markdown="1">
 #### Andy Seymour
-**M.S. Student, UCB EECS** *Co-advised by Prabal Dutta* Working on hardware-firmware applications.
+**M.S. Student, EECS** *Co-advised by Prabal Dutta* Working on hardware-firmware applications.
 </div>
 </div>
 </div>
