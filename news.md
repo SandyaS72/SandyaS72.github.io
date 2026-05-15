@@ -4,57 +4,62 @@ title: News
 subtitle: Recent lab happenings
 ---
 
-<div class="row mb-5" markdown="1">
-<div class="col-md-12" markdown="1">
+<div class="news-list" markdown="1">
+
 ### May 2026
-* <span class="badge badge-success">New Members</span> **Welcome to our new graduate students!** We are thrilled to have Vi Nguyen, Josh Everts, and Shruthi Ravichandran join SANDLab this semester!
-</div>
-</div>
+* {: .ticker-news} **Welcome to our new graduate students!** We are thrilled to have Andy Seymour, Vi Nguyen, Josh Everts, and Shruthi Ravichandran join the SANDLab team.
 
-<div class="row mb-5" markdown="1">
-<div class="col-md-12" markdown="1">
 ### Sep 2024
+* {: .ticker-news} **Tracking unconscious pain during surgery published in PNAS!** Sandya’s final PhD work, involving over 500 hours in the OR, is now out in [PNAS](https://www.pnas.org/doi/10.1073/pnas.2319316121).
+* **Invited Talk:** Sandya was invited to give a talk at the UC Berkeley Biostat Graduate Seminar!
 
-**<span class="badge badge-primary">Publication</span> Tracking unconscious pain during surgery published in PNAS!** Sandya’s final PhD work, involving over 500 hours in the OR, is now out in [PNAS](https://www.pnas.org/doi/10.1073/pnas.2319316121). This was a 7-year collaborative effort between MIT and MGH.  
-*Coverage: [MIT News](https://news.mit.edu/2024/research-quantifying-nociception-could-improve-management-surgical-pain-0924), [Picower Institute](https://picower.mit.edu/news/research-quantifying-nociception-could-help-improve-management-surgical-pain)*
+### Jul 2024
+* {: .ticker-news} **SANDLab is officially here!** We are excited to launch our interdisciplinary research environment at UC Berkeley and UCSF. [Coverage here](https://cdss.berkeley.edu/news/cdss-welcomes-seven-faculty-celebrates-two-new-college-chairs).
 
-**<span class="badge badge-info">Talk</span> UC Berkeley Biostat Graduate Seminar** Sandya was invited to present her work at the Biostat Graduate Seminar!
-</div>
-</div>
-
-<div class="row mb-5" markdown="1">
+### Feb 2024
+<div class="row" markdown="1">
 <div class="col-md-4" markdown="1">
 ![Times Higher Ed](/assets/img/Schmidt_THE_piece.png){: .img-fluid .rounded .shadow-sm}
 </div>
 <div class="col-md-8" markdown="1">
-### Feb 2024
-**<span class="badge badge-warning">Press</span> Inside the data-driven search for migraine relief** Sandya sat down with *Times Higher Education* to discuss interdisciplinary science and her postdoctoral work on chronic migraine. Read the full article [here](https://www.timeshighereducation.com/campus/inside-datadriven-search-migraine-relief).
+**Inside the data-driven search for migraine relief:** Sandya sat down with *Times Higher Education* to talk about interdisciplinary science. [Link to article](https://www.timeshighereducation.com/campus/inside-datadriven-search-migraine-relief).
 </div>
 </div>
 
-<div class="row mb-5" markdown="1">
+### Dec 2023
+<div class="row" markdown="1">
 <div class="col-md-4" markdown="1">
-![TBME Featured Article](/assets/img/TBME_featured_thumbnail.jpg){: .img-fluid .rounded .shadow-sm}
+![TBME Featured](/assets/img/TBME_featured_thumbnail.jpg){: .img-fluid .rounded .shadow-sm}
 </div>
 <div class="col-md-8" markdown="1">
-### Dec 2023
-**<span class="badge badge-primary">Featured</span> IEEE TBME Featured Article** Our 2023 paper on 24-hour monitoring of patients with gastroparesis was selected as a [Featured Article](https://www.embs.org/tbme/articles/exploring-the-gut-brain-connection-in-gastroparesis-with-autonomic-and-gastric-myoelectric-monitoring/)!
+**IEEE TBME Featured Article:** Our paper on 24-hour monitoring of patients with gastroparesis was selected as a [Featured Article](https://www.embs.org/tbme/articles/exploring-the-gut-brain-connection-in-gastroparesis-with-autonomic-and-gastric-myoelectric-monitoring/)!
 </div>
 </div>
 
-<div class="row mb-5" markdown="1">
-<div class="col-md-6" markdown="1">
+### Oct 2023
+* **Graduate Diversity Fair:** Sandya presents for CPH at the 2023 UC Berkeley Graduate Diversity Fair (starting at 39:15).
+
+<div class="embed-responsive embed-responsive-16by9 mt-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/XAV4WkQviOM?si=XqtuA8LQnA4bgm2b" allowfullscreen></iframe>
+</div>
+
 ### Nov 2022
-**<span class="badge badge-dark">Award</span> L'Oreal For Women in Science Fellowship**
-<div class="embed-responsive embed-responsive-16by9 mt-2">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/KnHq8WW9BoE" allowfullscreen></iframe>
+* **L'Oreal For Women in Science Fellowship:** Sandya wins the prestigious L'Oreal For Women in Science Fellowship!
+
+<div class="embed-responsive embed-responsive-16by9 mt-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/KnHq8WW9BoE?si=KPpdHx85QcMGdoJh" allowfullscreen></iframe>
 </div>
-</div>
-<div class="col-md-6" markdown="1">
+
 ### Jun 2022
-**<span class="badge badge-dark">Award</span> Schmidt Science Fellows**
-<div class="embed-responsive embed-responsive-16by9 mt-2">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0xt02t6esig" allowfullscreen></iframe>
+* **Schmidt Science Fellow:** Sandya is named a 2022 Schmidt Science Fellow!
+
+<div class="embed-responsive embed-responsive-16by9 mt-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0xt02t6esig?si=BnMXiqgTTiPBqlFN" allowfullscreen></iframe>
 </div>
+
 </div>
-</div>
+
+<style>
+  .news-list h3 { border-bottom: 2px solid #003262; padding-bottom: 5px; margin-top: 40px; color: #003262; }
+  .badge { margin-right: 10px; }
+</style>
