@@ -124,4 +124,64 @@ subtitle: Harnessing AI to understand human physiology
                     <a href="https://doi.org/10.1109/EMBC48229.2022.9871823" target="_blank">Proc IEEE EMBC 2022</a>)
                 </li>
                 <li class="mb-1">• <strong>Heartbeat Dynamics:</strong> Neural temporal point process modeling methods for cardiac variance (
-                    <a href="
+                    <a href="https://openreview.net/pdf?id=CRTVmL4VBv" target="_blank">ICLR TS4H Workshop 2024</a>)
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="col-md-4 d-flex align-items-center">
+        <div class="p-4 bg-teal text-white rounded shadow-sm w-100 text-center">
+            <i class="fas fa-code fa-3x mb-3"></i>
+            <h5>Differentiable Algorithms</h5>
+            <p class="small mb-0 opacity-75 mt-2">Network models of the ANS across the human body</p>
+        </div>
+    </div>
+</div>
+
+<div class="row mb-5">
+    <div class="col-md-4">
+        <img src="/assets/img/ANS_network.jpg" class="img-fluid rounded shadow-sm" alt="ANS network">
+    </div>
+    <div class="col-md-8">
+        <h4 class="border-bottom pb-2" style="color: #4A5D6E;">3. Physiologic Modeling</h4>
+        <p>At the core of our lab is finding creative ways to mathematically model macroscale physiology. We embed structural inductive biases from physiological priors straight into computational engines. This enhances their accuracy even on sparse datasets, resulting in robust models that remain clinically interpretable.</p>
+        
+        <div class="bg-light p-3 rounded" style="font-size: 0.9rem;">
+            <strong class="d-block mb-2">Key Publications & Milestones:</strong>
+            <ul class="list-unstyled mb-0" style="line-height: 1.6;">
+                <li class="mb-1">• <strong>General Anesthesia:</strong> Using autonomic responses for patient health tracking (
+                    <a href="https://doi.org/10.1371/journal.pone.0254053" target="_blank">PLoS ONE 2021</a>, 
+                    <a href="https://doi.org/10.1109/EMBC48229.2022.9871080" target="_blank">Proc IEEE EMBC 2022</a>, 
+                    <a href="https://doi.org/10.1109/EMBC44109.2020.9175366" target="_blank">Proc IEEE EMBC 2020</a>, 
+                    <a href="https://doi.org/10.1109/ESGCO49734.2020.9158139" target="_blank">Proc IEEE ESGCO 2020</a>, 
+                    <a href="https://doi.org/10.22489/CinC.2020.290" target="_blank">Proc CinC 2020</a>)
+                </li>
+                <li class="mb-1">• <strong>Gastroparesis Subtypes:</strong> Continuous 24-hour ambulatory monitoring profiles (
+                    <a href="https://doi.org/10.1109/TBME.2023.3285491" target="_blank">IEEE TBME 2023</a>, 
+                    <a href="https://arinex.com.au/EMBC/pdf/full-paper_709.pdf" target="_blank">Proc IEEE EMBC 2023</a>)
+                </li>
+                <li class="mb-1">• <strong>Chronic Pain Stratification:</strong> EEG data-driven patient clustering profiles (
+                    <a href="https://doi.org/10.1109/IEEECONF58974.2023.10404287" target="_blank">Proc IEEE EMBS Data Sci</a>)
+                </li>
+                <li class="mb-1">• <strong>Surgical Nociception:</strong> 7-year study tracking unconscious pain signatures under anesthesia (
+                    <a href="https://www.pnas.org/doi/10.1073/pnas.2319316121" target="_blank">PNAS 2024</a>)
+                </li>
+            </ul>
+        </div>
+
+        <div class="mt-3 p-2 border-left" style="border-left: 3px solid #008080 !important;">
+            <span class="font-weight-bold text-teal small text-uppercase d-block mb-1">Current & Future Horizons:</span>
+            <p class="small text-muted mb-0">Characterizing multi-system ANS activity profiles in long COVID / Chronic Fatigue Syndrome (CFS), and prototyping the at-home autonomic clinic of tomorrow.</p>
+        </div>
+    </div>
+</div>
+
+<style>
+.text-teal { color: #008080; }
+.bg-teal { background-color: #008080; }
+.border-rounded { border-radius: 15px; }
+li { margin-bottom: 0.3rem; }
+.opacity-75 { opacity: 0.75; }
+.bg-light a { color: #008080; font-weight: 600; text-decoration: none; }
+.bg-light a:hover { text-decoration: underline; color: #005353; }
+</style>
