@@ -17,23 +17,23 @@ subtitle: Sandya Subramanian, Ph.D.
   </div>
 
   <div class="col-md-8">
-    ### Education
-    * **Ph.D.** Medical Engineering and Medical Physics, 2021  
-        *Harvard-MIT Division of Health Sciences and Technology*
-    * **M.Phil.** Clinical Neurosciences, 2016  
-        *University of Cambridge*
-    * **B.S.** Biomedical Engineering, Applied Mathematics & Statistics, 2015  
-        *Johns Hopkins University*
-
-    ### About Sandya
-    I completed my undergraduate training at Johns Hopkins University in 2015. It was there, in the lab of Professor Sridevi Sarma, that I discovered my passion for translational research. From there I studied at the University of Cambridge as a Churchill Scholar for one year in Clinical Neurosciences (though all of my work was computational). 
-    
-    I returned to the US in 2016 to the other Cambridge where I completed my Ph.D. at the Harvard-MIT Division of Health Sciences and Technology in the lab of Professor Emery Brown. In 2021, I moved across the country to Stanford for my postdoctoral training with Professors Todd Coleman and Sean Mackey. Now, I'm excited to continue working on translational interdisciplinary solutions at UC Berkeley and UCSF as part of Computational Precision Health!
   </div>
 </div>
 
 ---
+### Education
+  **Ph.D.** Medical Engineering and Medical Physics, 2021  
+        *Harvard-MIT Division of Health Sciences and Technology*
+  **M.Phil.** Clinical Neurosciences, 2016  
+        *University of Cambridge*
+  **B.S.** Biomedical Engineering, Applied Mathematics & Statistics, 2015  
+        *Johns Hopkins University*
 
+### About Sandya
+I completed my undergraduate training at Johns Hopkins University in 2015. It was there, in the lab of Professor Sridevi Sarma, that I discovered my passion for translational research. From there I studied at the University of Cambridge as a Churchill Scholar for one year in Clinical Neurosciences (though all of my work was computational). 
+    
+I returned to the US in 2016 to the other Cambridge where I completed my Ph.D. at the Harvard-MIT Division of Health Sciences and Technology in the lab of Professor Emery Brown. In 2021, I moved across the country to Stanford for my postdoctoral training with Professors Todd Coleman and Sean Mackey. Now, I'm excited to continue working on translational interdisciplinary solutions at UC Berkeley and UCSF as part of Computational Precision Health!
+    
 ### Awards and Honors
 * Rose Hills Innovator Award, UC Berkeley, 2025
 * Johns Hopkins/Columbia Rising Stars in Engineering in Health, 2022
