@@ -4,57 +4,57 @@ title: News
 subtitle: Recent lab happenings
 ---
 
+<div class="row mb-5" markdown="1">
+<div class="col-md-12" markdown="1">
+### May 2026
+* <span class="badge badge-success">New Members</span> **Welcome to our new graduate students!** We are thrilled to have Andy Seymour, Vi Nguyen, Josh Everts, and Shruthi Ravichandran join the SANDLab team.
+</div>
+</div>
+
+<div class="row mb-5" markdown="1">
+<div class="col-md-12" markdown="1">
 ### Sep 2024
 
-Sandya's final PhD work on tracking unconscious pain during surgery is published in [PNAS](https://www.pnas.org/doi/10.1073/pnas.2319316121)! This study is the result of over 7 years of work, including over 500 hours in the operating room, in a collaborative effort between MIT and MGH.
-Coverage: [MIT News](https://news.mit.edu/2024/research-quantifying-nociception-could-improve-management-surgical-pain-0924), [Picower Institute](https://picower.mit.edu/news/research-quantifying-nociception-could-help-improve-management-surgical-pain)
+**<span class="badge badge-primary">Publication</span> Tracking unconscious pain during surgery published in PNAS!** Sandya’s final PhD work, involving over 500 hours in the OR, is now out in [PNAS](https://www.pnas.org/doi/10.1073/pnas.2319316121). This was a 7-year collaborative effort between MIT and MGH.  
+*Coverage: [MIT News](https://news.mit.edu/2024/research-quantifying-nociception-could-improve-management-surgical-pain-0924), [Picower Institute](https://picower.mit.edu/news/research-quantifying-nociception-could-help-improve-management-surgical-pain)*
 
+**<span class="badge badge-info">Talk</span> UC Berkeley Biostat Graduate Seminar** Sandya was invited to present her work at the Biostat Graduate Seminar!
+</div>
+</div>
 
-Sandya was invited to give a talk at the UC Berkeley Biostat Graduate Seminar!
-
-
-### Jul 2024
-
-SANDlab is officially here!
-Coverage: [Berkeley CDSS](https://cdss.berkeley.edu/news/cdss-welcomes-seven-faculty-celebrates-two-new-college-chairs)
-
-
+<div class="row mb-5" markdown="1">
+<div class="col-md-4" markdown="1">
+![Times Higher Ed](/assets/img/Schmidt_THE_piece.png){: .img-fluid .rounded .shadow-sm}
+</div>
+<div class="col-md-8" markdown="1">
 ### Feb 2024
+**<span class="badge badge-warning">Press</span> Inside the data-driven search for migraine relief** Sandya sat down with *Times Higher Education* to discuss interdisciplinary science and her postdoctoral work on chronic migraine. Read the full article [here](https://www.timeshighereducation.com/campus/inside-datadriven-search-migraine-relief).
+</div>
+</div>
 
-Sandya had the chance to sit down with Times Higher Education and talk about the impact of interdisciplinary science, particularly focusing on her postdoctoral work with chronic migraine! Link to the full article [here](https://www.timeshighereducation.com/campus/inside-datadriven-search-migraine-relief).
-
-<img src="/assets/img/Schmidt_THE_piece.png"
-srcset="/assets/img/Schmidt_THE_piece.png 789w"
-sizes="(min-width: 1501px) calc(25vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(40vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(60vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(80vw - 20px)"
-alt="Times Higher Ed piece screenshot">
-
+<div class="row mb-5" markdown="1">
+<div class="col-md-4" markdown="1">
+![TBME Featured Article](/assets/img/TBME_featured_thumbnail.jpg){: .img-fluid .rounded .shadow-sm}
+</div>
+<div class="col-md-8" markdown="1">
 ### Dec 2023
+**<span class="badge badge-primary">Featured</span> IEEE TBME Featured Article** Our 2023 paper on 24-hour monitoring of patients with gastroparesis was selected as a [Featured Article](https://www.embs.org/tbme/articles/exploring-the-gut-brain-connection-in-gastroparesis-with-autonomic-and-gastric-myoelectric-monitoring/)!
+</div>
+</div>
 
-Our IEEE TBME 2023 paper on 24-hour monitoring of patients with gastroparesis has been selected as a [Featured Article](https://www.embs.org/tbme/articles/exploring-the-gut-brain-connection-in-gastroparesis-with-autonomic-and-gastric-myoelectric-monitoring/) for this month!
-
-<img src="/assets/img/TBME_featured_thumbnail.jpg"
-srcset="/assets/img/TBME_featured_thumbnail.jpg 789w"
-sizes="(min-width: 1501px) calc(25vw - 20px), ((min-width: 1101px) and (max-width: 1500px)) calc(40vw - 20px), ((min-width: 651px) and (max-width: 1100px)) calc(60vw - 20px), ((min-width: 300px) and (max-width: 650px)) calc(80vw - 20px)"
-alt="TBME featured article thumbnail">
-
-### Oct 2023
-
-Sandya presents at the 2023 UC Berkeley Graduate Diversity Fair as part of CPH (starting at 39:15 in the video below).
-
-<iframe width="420" height="236.25" src="https://www.youtube.com/embed/XAV4WkQviOM?si=XqtuA8LQnA4bgm2b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
+<div class="row mb-5" markdown="1">
+<div class="col-md-6" markdown="1">
 ### Nov 2022
-
-Sandya wins the L'Oreal For Women in Science Fellowship!
-
-<iframe width="420" height="236.25" src="https://www.youtube.com/embed/KnHq8WW9BoE?si=KPpdHx85QcMGdoJh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
+**<span class="badge badge-dark">Award</span> L'Oreal For Women in Science Fellowship**
+<div class="embed-responsive embed-responsive-16by9 mt-2">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/KnHq8WW9BoE" allowfullscreen></iframe>
+</div>
+</div>
+<div class="col-md-6" markdown="1">
 ### Jun 2022
-
-Sandya is named a 2022 Schmidt Science Fellow!
-
-<iframe width="420" height="236.25" src="https://www.youtube.com/embed/0xt02t6esig?si=BnMXiqgTTiPBqlFN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
+**<span class="badge badge-dark">Award</span> Schmidt Science Fellow**
+<div class="embed-responsive embed-responsive-16by9 mt-2">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0xt02t6esig" allowfullscreen></iframe>
+</div>
+</div>
+</div>
