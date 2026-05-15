@@ -7,7 +7,7 @@ subtitle: Recent lab happenings
 <div class="row mb-5" markdown="1">
 <div class="col-md-12" markdown="1">
 ### May 2026
-* <span class="badge badge-success">New Members</span> **Welcome to our new graduate students!** We are thrilled to have Andy Seymour, Vi Nguyen, Josh Everts, and Shruthi Ravichandran join the SANDLab team.
+* <span class="badge badge-success">New Members</span> **Welcome to our new graduate students!** We are thrilled to have Vi Nguyen, Josh Everts, and Shruthi Ravichandran join SANDLab this semester!
 </div>
 </div>
 
@@ -52,7 +52,7 @@ subtitle: Recent lab happenings
 </div>
 <div class="col-md-6" markdown="1">
 ### Jun 2022
-**<span class="badge badge-dark">Award</span> Schmidt Science Fellow**
+**<span class="badge badge-dark">Award</span> Schmidt Science Fellows**
 <div class="embed-responsive embed-responsive-16by9 mt-2">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0xt02t6esig" allowfullscreen></iframe>
 </div>
