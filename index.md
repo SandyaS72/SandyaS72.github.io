@@ -1,26 +1,86 @@
 ---
 layout: home
 title: SANDLab
-subtitle: Subramanian Lab at UC Berkeley & UCSF
+subtitle: Systemic Autonomic Neuro Dynamics Lab
 ---
 
-{: .box-landingpage1}
-<center><h3>Welcome to the Systemic Autonomic Neuro Dynamics (SAND) Lab!</h3></center>  
+{% assign news_page = site.pages | where: "path", "news.md" | first %}
+<div class="ticker-container">
+  <div class="ticker-label">LATEST</div>
+  <div class="ticker-window">
+    <div class="ticker-track">
+      {% assign elements = news_page.content | split: '<li class="ticker-news">' %}
+      {% for element in elements offset:1 %}
+        {% assign item = element | split: '</li>' | first | strip_html %}
+        <div class="ticker-item">{{ item }}</div>
+      {% endfor %}
+      {% for element in elements offset:1 %}
+        {% assign item = element | split: '</li>' | first | strip_html %}
+        <div class="ticker-item">{{ item }}</div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
 
-<h3>About us</h3>
+<div class="jumbotron bg-white shadow-sm mt-4 py-5" style="border-radius: 15px; border-left: 8px solid #003262;">
+  <h2 class="text-dark">Welcome to the **Systemic Autonomic Neuro Dynamics (SAND) Lab**</h2>
+  <p class="lead mt-3">
+    We bridge <strong>computation, engineering, and physiology</strong> to understand disease and build precision solutions. We capture human body data currently inaccessible to the healthcare system.
+  </p>
+  <div class="d-flex align-items-center mt-4">
+    <span class="badge badge-primary p-2 mr-2">UC Berkeley</span>
+    <span class="badge badge-info p-2">UCSF</span>
+    <span class="ml-3 text-muted"><em>Dual-Institutional Research</em></span>
+  </div>
+</div>
 
-Our team provides a <b>unique interdiciplinary environment</b> bridging computation, engineering, and physiology to understand disease and build precision diagnostic and therapeutic solutions. Specifically, we aim to capture valuable information from the human body that is currently inaccessible to the healthcare system.  
-  
-We are <b>uniquely positioned</b> as dual citizens of two world-class institutions, <b>UC Berkeley and UCSF</b>.
+<div class="row text-center mt-5">
+  <div class="col-md-3 col-6 mb-3">
+    <a href="/sandya" class="btn btn-outline-primary btn-block py-3 shadow-sm">Prof. Subramanian</a>
+  </div>
+  <div class="col-md-3 col-6 mb-3">
+    <a href="/research" class="btn btn-outline-primary btn-block py-3 shadow-sm">Research</a>
+  </div>
+  <div class="col-md-3 col-6 mb-3">
+    <a href="/publications_page" class="btn btn-outline-primary btn-block py-3 shadow-sm">Publications</a>
+  </div>
+  <div class="col-md-3 col-6 mb-3">
+    <a href="/news" class="btn btn-outline-primary btn-block py-3 shadow-sm">Lab News</a>
+  </div>
+</div>
 
-Learn more about our lab here!
+<div class="row mt-5 mb-5">
+  <div class="col-md-7">
+    <h3>Our Values</h3>
+    <p>We believe that innovative solutions come from diverse backgrounds working as a team. We are committed to an inclusive environment and high-quality mentorship that empowers trainees to reach their career goals.</p>
+  </div>
+  <div class="col-md-5 bg-light p-4 shadow-sm border-rounded" style="border-radius: 12px;">
+    <h4 class="text-primary">We are recruiting!</h4>
+    <p class="small">Interested in joining our interdisciplinary team?</p>
+    <a href="https://docs.google.com/document/d/18HSRw8P7dqVkpWCDEW89U1pUrczRmdDNJ0QUJZUHaIk/edit?usp=sharing" class="btn btn-dark btn-sm mr-2">Expectations</a>
+    <a href="/join" class="btn btn-primary btn-sm">Join Us</a>
+  </div>
+</div>
 
-<center><button class="button" onclick="window.location.href='https://sandyas72.github.io/sandya';"><b>Prof. Subramanian</b></button>   <button class="button" onclick="window.location.href='https://sandyas72.github.io/research';"><b>Our research</b></button>   <button class="button" onclick="window.location.href='https://sandyas72.github.io/publications_page';"><b>Publications</b></button>   <button class="button" onclick="window.location.href='https://sandyas72.github.io/news';"><b>Lab news</b></button></center>
+<style>
+/* TICKER STYLING */
+.ticker-container { display: flex; background: #003262; color: white; border-radius: 4px; overflow: hidden; font-family: sans-serif; }
+.ticker-label { background: #FDB515; color: #003262; padding: 10px 20px; font-weight: bold; z-index: 2; }
+.ticker-window { overflow: hidden; white-space: nowrap; flex-grow: 1; display: flex; align-items: center; }
+.ticker-track { display: inline-block; animation: scroll 35s linear infinite; }
+.ticker-track:hover { animation-play-state: paused; }
+.ticker-item { display: inline-block; padding: 0 60px; font-weight: 500; font-size: 0.95rem; }
 
+@keyframes scroll {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
 
-<h3>Our values</h3>
-We strongly believe that the most innovative and cutting-edge solutions are reached when people from diverse backgrounds and experiences work as a team, also reflected in our interdisciplinarity. We are committed to building a supportive and inclusive environment that welcomes individuals from all backgrounds. It is important to us that all trainees receive high-quality mentorship and support and are empowered to define and reach their career goals. 
-
-<b>We are currently recruiting students!</b>
-
-<center><button class="button" onclick="window.location.href='https://docs.google.com/document/d/18HSRw8P7dqVkpWCDEW89U1pUrczRmdDNJ0QUJZUHaIk/edit?usp=sharing';"><b>Lab expectations</b></button>    <button class="button" onclick="window.location.href='https://sandyas72.github.io/join';"><b>Join us!</b></button></center>
+/* BUTTON HOVER */
+.btn-outline-primary:hover {
+  background-color: #003262;
+  color: white;
+  transform: translateY(-3px);
+  transition: all 0.3s;
+}
+</style>
