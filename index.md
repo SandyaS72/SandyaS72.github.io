@@ -7,7 +7,7 @@ subtitle: Systemic Autonomic Neuro Dynamics Lab
 <div class="row mt-4">
   <div class="col-lg-8">
     <div class="jumbotron bg-white shadow-sm h-100 py-5 px-4" style="border-radius: 15px; border-left: 8px solid #008080;">
-      <h2 class="text-dark">Welcome to the **SAND Lab**</h2>
+      <h2 class="text-dark">Welcome to the SANDLab!</h2>
       <p class="lead mt-3">
         We bridge <strong>computation, engineering, and physiology</strong> to understand disease and build precision solutions. We capture human body data currently inaccessible to the healthcare system.
       </p>
