@@ -2,19 +2,23 @@
 layout: page
 title: News
 subtitle: Recent lab happenings
+ticker_items:
+  - "Welcome to our new graduate students: Andy, Vi, Josh, and Shruthi!"
+  - "Sandya’s final PhD work on tracking surgical pain is published in PNAS!"
+  - "SANDLab is officially here at UC Berkeley and UCSF!"
 ---
 
 <div class="news-list" markdown="1">
 
 ### May 2026
-* {: .ticker-news} **Welcome to our new graduate students!** We are thrilled to have Andy Seymour, Vi Nguyen, Josh Everts, and Shruthi Ravichandran join the SANDLab team.
+* **Welcome to our new graduate students!** We are thrilled to have Andy Seymour, Vi Nguyen, Josh Everts, and Shruthi Ravichandran join the SANDLab team.
 
 ### Sep 2024
-* {: .ticker-news} **Tracking unconscious pain during surgery published in PNAS!** Sandya’s final PhD work, involving over 500 hours in the OR, is now out in [PNAS](https://www.pnas.org/doi/10.1073/pnas.2319316121).
+* **Tracking unconscious pain during surgery published in PNAS!** Sandya’s final PhD work, involving over 500 hours in the OR, is now out in [PNAS](https://www.pnas.org/doi/10.1073/pnas.2319316121).
 * **Invited Talk:** Sandya was invited to give a talk at the UC Berkeley Biostat Graduate Seminar!
 
 ### Jul 2024
-* {: .ticker-news} **SANDLab is officially here!** We are excited to launch our interdisciplinary research environment at UC Berkeley and UCSF. [Coverage here](https://cdss.berkeley.edu/news/cdss-welcomes-seven-faculty-celebrates-two-new-college-chairs).
+* **SANDLab is officially here!** We are excited to launch our interdisciplinary research environment at UC Berkeley and UCSF. [Coverage here](https://cdss.berkeley.edu/news/cdss-welcomes-seven-faculty-celebrates-two-new-college-chairs).
 
 ### Feb 2024
 <div class="row" markdown="1">
@@ -60,6 +64,5 @@ subtitle: Recent lab happenings
 </div>
 
 <style>
-  .news-list h3 { border-bottom: 2px solid #003262; padding-bottom: 5px; margin-top: 40px; color: #003262; }
-  .badge { margin-right: 10px; }
+  .news-list h3 { border-bottom: 2px solid #008080; padding-bottom: 5px; margin-top: 40px; color: #008080; }
 </style>
