@@ -46,6 +46,18 @@ subtitle: Systemic Autonomic Neuro Dynamics Lab
 </div>
 </div>
 
+<div class="col-md-6 mb-4" markdown="1">
+<div class="row no-gutters" markdown="1">
+<div class="col-sm-4" markdown="1">
+<img src="/assets/img/LabPhoto_spring2025.jpg" style="height:150px; width:100%; object-fit:cover;" class="rounded shadow-sm" alt="Shruthi Ravichandran">
+</div>
+<div class="col-sm-8 pl-3" markdown="1">
+#### Andy Seymour
+**M.S. Student, UCB EECS** *Co-advised by Prabal Dutta* Working on hardware-firmware applications.
+</div>
+</div>
+</div>
+
 </div>
 
 ---
@@ -144,6 +156,7 @@ subtitle: Systemic Autonomic Neuro Dynamics Lab
 | :--- | :--- | :--- | :--- |
 | **Belinda Chen** | M.S. Health Data Science | 2026 | - |
 | **Hannah Aguilar** | M.S. Statistics | 2026 | Ph.D. student at UCB Comp Bio |
+| **Nick Carpenedo** | Undergraduate EECS | 2026 | - |
 | **Wei Wang** | Undergraduate BioE | 2026 | - |
 | **Bhuvana Ravi Kumar** | M.S. CS @ UC Davis | 2026 | - |
 | **Reuben Koshy Thomas** | EECS Undergrad / Sensor Lead | 2025 | Industry (San Francisco) |
