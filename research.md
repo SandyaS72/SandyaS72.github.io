@@ -109,31 +109,19 @@ subtitle: Harnessing AI to understand human physiology
         <div class="bg-light p-3 rounded" style="font-size: 0.9rem;">
             <strong class="d-block mb-2">Key Publications:</strong>
             <ul class="list-unstyled mb-0" style="line-height: 1.6;">
-                <li class="mb-2">• <strong>Sweat Gland Biophysics:</strong> Quantifying physiology from first principles ([IEEE TBME 2021](https://doi.org/10.1109/TBME.2021.3071366), [PLoS Comp Bio 2021](https://doi.org/10.1371/journal.pcbi.1009099), [PNAS 2020](https://doi.org/10.1073/pnas.2004403117), [Proc IEEE EMBC 2019](https://doi.org/10.1109/EMBC.2019.8857757), [Proc IEEE EMBC 2018](https://doi.org/10.1109/EMBC.2018.8512211))</li>
-                <li class="mb-2">• <strong>Artifact Removal:</strong> Automated electrodermal artifact correction in operating rooms ([Phys Meas 2022](https://doi.org/10.1088/1361-6579/ac92bd), [Proc IEEE EMBC 2021](https://doi.org/10.1109/EMBC46164.2021.9630535))</li>
-                <li class="mb-2">• <strong>Activity Tracking:</strong> Classifying sleep and wake states automatically from triaxial accelerometer data ([Proc IEEE EMBC 2022](https://doi.org/10.1109/EMBC48229.2022.9871823))</li>
-                <li class="mb-1">• <strong>Heartbeat Dynamics:</strong> Neural temporal point process modeling methods for cardiac variance ([ICLR TS4H Workshop 2024](https://openreview.net/pdf?id=CRTVmL4VBv))</li>
-            </ul>
-        </div>
-    </div>
-    <div class="col-md-4 d-flex align-items-center">
-        <div class="p-4 bg-teal text-white rounded shadow-sm w-100 text-center">
-            <i class="fas fa-code fa-3x mb-3"></i>
-            <h5>Differentiable Algorithms</h5>
-            <p class="small mb-0 opacity-75 mt-2">Network models of the ANS across the human body</p>
-        </div>
-    </div>
-</div>
-
-<div class="row mb-5">
-    <div class="col-md-4">
-        <img src="/assets/img/ANS_network.jpg" class="img-fluid rounded shadow-sm" alt="ANS network">
-    </div>
-    <div class="col-md-8">
-        <h4 class="border-bottom pb-2" style="color: #4A5D6E;">3. Physiologic Modeling</h4>
-        <p>At the core of our lab is finding creative ways to mathematically model macroscale physiology. We embed structural inductive biases from physiological priors straight into computational engines. This enhances their accuracy even on sparse datasets, resulting in robust models that remain clinically interpretable.</p>
-        
-        <div class="bg-light p-3 rounded" style="font-size: 0.9rem;">
-            <strong class="d-block mb-2">Key Publications & Milestones:</strong>
-            <ul class="list-unstyled mb-0" style="line-height: 1.6;">
-                <li class="mb-1">• <strong>General Anesthesia:</strong> Using autonomic responses for patient health tracking ([PLoS ONE 2021](https://doi.org/10.1371/journal.pone.0254053), [Proc IEEE EMBC 2022](https://doi.org/10.1109/EMBC48229.2022.9871080), [Proc IEEE EMBC 2020](https://doi.org/10.1109/EMBC44109.2020.9175366), [Proc IEEE ESGCO 2020](https://doi.org/10.1109/ESGCO49734.2020.9158139), [Proc CinC 2020](
+                <li class="mb-2">• <strong>Sweat Gland Biophysics:</strong> Quantifying physiology from first principles (
+                    <a href="https://doi.org/10.1109/TBME.2021.3071366" target="_blank">IEEE TBME 2021</a>, 
+                    <a href="https://doi.org/10.1371/journal.pcbi.1009099" target="_blank">PLoS Comp Bio 2021</a>, 
+                    <a href="https://doi.org/10.1073/pnas.2004403117" target="_blank">PNAS 2020</a>, 
+                    <a href="https://doi.org/10.1109/EMBC.2019.8857757" target="_blank">Proc IEEE EMBC 2019</a>, 
+                    <a href="https://doi.org/10.1109/EMBC.2018.8512211" target="_blank">Proc IEEE EMBC 2018</a>)
+                </li>
+                <li class="mb-2">• <strong>Artifact Removal:</strong> Automated electrodermal artifact correction in operating rooms (
+                    <a href="https://doi.org/10.1088/1361-6579/ac92bd" target="_blank">Phys Meas 2022</a>, 
+                    <a href="https://doi.org/10.1109/EMBC46164.2021.9630535" target="_blank">Proc IEEE EMBC 2021</a>)
+                </li>
+                <li class="mb-2">• <strong>Activity Tracking:</strong> Classifying sleep and wake states automatically from triaxial accelerometer data (
+                    <a href="https://doi.org/10.1109/EMBC48229.2022.9871823" target="_blank">Proc IEEE EMBC 2022</a>)
+                </li>
+                <li class="mb-1">• <strong>Heartbeat Dynamics:</strong> Neural temporal point process modeling methods for cardiac variance (
+                    <a href="
