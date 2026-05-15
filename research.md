@@ -119,7 +119,7 @@ subtitle: Harnessing AI to understand human physiology
     <div class="project-card pipeline-card mb-4">
       <span class="status-badge badge-ongoing">Active Methodological Focus</span>
       <p class="mt-3 mb-0 project-text-main">
-        Developing dynamic structural network models tracking cross-body ANS output dynamics simultaneously.
+        Developing dynamic multi-organ network models tracking autonomic regulation across the body simultaneously.
       </p>
     </div>
 
@@ -147,7 +147,7 @@ subtitle: Harnessing AI to understand human physiology
         </li>
         
         <li class="mb-0">
-          <strong>Heartbeat Stochastics:</strong> Neural temporal point process mapping frameworks (
+          <strong>Heartbeat Dynamics:</strong> Neural temporal point process mapping frameworks (
           <a href="https://openreview.net/pdf?id=CRTVmL4VBv" target="_blank">ICLR TS4H 2024</a>)
         </li>
         
@@ -158,8 +158,8 @@ subtitle: Harnessing AI to understand human physiology
   <div class="col-md-4 d-flex align-items-stretch">
     <div class="p-4 bg-teal text-white rounded shadow-sm w-100 d-flex flex-column justify-content-center text-center">
       <i class="fas fa-network-wired fa-3x mb-3"></i>
-      <h5>Differentiable Architectures</h5>
-      <p class="small mb-0 opacity-75 mt-2">Embedding system biophysics cleanly inside ML loss-functions.</p>
+      <h5>Physiology-Informed AI</h5>
+      <p class="small mb-0 opacity-75 mt-2">Incorporating physiological priors, principles, and knowledge into differentiable models</p>
     </div>
   </div>
 </div>
@@ -189,23 +189,23 @@ subtitle: Harnessing AI to understand human physiology
       <ul class="list-unstyled mb-0" style="line-height: 1.8; font-size: 1.05rem;">
         
         <li class="mb-3">
-          <strong>General Anesthesia:</strong> Mapping deep autonomic responses directly to depth states (
+          <strong>General anesthesia:</strong> Mapping deep autonomic responses directly to depth states (
           <a href="https://doi.org/10.1371/journal.pone.0254053" target="_blank">PLoS ONE 2021</a>, 
           <a href="https://doi.org/10.1109/EMBC48229.2022.9871080" target="_blank">Proc IEEE EMBC 2022</a>)
         </li>
         
         <li class="mb-3">
-          <strong>Gastroparesis Variances:</strong> Tracking ambulatory variance across specific functional subtypes (
+          <strong>Digestive disorders:</strong> Tracking ambulatory variance across specific functional subtypes (
           <a href="https://doi.org/10.1109/TBME.2023.3285491" target="_blank">IEEE TBME 2023</a>)
         </li>
         
         <li class="mb-3">
-          <strong>Pain Stratification:</strong> Sorting chronic clinical pain markers via EEG data clustering models (
+          <strong>Pain stratification:</strong> Sorting chronic clinical pain markers via EEG data clustering models (
           <a href="https://doi.org/10.1109/IEEECONF58974.2023.10404287" target="_blank">Proc IEEE EMBS</a>)
         </li>
         
         <li class="mb-0">
-          <strong>Surgical Nociception:</strong> Mapping multi-hour unconscious surgical pain trajectories (
+          <strong>Unconscious pain during surgery:</strong> Mapping multi-hour unconscious surgical pain trajectories (
           <a href="https://www.pnas.org/doi/10.1073/pnas.2319316121" target="_blank">PNAS 2024</a>)
         </li>
         
