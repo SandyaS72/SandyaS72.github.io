@@ -3,15 +3,19 @@ layout: page
 title: Publications
 ---
 
-<p style="text-align: center;"><a href="https://scholar.google.com/citations?user=ihRIXQUAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
+<div class="text-center mb-5">
+  <a href="https://scholar.google.com/citations?user=ihRIXQUAAAAJ&hl=en&oi=ao" class="scholar-btn" target="_blank">
+    <i class="ai ai-google-scholar"></i> View on Google Scholar
+  </a>
+</div>
 
-## 2025  
+## 2025
 {% include publications-format.md items="EMBC_1, EMBC_2, EMBC_3, EMBC_4" file="publications2025" caption="2025 publications" %}
 
-## 2024  
+## 2024
 {% include publications-format.md items="PNAS_2024, EMBC, ICLR" file="publications2024" caption="2024 publications" %}
 
-## 2023  
+## 2023
 {% include publications-format.md items="DataSci_SS, DataSci_BR, BSN, TBME, EMBC" file="publications2023" caption="2023 publications" %}
 
 ## 2022
@@ -37,3 +41,12 @@ title: Publications
 
 ## 2014
 {% include publications-format.md items="EMBC_2014" file="publications2014" caption="2014 publications" %}
+
+
+<style>
+  h2 { color: #4A5D6E !important; border-bottom: 2px solid #e0eeee; padding-bottom: 6px; font-weight: 700; margin-top: 2.5rem; margin-bottom: 1.5rem; }
+  
+  /* Google Scholar Substantial Button */
+  .scholar-btn { display: inline-block; padding: 10px 24px; background-color: #f4fbfb; color: #008080; font-weight: 600; border: 2px solid #008080; border-radius: 30px; text-decoration: none; transition: all 0.2s ease; }
+  .scholar-btn:hover { background-color: #008080; color: white; text-decoration: none; box-shadow: 0 4px 8px rgba(0,128,128,0.15); }
+</style>
