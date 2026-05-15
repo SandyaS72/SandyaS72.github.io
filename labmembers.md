@@ -17,7 +17,7 @@ subtitle: Systemic Autonomic Neuro Dynamics Lab
 </div>
 <div class="col-sm-8 pl-3" markdown="1">
 #### Vi Nguyen
-**Ph.D. Student, BioE** *Co-advised by Prasad Shirvalkar* Research focuses on the intersection of bioengineering and clinical neuro-dynamics.
+**Ph.D. Student, BioE** <br> *Co-advised by Prasad Shirvalkar* Research focuses on the intersection of bioengineering and clinical neuro-dynamics.
 </div>
 </div>
 </div>
