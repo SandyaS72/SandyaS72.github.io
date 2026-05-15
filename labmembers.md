@@ -17,7 +17,7 @@ subtitle: Systemic Autonomic Neuro Dynamics Lab
 </div>
 <div class="col-sm-8 pl-3" markdown="1">
 #### Vi Nguyen
-**Ph.D. Student, BioE** <br> *Co-advised by Prasad Shirvalkar* Research focuses on the intersection of bioengineering and clinical neuro-dynamics.
+**Ph.D. Student, BioE** <br> *Co-advised by Prasad Shirvalkar* <br> Research focuses on the intersection of bioengineering and clinical neuro-dynamics.
 </div>
 </div>
 </div>
@@ -29,7 +29,7 @@ subtitle: Systemic Autonomic Neuro Dynamics Lab
 </div>
 <div class="col-sm-8 pl-3" markdown="1">
 #### Josh Everts
-**Ph.D. Student, BioE** Focusing on developing engineering solutions for systemic autonomic monitoring and diagnostics.
+**Ph.D. Student, BioE** <br> Focusing on developing engineering solutions for systemic autonomic monitoring and diagnostics.
 </div>
 </div>
 </div>
@@ -41,7 +41,7 @@ subtitle: Systemic Autonomic Neuro Dynamics Lab
 </div>
 <div class="col-sm-8 pl-3" markdown="1">
 #### Shruthi Ravichandran
-**Ph.D. Student, EECS** *Co-advised by Miki Lustig* Researching computational imaging and signal processing for health applications.
+**Ph.D. Student, EECS** <br> *Co-advised by Miki Lustig* <br> Researching computational imaging and signal processing for health applications.
 </div>
 </div>
 </div>
@@ -53,7 +53,7 @@ subtitle: Systemic Autonomic Neuro Dynamics Lab
 </div>
 <div class="col-sm-8 pl-3" markdown="1">
 #### Andy Seymour
-**M.S. Student, EECS** *Co-advised by Prabal Dutta* Working on hardware-firmware applications.
+**M.S. Student, EECS** <br> *Co-advised by Prabal Dutta* <br> Working on hardware-firmware applications.
 </div>
 </div>
 </div>
@@ -73,7 +73,7 @@ subtitle: Systemic Autonomic Neuro Dynamics Lab
 </div>
 <div class="col-sm-8 pl-3" markdown="1">
 #### Jeshu Mohan
-**Engineering Physics** Aspiring MD-PhD merging mathematical and computational sciences with medicine. Outside the lab, he enjoys cooking many different cuisines, playing soccer, and climbing the global leaderboard of Clash of Clans.
+**Engineering Physics** <br> Aspiring MD-PhD merging mathematical and computational sciences with medicine. Outside the lab, he enjoys cooking many different cuisines, playing soccer, and climbing the global leaderboard of Clash of Clans.
 </div>
 </div>
 </div>
@@ -85,7 +85,7 @@ subtitle: Systemic Autonomic Neuro Dynamics Lab
 </div>
 <div class="col-sm-8 pl-3" markdown="1">
 #### Sriram Gadepalli
-**Integrative Biology** Researching CFS/Long COVID interactions and traumatic injuries. Assists in literature reviews, identifying research gaps, and clinical application planning.
+**Integrative Biology** <br> Researching CFS/Long COVID interactions and traumatic injuries. Assists in literature reviews, identifying research gaps, and clinical application planning.
 </div>
 </div>
 </div>
@@ -105,7 +105,7 @@ subtitle: Systemic Autonomic Neuro Dynamics Lab
 </div>
 <div class="col-sm-8 pl-3" markdown="1">
 #### Abhinav Reddy
-**BioE & Business (M.E.T)** Fusing sensor design with health data automation. He is an avid rock climber, an experimental chef, and a huge motorsport enthusiast.
+**BioE & Business (M.E.T)** <br> Fusing sensor design with health data automation. He is an avid rock climber, an experimental chef, and a huge motorsport enthusiast.
 </div>
 </div>
 </div>
@@ -117,7 +117,7 @@ subtitle: Systemic Autonomic Neuro Dynamics Lab
 </div>
 <div class="col-sm-8 pl-3" markdown="1">
 #### Ananya Dua
-**Statistics & Mathematics** Focuses on ML for women's health and wearable advocacy. Beyond academics, she serves as a senior editor at the Berkeley Undergraduate Journal.
+**Statistics & Mathematics** <br> Focuses on ML for women's health and wearable advocacy. Beyond academics, she serves as a senior editor at the Berkeley Undergraduate Journal.
 </div>
 </div>
 </div>
@@ -129,7 +129,7 @@ subtitle: Systemic Autonomic Neuro Dynamics Lab
 </div>
 <div class="col-sm-8 pl-3" markdown="1">
 #### Ruhi Batchu
-**Computer Science** Interested in epilepsy, autism, and the relationship between the gut and nervous system. Loves dancing and finding local bakeries.
+**Computer Science** <br> Interested in epilepsy, autism, and the relationship between the gut and nervous system. Loves dancing and finding local bakeries.
 </div>
 </div>
 </div>
@@ -141,7 +141,7 @@ subtitle: Systemic Autonomic Neuro Dynamics Lab
 </div>
 <div class="col-sm-8 pl-3" markdown="1">
 #### Sajiv Kumar
-**Computer Science** Investigating Chronic Fatigue/Long Covid links to the ANS. Outside the lab, he can be found hiking or playing the Tablas.
+**Computer Science** <br> Investigating Chronic Fatigue/Long Covid links to the ANS. Outside the lab, he can be found hiking or playing the Tablas.
 </div>
 </div>
 </div>
