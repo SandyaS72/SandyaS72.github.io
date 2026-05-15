@@ -6,7 +6,7 @@ subtitle: Systemic Autonomic Neuro Dynamics Lab
 
 <img src="/assets/img/LabPhoto_spring2025.jpg" style="width:100%;" class="rounded shadow mb-5" alt="SANDLab Group Photo Spring 2025">
 
-## Graduate Students
+## Ph.D. Students
 
 <div class="row" markdown="1">
 
@@ -45,6 +45,14 @@ subtitle: Systemic Autonomic Neuro Dynamics Lab
 </div>
 </div>
 </div>
+
+</div>
+
+---
+
+## Master's Students
+
+<div class="row" markdown="1">
 
 <div class="col-md-6 mb-4" markdown="1">
 <div class="row no-gutters" markdown="1">
