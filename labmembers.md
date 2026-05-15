@@ -13,10 +13,10 @@ subtitle: Systemic Autonomic Neuro Dynamics Lab
 <div class="col-md-6 mb-4" markdown="1">
 <div class="row no-gutters" markdown="1">
 <div class="col-sm-4" markdown="1">
-<img src="/assets/img/LabPhoto_spring2025.jpg" style="height:150px; width:100%; object-fit:cover;" class="rounded shadow-sm" alt="Belinda Chen">
+<img src="/assets/img/LabPhoto_spring2025.jpg" style="height:150px; width:100%; object-fit:cover;" class="rounded shadow-sm" alt="Vi Nguyen">
 </div>
 <div class="col-sm-8 pl-3" markdown="1">
-**Belinda Chen** *M.S. Health Data Science, UCSF* Passionate about personalizing chronic disease care through EEG/HR models and medical devices. Outside the lab, she enjoys volleyball and gaming.
+**Vi Nguyen** *Ph.D. Student, UCSF-UCB Bioengineering* Co-advised by Dr. Prasad Shirvalkar. Research focuses on the intersection of bioengineering and clinical neuro-dynamics.
 </div>
 </div>
 </div>
@@ -24,17 +24,56 @@ subtitle: Systemic Autonomic Neuro Dynamics Lab
 <div class="col-md-6 mb-4" markdown="1">
 <div class="row no-gutters" markdown="1">
 <div class="col-sm-4" markdown="1">
-<img src="/assets/img/LabPhoto_spring2025.jpg" style="height:150px; width:100%; object-fit:cover;" class="rounded shadow-sm" alt="Hannah Aguilar">
+<img src="/assets/img/LabPhoto_spring2025.jpg" style="height:150px; width:100%; object-fit:cover;" class="rounded shadow-sm" alt="Josh Everts">
 </div>
 <div class="col-sm-8 pl-3" markdown="1">
-**Hannah Aguilar** *M.S. Statistics, UC Berkeley* UC LEADS Scholar merging wearables with genomic data for personalized medicine. Enjoys running and hosting computational biology workshops.
+**Josh Everts** *Ph.D. Student, UCSF-UCB Bioengineering* Focusing on developing engineering solutions for systemic autonomic monitoring and diagnostics.
+</div>
+</div>
+</div>
+
+<div class="col-md-6 mb-4" markdown="1">
+<div class="row no-gutters" markdown="1">
+<div class="col-sm-4" markdown="1">
+<img src="/assets/img/LabPhoto_spring2025.jpg" style="height:150px; width:100%; object-fit:cover;" class="rounded shadow-sm" alt="Shruthi Ravichandran">
+</div>
+<div class="col-sm-8 pl-3" markdown="1">
+**Shruthi Ravichandran** *Ph.D. Student, UCB EECS* Co-advised by Dr. Miki Lustig. Researching computational imaging and signal processing for health applications.
 </div>
 </div>
 </div>
 
 </div>
 
-> **Join the Lab!** We are currently recruiting. If you're interested in [joining](https://sandyas72.github.io/join/), email Sandya at **sandyas AT berkeley DOT edu**. Ph.D. applicants to CPH, BioE, or Biostat are encouraged to list Dr. Subramanian as interested faculty.
+---
+
+## Research Assistants
+
+<div class="row" markdown="1">
+
+<div class="col-md-6 mb-4" markdown="1">
+<div class="row no-gutters" markdown="1">
+<div class="col-sm-4" markdown="1">
+<img src="/assets/img/LabPhoto_spring2025.jpg" style="height:150px; width:100%; object-fit:cover;" class="rounded shadow-sm" alt="Jeshu Mohan">
+</div>
+<div class="col-sm-8 pl-3" markdown="1">
+**Jeshu Mohan** *Engineering Physics* Aspiring MD-PhD merging mathematical and computational sciences with medicine. Outside the lab, he enjoys cooking and soccer.
+</div>
+</div>
+</div>
+
+<div class="col-md-6 mb-4" markdown="1">
+<div class="row no-gutters" markdown="1">
+<div class="col-sm-4" markdown="1">
+<img src="/assets/img/LabPhoto_spring2025.jpg" style="height:150px; width:100%; object-fit:cover;" class="rounded shadow-sm" alt="Sriram Gadepalli">
+</div>
+<div class="col-sm-8 pl-3" markdown="1">
+**Sriram Gadepalli** *Integrative Biology* Researching CFS/Long COVID interactions and traumatic injuries. Assists in literature reviews and clinical application planning.
+</div>
+</div>
+</div>
+
+</div>
 
 ---
 
@@ -67,17 +106,6 @@ subtitle: Systemic Autonomic Neuro Dynamics Lab
 <div class="col-md-6 mb-4" markdown="1">
 <div class="row no-gutters" markdown="1">
 <div class="col-sm-4" markdown="1">
-<img src="/assets/img/LabPhoto_spring2025.jpg" style="height:150px; width:100%; object-fit:cover;" class="rounded shadow-sm" alt="Jeshu Mohan">
-</div>
-<div class="col-sm-8 pl-3" markdown="1">
-**Jeshu Mohan** *Engineering Physics* Aspiring MD-PhD merging math/computation with medicine. Climbs global leaderboards in Clash of Clans.
-</div>
-</div>
-</div>
-
-<div class="col-md-6 mb-4" markdown="1">
-<div class="row no-gutters" markdown="1">
-<div class="col-sm-4" markdown="1">
 <img src="/assets/img/LabPhoto_spring2025.jpg" style="height:150px; width:100%; object-fit:cover;" class="rounded shadow-sm" alt="Ruhi Batchu">
 </div>
 <div class="col-sm-8 pl-3" markdown="1">
@@ -97,35 +125,16 @@ subtitle: Systemic Autonomic Neuro Dynamics Lab
 </div>
 </div>
 
-<div class="col-md-6 mb-4" markdown="1">
-<div class="row no-gutters" markdown="1">
-<div class="col-sm-4" markdown="1">
-<img src="/assets/img/LabPhoto_spring2025.jpg" style="height:150px; width:100%; object-fit:cover;" class="rounded shadow-sm" alt="Sriram Gadepalli">
-</div>
-<div class="col-sm-8 pl-3" markdown="1">
-**Sriram Gadepalli** *Integrative Biology* Researching CFS/Long COVID and traumatic injuries through literature reviews and clinical planning. Enjoys rock music and swimming.
-</div>
-</div>
-</div>
-
-<div class="col-md-6 mb-4" markdown="1">
-<div class="row no-gutters" markdown="1">
-<div class="col-sm-4" markdown="1">
-<img src="/assets/img/LabPhoto_spring2025.jpg" style="height:150px; width:100%; object-fit:cover;" class="rounded shadow-sm" alt="Wei Wang">
-</div>
-<div class="col-sm-8 pl-3" markdown="1">
-**Wei Wang** *Bioengineering* Working on sensor prototyping and electronics for brain-machine interfaces. Enjoys cooking and movies.
-</div>
-</div>
-</div>
-
 </div>
 
 ---
 
 ## Alumni
 
-| Name | Program/Role | Next Destination |
-| :--- | :--- | :--- |
-| **Reuben Koshy Thomas** | EECS Undergrad / Sensor Lead | Industry (San Francisco) |
-| **Bhuvana Ravi Kumar** | M.S. CS (CITRIS Intern) | Masters Program at UC Davis |
+| Name | Role in Lab | Year | Next Destination |
+| :--- | :--- | :--- | :--- |
+| **Belinda Chen** | M.S. Health Data Science | 2025 | - |
+| **Hannah Aguilar** | M.S. Statistics | 2025 | - |
+| **Wei Wang** | Undergraduate BioE | 2025 | - |
+| **Reuben Koshy Thomas** | EECS Undergrad / Sensor Lead | 2025 | Industry (San Francisco) |
+| **Bhuvana Ravi Kumar** | M.S. CS (CITRIS Intern) | 2025 | Masters Program at UC Davis |
