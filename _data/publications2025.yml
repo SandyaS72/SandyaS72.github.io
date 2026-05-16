@@ -3,6 +3,7 @@ EMBC_1:
   authors: "A Dua, S Subramanian"
   journal: <i>Proc IEEE Eng in Med & Biol</i>
   year: "2025"
+  link: <a href="https://doi.org/10.1109/EMBC58623.2025.11254499">Link</a>
   image: <img src="/assets/img/EMBC_1_2025.png">
 
 
@@ -11,6 +12,7 @@ EMBC_2:
   authors: "J Mohan, S Subramanian"
   journal: <i>Proc IEEE Eng in Med & Biol</i>
   year: "2025"
+  link: <a href="https://doi.org/10.1109/EMBC58623.2025.11252902">Link</a>
   image: <img src="/assets/img/EMBC_2_2025.png">
 
 
@@ -19,7 +21,7 @@ EMBC_3:
   authors: "B Chen, S Subramanian"
   journal: <i>Proc IEEE Eng in Med & Biol</i>
   year: "2025"
-  link: <a href="https://doi.org/10.1109/EMBC58623.2025.11251724"></a>
+  link: <a href="https://doi.org/10.1109/EMBC58623.2025.11251724">Link</a>
   image: <img src="/assets/img/EMBC_3_2025.png">
 
 
