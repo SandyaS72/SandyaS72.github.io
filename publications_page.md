@@ -9,6 +9,9 @@ title: Publications
   </a>
 </div>
 
+## 2026
+{% include publications-format.md items="AnnRev" file="publications2026" caption="2026 publications" %}
+
 ## 2025
 {% include publications-format.md items="EMBC_1, EMBC_2, EMBC_3, EMBC_4" file="publications2025" caption="2025 publications" %}
 
