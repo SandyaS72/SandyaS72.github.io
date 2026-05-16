@@ -27,7 +27,7 @@ subtitle: Systemic Autonomic Neuro Dynamics Lab
 <div class="row mt-4">
   <div class="col-lg-8">
     <div class="jumbotron bg-white shadow-sm h-100 py-5 px-4" style="border-radius: 15px; border-left: 8px solid #008080;">
-      <h2 class="text-dark">Welcome to the **SAND Lab**</h2>
+      <h2 class="text-dark">Welcome to SANDLab!</h2>
       <p class="lead mt-3" style="color: #008080; font-weight: 600; font-size: 1.3rem;">
         Harnessing AI to understand human physiology
       </p>
