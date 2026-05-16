@@ -3,7 +3,7 @@ layout: page
 title: News
 subtitle: Recent lab happenings
 ticker_items:
-  - "Welcome to our new graduate students: Andy, Vi, Josh, and Shruthi!"
+  - "Welcome to our new graduate students: Vi, Josh, and Shruthi!"
   - "Sandya’s final PhD work on tracking surgical pain is published in PNAS!"
   - "SANDLab is officially here at UC Berkeley and UCSF!"
 ---
@@ -11,7 +11,7 @@ ticker_items:
 <div class="news-list" markdown="1">
 
 ### May 2026
-* **Welcome to our new graduate students!** We are thrilled to have Andy Seymour, Vi Nguyen, Josh Everts, and Shruthi Ravichandran join the SANDLab team.
+* **Welcome to our new graduate students!** We are thrilled to have Vi Nguyen, Josh Everts, and Shruthi Ravichandran join the SANDLab team.
 
 ### Sep 2024
 * **Tracking unconscious pain during surgery published in PNAS!** Sandya’s final PhD work, involving over 500 hours in the OR, is now out in [PNAS](https://www.pnas.org/doi/10.1073/pnas.2319316121).
