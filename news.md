@@ -11,18 +11,21 @@ ticker_items:
 <div class="news-list" markdown="1">
 
 ### May 2026
-* **Welcome to our new graduate students!** We are thrilled to have Vi Nguyen, Josh Everts, and Shruthi Ravichandran join the SANDLab team.
+* **New Lab Members:** We are thrilled to have Vi Nguyen, Josh Everts, and Shruthi Ravichandran join the SANDLab team for their PhDs!
+
+### Jan 2025
+* **New Lab Members:** Welcome to SANDLab Reuben!
 
 ### Nov 2024
-* **New Lab Members:** Welcome Jeshu!
-* **Conference:** Sandya presents her work on unconscious pain during surgery at AMIA in SF!
+* **New Lab Members:** Welcome to SANDLab Jeshu!
+* **Conference:** Sandya presented her work on unconscious pain during surgery at AMIA in SF!
 
 ### Oct 2024
-* **New Lab Members:** Welcome Belinda and Ruhi!
-* **Invited Talk:** Sandya is invited to share her work on unconscious pain during surgery at a meeting of the MGH/MIT BASCIC Center!
+* **New Lab Members:** Welcome to SANDLab Belinda and Ruhi!
+* **Invited Talk:** Sandya was invited to share her work on unconscious pain during surgery at a meeting of the MGH/MIT BASCIC Center!
 
 ### Sep 2024
-* **New Lab Members:** Welcome Sriram, Sajiv, Abhi, Hannah, and Wei!
+* **New Lab Members:** Welcome Sriram, Sajiv, Abhi, Hannah, and Wei as the first students in SANDLab!
 * **Publication:** **Tracking unconscious pain during surgery published in PNAS!** Sandya’s final PhD work, involving over 500 hours in the OR, is now out in [PNAS](https://www.pnas.org/doi/10.1073/pnas.2319316121).
 * **Invited Talk:** Sandya was invited to give a talk at the UC Berkeley Biostat Graduate Seminar!
 
