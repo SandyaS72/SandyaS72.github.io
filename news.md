@@ -13,6 +13,10 @@ ticker_items:
 ### May 2026
 * **New Lab Members:** We are thrilled to have Vi Nguyen, Josh Everts, and Shruthi Ravichandran join the SANDLab team for their PhDs!
 
+### Apr 2025
+* **Invited Talk:** Sandya was invited to give a talk at the UC Berkeley Comp Bio Graduate Seminar!
+* **Conference:** SANDLab had a strong showing at the Frontiers of CPH Conference at UC Berkeley, with three posters from lab members and Sandya on a panel!
+
 ### Jan 2025
 * **New Lab Members:** Welcome to SANDLab Reuben!
 
