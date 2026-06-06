@@ -23,7 +23,7 @@ ticker_items:
 
 ### Sep 2024
 * **New Lab Members:** Welcome Sriram, Sajiv, Abhi, Hannah, and Wei!
-* * **Tracking unconscious pain during surgery published in PNAS!** Sandya’s final PhD work, involving over 500 hours in the OR, is now out in [PNAS](https://www.pnas.org/doi/10.1073/pnas.2319316121).
+* **Publication:** **Tracking unconscious pain during surgery published in PNAS!** Sandya’s final PhD work, involving over 500 hours in the OR, is now out in [PNAS](https://www.pnas.org/doi/10.1073/pnas.2319316121).
 * **Invited Talk:** Sandya was invited to give a talk at the UC Berkeley Biostat Graduate Seminar!
 
 ### Jul 2024
