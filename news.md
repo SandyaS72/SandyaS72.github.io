@@ -6,243 +6,221 @@ ticker_items:
   - "Welcome to our new graduate students: Vi, Josh, and Shruthi!"
   - "Sandya’s final PhD work on tracking surgical pain is published in PNAS!"
   - "SANDLab presents three papers and an abstract at IEEE EMBC 2025 in Copenhagen!"
+
+# ==============================================================================
+# LAB NEWS DATABASE
+# Simply add new items at the top of this list.
+# 
+# Format Options for items:
+#   - text: "Plain text description"
+#   - bullets: ["Bullet 1", "Bullet 2"]
+#   - images: ["image1.jpg", "image2.jpg"] -> 1, 3, 4, or 5 images handled automatically!
+#   - video: "YOUTUBE_VIDEO_ID"
+#   - inline_img: "sidebar_image.jpg"
+# ==============================================================================
+news_items:
+  - year: "2026"
+    date: "May 2026"
+    text: "<strong>New Lab Members:</strong> We are thrilled to have Vi Nguyen, Josh Everts, and Shruthi Ravichandran join the SANDLab team for their PhDs!"
+
+  - year: "2025"
+    date: "Jul 2025"
+    text: "<strong>Conference:</strong> SANDLab's first international conference! We presented three papers and an abstract at the IEEE Annual Conference on Engineering Medicine and Biology (EMBC) in Copenhagen!"
+    images:
+      - "/assets/img/EMBC_copenhagen_1.jpg"
+      - "/assets/img/EMBC_copenhagen_2.jpg"
+      - "/assets/img/EMBC_copenhagen_3.jpg"
+      - "/assets/img/EMBC_copenhagen_4.jpg"
+      - "/assets/img/EMBC_copenhagen_5.jpg"
+
+  - date: "Jun 2025"
+    text: "<strong>New Lab Members:</strong> Welcoming our new CITRIS summer intern, Bhuvana!"
+
+  - date: "May 2025"
+    bullets:
+      - "<strong>Invited Talk:</strong> Sandya gave a guest lecture at the 2025 IEEE-EMBS International Summer School on Advanced Data Analytics in Physiology in Pisa!"
+      - "<strong>Invited Talk:</strong> Sandya was invited to present at the Women in Data Science Worldwide event organized by Stanford @ Lane Medical Library!"
+      - "<strong>Award:</strong> Sandya won the Rose Hills Innovators Award to develop the at-home autonomic clinic of tomorrow!"
+      - "<strong>Lab Farewell:</strong> Bye Reuben! We'll miss you!"
+
+  - date: "Apr 2025"
+    images:
+      - "/assets/img/frontiers_cph_1.jpg"
+      - "/assets/img/frontiers_cph_2.jpg"
+      - "/assets/img/frontiers_cph_3.jpg"
+    bullets:
+      - "<strong>Invited Talk:</strong> Sandya was invited to give a talk at the UC Berkeley Comp Bio Graduate Seminar!"
+      - "<strong>Conference:</strong> SANDLab had a strong showing at the Frontiers of CPH Conference at UC Berkeley, with three posters from lab members and Sandya on a panel!"
+
+  - date: "Jan 2025"
+    text: "<strong>New Lab Members:</strong> Welcome to SANDLab Reuben!"
+
+  - year: "2024"
+    date: "Nov 2024"
+    bullets:
+      - "<strong>New Lab Members:</strong> Welcome to SANDLab Jeshu!"
+      - "<strong>Conference:</strong> Sandya presented her work on unconscious pain during surgery at AMIA in SF!"
+
+  - date: "Oct 2024"
+    bullets:
+      - "<strong>New Lab Members:</strong> Welcome to SANDLab Belinda and Ruhi!"
+      - "<strong>Invited Talk:</strong> Sandya was invited to share her work on unconscious pain during surgery at a meeting of the MGH/MIT BASCIC Center!"
+
+  - date: "Sep 2024"
+    bullets:
+      - "<strong>New Lab Members:</strong> Welcome Sriram, Sajiv, Abhi, Hannah, and Wei as the first students in SANDLab!"
+      - "<strong>Publication:</strong> <strong>Tracking unconscious pain during surgery published in PNAS!</strong> Sandya’s final PhD work, involving over 500 hours in the OR, is now out in <a href='https://www.pnas.org/doi/10.1073/pnas.2319316121' target='_blank'>PNAS</a>."
+      - "<strong>Invited Talk:</strong> Sandya was invited to give a talk at the UC Berkeley Biostat Graduate Seminar!"
+
+  - date: "Jul 2024"
+    text: "<strong>SANDLab is officially here!</strong> We are excited to launch our interdisciplinary research environment at UC Berkeley and UCSF. <a href='https://cdss.berkeley.edu/news/cdss-welcomes-seven-faculty-celebrates-two-new-college-chairs' target='_blank'>Coverage here</a>."
+
+  - date: "Feb 2024"
+    text: "<strong>Inside the data-driven search for migraine relief:</strong> Sandya sat down with <em>Times Higher Education</em> to talk about interdisciplinary science. <a href='https://www.timeshighereducation.com/campus/inside-datadriven-search-migraine-relief' target='_blank'>Link to article</a>."
+    inline_img: "/assets/img/Schmidt_THE_piece.png"
+
+  - year: "2023"
+    date: "Dec 2023"
+    text: "<strong>IEEE TBME Featured Article:</strong> Our paper on 24-hour monitoring of patients with gastroparesis was selected as a <a href='https://www.embs.org/tbme/articles/exploring-the-gut-brain-connection-in-gastroparesis-with-autonomic-and-gastric-myoelectric-monitoring/' target='_blank'>Featured Article</a>!"
+    inline_img: "/assets/img/TBME_featured_thumbnail.jpg"
+
+  - date: "Oct 2023"
+    text: "<strong>Graduate Diversity Fair:</strong> Sandya presents for CPH at the 2023 UC Berkeley Graduate Diversity Fair (starting at 39:15)."
+    video: "XAV4WkQviOM"
+
+  - year: "2022"
+    date: "Nov 2022"
+    text: "<strong>L'Oreal For Women in Science Fellowship:</strong> Sandya wins the prestigious L'Oreal For Women in Science Fellowship!"
+    video: "KnHq8WW9BoE"
+
+  - date: "Jun 2022"
+    text: "<strong>Schmidt Science Fellow:</strong> Sandya is named a 2022 Schmidt Science Fellow!"
+    video: "0xt02t6esig"
 ---
 
-<div class="news-list">
+<!-- ==========================================
+     AUTOMATED TIMELINE ENGINE
+     ========================================== -->
+<div class="timeline-container">
 
-  <!-- ==========================================
-       YEAR BLOCK: 2026
-       ========================================== -->
-  <h3 class="year-heading">2026</h3>
-
-  <!-- May 2026 -->
-  <div class="news-item row align-items-center">
-    <div class="col-md-12">
-      <span class="news-date">May 2026</span>
-      <p class="news-content"><strong>New Lab Members:</strong> We are thrilled to have Vi Nguyen, Josh Everts, and Shruthi Ravichandran join the SANDLab team for their PhDs!</p>
-    </div>
-  </div>
-
-
-  <!-- ==========================================
-       YEAR BLOCK: 2025
-       ========================================== -->
-  <h3 class="year-heading">2025</h3>
-
-  <!-- Jul 2025 -->
-  <div class="news-item">
-    <span class="news-date">Jul 2025</span>
+  {% for item in page.news_items %}
     
-    <!-- 3-Image Grid Row -->
-    <div class="row no-gutters mx-n1 mb-3">
-      <div class="col-4 px-1">
-        <img src="/assets/img/EMBC_copenhagen_1.jpg" class="img-fluid rounded shadow-sm w-100 grid-photo" alt="IEEE EMBC Copenhagen 1">
+    {% if item.year %}
+      <div class="timeline-header">
+        <h4>{{ item.year }}</h4>
       </div>
-      <div class="col-4 px-1">
-        <img src="/assets/img/EMBC_copenhagen_2.jpg" class="img-fluid rounded shadow-sm w-100 grid-photo" alt="IEEE EMBC Copenhagen 2">
-      </div>
-      <div class="col-4 px-1">
-        <img src="/assets/img/EMBC_copenhagen_3.jpg" class="img-fluid rounded shadow-sm w-100 grid-photo" alt="IEEE EMBC Copenhagen 3">
-      </div>
-    </div>
+    {% endif %}
 
-    <p class="news-content"><strong>Conference:</strong> SANDLab's first international conference! We presented three papers and an abstract at the IEEE Annual Conference on Engineering Medicine and Biology (EMBC) in Copenhagen!</p>
-  </div>
+    <div class="timeline-item">
+      <div class="timeline-marker"></div>
+      <div class="timeline-content">
+        <span class="news-date">{{ item.date }}</span>
+        
+        <!-- DYNAMIC IMAGE GALLERY GENERATOR -->
+        {% if item.images %}
+          {% assign img_count = item.images | size %}
+          
+          {% if img_count == 5 %}
+            <!-- 5 Pictures Look: 1 Big Featured, 4 Quad Supporting -->
+            <div class="row no-gutters mx-n1 mb-3">
+              <div class="col-md-6 px-1 mb-2 mb-md-0">
+                <img src="{{ item.images[0] }}" class="img-fluid rounded shadow-sm w-100 grid-photo-hero">
+              </div>
+              <div class="col-md-6 px-1">
+                <div class="row no-gutters mx-n1 mb-2">
+                  <div class="col-6 px-1"><img src="{{ item.images[1] }}" class="img-fluid rounded shadow-sm w-100 grid-photo-quad"></div>
+                  <div class="col-6 px-1"><img src="{{ item.images[2] }}" class="img-fluid rounded shadow-sm w-100 grid-photo-quad"></div>
+                </div>
+                <div class="row no-gutters mx-n1">
+                  <div class="col-6 px-1"><img src="{{ item.images[3] }}" class="img-fluid rounded shadow-sm w-100 grid-photo-quad"></div>
+                  <div class="col-6 px-1"><img src="{{ item.images[4] }}" class="img-fluid rounded shadow-sm w-100 grid-photo-quad"></div>
+                </div>
+              </div>
+            </div>
 
-  <!-- Jun 2025 -->
-  <div class="news-item">
-    <span class="news-date">Jun 2025</span>
-    <p class="news-content"><strong>New Lab Members:</strong> Welcoming our new CITRIS summer intern, Bhuvana!</p>
-  </div>
+          {% elsif img_count == 3 or img_count == 4 %}
+            <!-- 3 or 4 Pictures Look: Uniform Side-by-Side Row -->
+            <div class="row no-gutters mx-n1 mb-3">
+              {% for img in item.images %}
+                <div class="col-{{ 12 | divided_by: img_count }} px-1">
+                  <img src="{{ img }}" class="img-fluid rounded shadow-sm w-100 grid-photo-quad">
+                </div>
+              {% endfor %}
+            </div>
 
-  <!-- May 2025 -->
-  <div class="news-item">
-    <span class="news-date">May 2025</span>
-    <ul class="news-bullet-list">
-      <li><strong>Invited Talk:</strong> Sandya gave a guest lecture at the 2025 IEEE-EMBS International Summer School on Advanced Data Analytics in Physiology in Pisa!</li>
-      <li><strong>Invited Talk:</strong> Sandya was invited to present at the Women in Data Science Worldwide event organized by Stanford @ Lane Medical Library!</li>
-      <li><strong>Award:</strong> Sandya won the Rose Hills Innovators Award to develop the at-home autonomic clinic of tomorrow!</li>
-      <li><strong>Lab Farewell:</strong> Bye Reuben! We'll miss you!</li>
-    </ul>
-  </div>
+          {% else %}
+            <!-- Single Standard Header Image -->
+            <div class="mb-3">
+              <img src="{{ item.images[0] }}" class="img-fluid rounded shadow-sm style="max-height: 300px; object-fit: cover;">
+            </div>
+          {% endif %}
+        {% endif %}
 
-  <!-- Apr 2025 -->
-  <div class="news-item">
-    <span class="news-date">Apr 2025</span>
-    
-    <!-- 3-Image Grid Row -->
-    <div class="row no-gutters mx-n1 mb-3">
-      <div class="col-4 px-1">
-        <img src="/assets/img/frontiers_cph_1.jpg" class="img-fluid rounded shadow-sm w-100 grid-photo" alt="Frontiers Conference 1">
-      </div>
-      <div class="col-4 px-1">
-        <img src="/assets/img/frontiers_cph_2.jpg" class="img-fluid rounded shadow-sm w-100 grid-photo" alt="Frontiers Conference 2">
-      </div>
-      <div class="col-4 px-1">
-        <img src="/assets/img/frontiers_cph_3.jpg" class="img-fluid rounded shadow-sm w-100 grid-photo" alt="Frontiers Conference 3">
-      </div>
-    </div>
+        <!-- INLINE SIDEBAR IMAGE ITEM -->
+        {% if item.inline_img %}
+          <div class="row align-items-center">
+            <div class="col-md-3 text-center mb-3 mb-md-0">
+              <img src="{{ item.inline_img }}" class="img-fluid rounded shadow-sm w-100 inline-photo">
+            </div>
+            <div class="col-md-9">
+              {% if item.text %}<p class="news-text">{{ item.text }}</p>{% endif %}
+            </div>
+          </div>
 
-    <ul class="news-bullet-list">
-      <li><strong>Invited Talk:</strong> Sandya was invited to give a talk at the UC Berkeley Comp Bio Graduate Seminar!</li>
-      <li><strong>Conference:</strong> SANDLab had a strong showing at the Frontiers of CPH Conference at UC Berkeley, with three posters from lab members and Sandya on a panel!</li>
-    </ul>
-  </div>
+        {% else %}
+          <!-- STANDARD RENDER PATH -->
+          {% if item.text %}
+            <p class="news-text">{{ item.text }}</p>
+          {% endif %}
+        {% endif %}
 
-  <!-- Jan 2025 -->
-  <div class="news-item">
-    <span class="news-date">Jan 2025</span>
-    <p class="news-content"><strong>New Lab Members:</strong> Welcome to SANDLab Reuben!</p>
-  </div>
+        <!-- BULLETED LIST ENGINE -->
+        {% if item.bullets %}
+          <ul class="news-bullet-list">
+            {% for bullet in item.bullets %}
+              <li>{{ bullet }}</li>
+            {% endfor %}
+          </ul>
+        {% endif %}
 
+        <!-- VIDEO INJECTION ENGINE -->
+        {% if item.video %}
+          <div class="embed-responsive embed-responsive-16by9 mt-3 video-frame shadow-sm">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{ item.video }}" allowfullscreen></iframe>
+          </div>
+        {% endif %}
 
-  <!-- ==========================================
-       YEAR BLOCK: 2024
-       ========================================== -->
-  <h3 class="year-heading">2024</h3>
-
-  <!-- Nov 2024 -->
-  <div class="news-item">
-    <span class="news-date">Nov 2024</span>
-    <ul class="news-bullet-list">
-      <li><strong>New Lab Members:</strong> Welcome to SANDLab Jeshu!</li>
-      <li><strong>Conference:</strong> Sandya presented her work on unconscious pain during surgery at AMIA in SF!</li>
-    </ul>
-  </div>
-
-  <!-- Oct 2024 -->
-  <div class="news-item">
-    <span class="news-date">Oct 2024</span>
-    <ul class="news-bullet-list">
-      <li><strong>New Lab Members:</strong> Welcome to SANDLab Belinda and Ruhi!</li>
-      <li><strong>Invited Talk:</strong> Sandya was invited to share her work on unconscious pain during surgery at a meeting of the MGH/MIT BASCIC Center!</li>
-    </ul>
-  </div>
-
-  <!-- Sep 2024 -->
-  <div class="news-item row align-items-center">
-    <div class="col-md-12">
-      <span class="news-date">Sep 2024</span>
-      <ul class="news-bullet-list">
-        <li><strong>New Lab Members:</strong> Welcome Sriram, Sajiv, Abhi, Hannah, and Wei as the first students in SANDLab!</li>
-        <li><strong>Publication:</strong> <strong>Tracking unconscious pain during surgery published in PNAS!</strong> Sandya’s final PhD work, involving over 500 hours in the OR, is now out in <a href="https://www.pnas.org/doi/10.1073/pnas.2319316121" target="_blank">PNAS</a>.</li>
-        <li><strong>Invited Talk:</strong> Sandya was invited to give a talk at the UC Berkeley Biostat Graduate Seminar!</li>
-      </ul>
-    </div>
-  </div>
-
-  <!-- Jul 2024 -->
-  <div class="news-item">
-    <span class="news-date">Jul 2024</span>
-    <p class="news-content"><strong>SANDLab is officially here!</strong> We are excited to launch our interdisciplinary research environment at UC Berkeley and UCSF. <a href="https://cdss.berkeley.edu/news/cdss-welcomes-seven-faculty-celebrates-two-new-college-chairs" target="_blank">Coverage here</a>.</p>
-  </div>
-
-  <!-- Feb 2024 -->
-  <div class="news-item row align-items-center">
-    <div class="col-md-3 text-center mb-3 mb-md-0">
-      <img src="/assets/img/Schmidt_THE_piece.png" class="img-fluid rounded shadow-sm w-100 inline-photo" alt="Times Higher Ed">
-    </div>
-    <div class="col-md-9">
-      <span class="news-date">Feb 2024</span>
-      <p class="news-content"><strong>Inside the data-driven search for migraine relief:</strong> Sandya sat down with <em>Times Higher Education</em> to talk about interdisciplinary science. <a href="https://www.timeshighereducation.com/campus/inside-datadriven-search-migraine-relief" target="_blank">Link to article</a>.</p>
-    </div>
-  </div>
-
-
-  <!-- ==========================================
-       YEAR BLOCK: 2023
-       ========================================== -->
-  <h3 class="year-heading">2023</h3>
-
-  <!-- Dec 2023 -->
-  <div class="news-item row align-items-center">
-    <div class="col-md-3 text-center mb-3 mb-md-0">
-      <img src="/assets/img/TBME_featured_thumbnail.jpg" class="img-fluid rounded shadow-sm w-100 inline-photo" alt="TBME Featured">
-    </div>
-    <div class="col-md-9">
-      <span class="news-date">Dec 2023</span>
-      <p class="news-content"><strong>IEEE TBME Featured Article:</strong> Our paper on 24-hour monitoring of patients with gastroparesis was selected as a <a href="https://www.embs.org/tbme/articles/exploring-the-gut-brain-connection-in-gastroparesis-with-autonomic-and-gastric-myoelectric-monitoring/" target="_blank">Featured Article</a>!</p>
-    </div>
-  </div>
-
-  <!-- Oct 2023 -->
-  <div class="news-item row">
-    <div class="col-md-12">
-      <span class="news-date">Oct 2023</span>
-      <p class="news-content"><strong>Graduate Diversity Fair:</strong> Sandya presents for CPH at the 2023 UC Berkeley Graduate Diversity Fair (starting at 39:15).</p>
-      <div class="embed-responsive embed-responsive-16by9 mt-3 video-frame shadow-sm">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/XAV4WkQviOM?si=XqtuA8LQnA4bgm2b" allowfullscreen></iframe>
       </div>
     </div>
-  </div>
-
-
-  <!-- ==========================================
-       YEAR BLOCK: 2022
-       ========================================== -->
-  <h3 class="year-heading">2022</h3>
-
-  <!-- Nov 2022 -->
-  <div class="news-item row">
-    <div class="col-md-12">
-      <span class="news-date">Nov 2022</span>
-      <p class="news-content"><strong>L'Oreal For Women in Science Fellowship:</strong> Sandya wins the prestigious L'Oreal For Women in Science Fellowship!</p>
-      <div class="embed-responsive embed-responsive-16by9 mt-3 video-frame shadow-sm">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/KnHq8WW9BoE?si=KPpdHx85QcMGdoJh" allowfullscreen></iframe>
-      </div>
-    </div>
-  </div>
-
-  <!-- Jun 2022 -->
-  <div class="news-item row">
-    <div class="col-md-12">
-      <span class="news-date">Jun 2022</span>
-      <p class="news-content"><strong>Schmidt Science Fellow:</strong> Sandya is named a 2022 Schmidt Science Fellow!</p>
-      <div class="embed-responsive embed-responsive-16by9 mt-3 video-frame shadow-sm">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0xt02t6esig?si=BnMXiqgTTiPBqlFN" allowfullscreen></iframe>
-      </div>
-    </div>
-  </div>
+  {% endfor %}
 
 </div>
 
 <!-- ==========================================
-     GLOBAL STYLE ENGINE (UI Settings)
+     GLOBAL CSS TIMELINE TIMING & LAYOUT
      ========================================== -->
 <style>
-  /* Year Separators Layout */
-  .year-heading { color: #4A5D6E !important; border-bottom: 2px solid #e0eeee; padding-bottom: 6px; font-weight: 700; margin-top: 3rem; margin-bottom: 1.5rem; font-size: 1.5rem; }
-  
-  /* News Row Styling Blocks */
-  .news-item { padding: 20px; background-color: #ffffff; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.02); margin-bottom: 1.5rem; border-left: 4px solid #e0eeee; transition: border-left-color 0.2s ease; }
-  .news-item:hover { border-left-color: #008080; }
-  
-  /* Date and Text Configurations */
-  .news-date { display: inline-block; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; color: #008080; letter-spacing: 0.5px; margin-bottom: 6px; }
-  .news-content { font-size: 1.05rem; color: #222222 !important; line-height: 1.5; margin-bottom: 0; }
-  
-  /* Bulleted lists spacing nested inside row items */
+  .timeline-container { position: relative; padding-left: 25px; margin-top: 2rem; }
+  .timeline-container::before { content: ''; position: absolute; top: 10px; bottom: 30px; left: 4px; width: 3px; background: #e0eeee; }
+  .timeline-header { position: relative; margin-top: 3rem; margin-bottom: 1.5rem; left: -25px; }
+  .timeline-header h4 { display: inline-block; background: #008080; color: #ffffff !important; font-size: 1.5rem; font-weight: 700; padding: 6px 20px; border-radius: 4px; margin: 0; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
+  .timeline-item { position: relative; margin-bottom: 2rem; }
+  .timeline-marker { position: absolute; top: 6px; left: -25px; width: 11px; height: 11px; border-radius: 50%; background: #008080; border: 2px solid #ffffff; box-shadow: 0 0 0 3px #e0eeee; transition: background 0.2s ease; }
+  .timeline-item:hover .timeline-marker { background: #4A5D6E; }
+  .timeline-content { padding: 20px; background-color: #ffffff; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.04); }
+  .news-date { display: inline-block; font-size: 1.15rem; font-weight: 700; color: #008080; letter-spacing: 0.3px; margin-bottom: 8px; }
+  .news-text { font-size: 1.05rem; color: #222222 !important; line-height: 1.55; margin-bottom: 0; }
   .news-bullet-list { padding-left: 18px; margin-bottom: 0; font-size: 1.05rem; color: #222222 !important; }
-  .news-bullet-list li { margin-bottom: 0.5rem; line-height: 1.5; }
+  .news-bullet-list li { margin-bottom: 0.6rem; line-height: 1.55; }
   .news-bullet-list li:last-child { margin-bottom: 0; }
-
-  /* Video Frames Constraints */
   .video-frame { border-radius: 8px; overflow: hidden; }
-  
-  /* Single inline picture layout constraints */
   .inline-photo { max-height: 140px; object-fit: contain; }
-
-  /* 3-Photo Multi-Grid Asset Constraints */
-  .grid-photo {
-    height: 150px;
-    object-fit: cover;
-    object-position: center;
+  .grid-photo-hero { height: 278px; object-fit: cover; object-position: center; }
+  .grid-photo-quad { height: 135px; object-fit: cover; object-position: center; }
+  @media (max-width: 768px) {
+    .grid-photo-hero { height: 200px; }
+    .grid-photo-quad { height: 95px; }
   }
-  @media (max-width: 576px) {
-    .grid-photo { height: 90px; }
-  }
-  
-  /* General link styling override rules */
-  .news-item a { color: #008080; font-weight: 600; text-decoration: none; }
-  .news-item a:hover { text-decoration: underline; color: #005353; }
+  .timeline-content a { color: #008080; font-weight: 600; text-decoration: none; }
+  .timeline-content a:hover { text-decoration: underline; color: #4A5D6E; }
 </style>
