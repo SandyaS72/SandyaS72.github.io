@@ -13,6 +13,18 @@ ticker_items:
 ### May 2026
 * **New Lab Members:** We are thrilled to have Vi Nguyen, Josh Everts, and Shruthi Ravichandran join the SANDLab team for their PhDs!
 
+### Jul 2025
+* **Conference:** SANDLab's first international conference! We presented three papers and one abstract at the IEEE Annual Conference on Engineering Medicine and Biology in Copenhagen!
+
+### Jun 2025
+* **New Lab Members:** Welcoming our new CITRIS summer intern, Bhuvana!
+
+### May 2025
+* **Invited Talk:** Sandya gave a guest lecture at the 2025 IEEE-EMBS International Summer School on Advanced Data Analytics in Physiology in Pisa!
+* **Invited Talk:** Sandya was invited to present at the Women in Data Science Worldwide event organized by Stanford @ Lane Medical Library!
+* **Award:** Sandya won the Rose Hills Innovators Award to develop the at-home autonomic clinic of tomorrow!
+* **Lab Farewell:** Bye Reuben! We'll miss you!
+
 ### Apr 2025
 * **Invited Talk:** Sandya was invited to give a talk at the UC Berkeley Comp Bio Graduate Seminar!
 * **Conference:** SANDLab had a strong showing at the Frontiers of CPH Conference at UC Berkeley, with three posters from lab members and Sandya on a panel!
