@@ -27,8 +27,19 @@ news_items:
     date: "May 2026"
     bullets:
       - text: "<strong>New Lab Members:</strong> We are thrilled to have Vi Nguyen, Josh Everts, and Shruthi Ravichandran join the SANDLab team for their PhDs!"
-
+      
   - year: "2025"
+    date: "Dec 2025"
+    bullets:
+      - text: "<strong>Publication:</strong> <strong>Our network view of the autonomic nervous system published in Annual Reviews in Biomedical Engineering!</strong> Sandya's invited review, written with Sage Chen at NYU, Riccardo Barbieri at Politecnico di Milano, and Sriram in SANDLab (Go Sriram!), is now out in <a href='https://www.annualreviews.org/content/journals/10.1146/annurev-bioeng-103023-065411' target='_blank'>Annual Reviews in BME</a>."
+
+    
+  - date: "Nov 2025"
+    bullets:
+      - text: "<strong>Conference:</strong> Jeshu presents early results on migraine data at the Society for Neuroscience Annual Meeting!"
+      - text: "<strong>Invited Talk:</strong> Sandya gave the Neyman Seminar in the Department of Statistics at UC Berkeley!"
+      - text: "<strong>Award:</strong> SANDLab won the UCSF Catalyst Consultation Award for our work on bladder monitoring!"
+
   - date: "Oct 2025"
     bullets:
       - text: "<strong>Conference:</strong> Jeshu presents his work on Windowed Variance Correlation at BayLearn! Here is our <a href='https://arxiv.org/abs/2512.01301' target='_blank'>preprint</a>."
