@@ -24,7 +24,11 @@ ticker_items:
 # ==============================================================================
 news_items:
   - year: "2026"
-    date: "May 2026"
+    date: "Jun 2026"
+    bullets:
+      - text: "<strong>New Lab Members:</strong> Welcome to SANDLab Gayathri!"
+  
+  - date: "May 2026"
     bullets:
       - text: "<strong>New Lab Members:</strong> We are thrilled to have Vi, Josh, and Shruthi join the SANDLab team for their PhDs!"
       - text: "<strong>Award:</strong> SANDLab wins a UCSF Weill Catalyst Award for our bladder monitoring project! Thank you Weill Institute for Neurosciences for supporting our work!"
