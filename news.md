@@ -31,11 +31,11 @@ news_items:
   - year: "2025"
     date: "Jul 2025"
     images:
-      - "/assets/img/EMBC_copenhagen_1.jpg"
+      - "/assets/img/EMBC_copenhagen_5.jpg"
       - "/assets/img/EMBC_copenhagen_2.jpg"
       - "/assets/img/EMBC_copenhagen_3.jpg"
       - "/assets/img/EMBC_copenhagen_4.jpg"
-      - "/assets/img/EMBC_copenhagen_5.jpg"
+      - "/assets/img/EMBC_copenhagen_1.jpg"
     bullets:
       - text: "<strong>Conference:</strong> SANDLab's first international conference! We presented three papers and an abstract at the IEEE Annual Conference on Engineering Medicine and Biology (EMBC) in Copenhagen!"
 
