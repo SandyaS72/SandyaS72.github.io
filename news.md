@@ -29,7 +29,15 @@ news_items:
       - text: "<strong>New Lab Members:</strong> We are thrilled to have Vi Nguyen, Josh Everts, and Shruthi Ravichandran join the SANDLab team for their PhDs!"
 
   - year: "2025"
-    date: "Jul 2025"
+  - date: "Oct 2025"
+    bullets:
+      - text: "<strong>Conference:</strong> Jeshu presents his work on Windowed Variance Correlation at BayLearn! Here is our <a href='https://arxiv.org/abs/2512.01301' target='_blank'>preprint</a>."
+        
+  - date: "Sep 2025"
+    bullets:
+      - text: "<strong>New Lab Members:</strong> Welcome Andy, Nick, and Savanna!"
+        
+  - date: "Jul 2025"
     images:
       - "/assets/img/EMBC_copenhagen_5.jpg"
       - "/assets/img/EMBC_copenhagen_2.jpg"
