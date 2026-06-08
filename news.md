@@ -26,19 +26,37 @@ news_items:
   - year: "2026"
     date: "May 2026"
     bullets:
-      - text: "<strong>New Lab Members:</strong> We are thrilled to have Vi Nguyen, Josh Everts, and Shruthi Ravichandran join the SANDLab team for their PhDs!"
+      - text: "<strong>New Lab Members:</strong> We are thrilled to have Vi, Josh, and Shruthi join the SANDLab team for their PhDs!"
+      - text: "<strong>Award:</strong> SANDLab wins a UCSF Weill Catalyst Award for our bladder monitoring project! Thank you Weill Institute for Neurosciences for supporting our work!"
+      - text: "<strong>Lab Farewell:</strong> Congrats to the first class of SANDLab graduates - Wei, Jeshu, Andy, Nick, Sriram, Belinda, Hannah, and Bhuvana! We'll miss you all and wish you the best!"
+
+  - date: "Apr 2026"
+    bullets:
+      - text: "<strong>Conference:</strong> Sandya moderates a panel titled 'From the Frontlines: The Clinical Reality' at the Frontiers in Computational Precision Health Conference at UCSF!"
+
+  - date: "Mar 2026"
+    bullets:
+      - text: "<strong>New Lab Members:</strong> Welcome Josh, Vi, and Adrian, BioE PhD students rotating in the lab this quarter!"
+      - text: "<strong>Lab Farewell:</strong> Bye Bhuvana! We'll miss you!"
+       
+  - date: "Feb 2026"
+    bullets:
+      - text: "<strong>New Lab Members:</strong> Welcome Eric, Erin, Eva, Saleh, and Sean!"
+        
+  - date: "Jan 2026"
+    bullets:
+      - text: "<strong>Award:</strong> SANDLab won a Schmidt Sciences Catalyst Award to research new batteries for at-home monitoring in collaboration with Prof. Susmita Sarkar's lab at NC State University! Thank you Schmidt Science Fellows for supporting our work!"
       
   - year: "2025"
     date: "Dec 2025"
     bullets:
       - text: "<strong>Publication:</strong> <strong>Our network view of the autonomic nervous system published in Annual Reviews in Biomedical Engineering!</strong> Sandya's invited review, written with Sage Chen at NYU, Riccardo Barbieri at Politecnico di Milano, and Sriram in SANDLab (Go Sriram!), is now out in <a href='https://www.annualreviews.org/content/journals/10.1146/annurev-bioeng-103023-065411' target='_blank'>Annual Reviews in BME</a>."
 
-    
   - date: "Nov 2025"
     bullets:
       - text: "<strong>Conference:</strong> Jeshu presents early results on migraine data at the Society for Neuroscience Annual Meeting!"
       - text: "<strong>Invited Talk:</strong> Sandya gave the Neyman Seminar in the Department of Statistics at UC Berkeley!"
-      - text: "<strong>Award:</strong> SANDLab won the UCSF Catalyst Consultation Award for our work on bladder monitoring!"
+      - text: "<strong>Award:</strong> SANDLab won the UCSF Catalyst Consultation Award for our work on bladder monitoring! Thank you to the UCSF Catalyst program for providing support and mentorship for our work!"
 
   - date: "Oct 2025"
     bullets:
