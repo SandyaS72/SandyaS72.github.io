@@ -27,6 +27,7 @@ news_items:
     date: "Jun 2026"
     bullets:
       - text: "<strong>New Lab Members:</strong> Welcome to SANDLab Gayathri!"
+      - text: "<strong>Publication:</strong> <strong>Our network view of the autonomic nervous system published in Annual Reviews in Biomedical Engineering!</strong> Sandya's invited review, written with Sage Chen at NYU, Riccardo Barbieri at Politecnico di Milano, and Sriram in SANDLab (Go Sriram!), is now out in <a href='https://www.annualreviews.org/content/journals/10.1146/annurev-bioeng-103023-065411' target='_blank'>Annual Reviews in BME</a>."
   
   - date: "May 2026"
     bullets:
