@@ -58,6 +58,7 @@ news_items:
     bullets:
       - text: "<strong>Invited Talk:</strong> Sandya was invited to give a talk at the UC Berkeley Comp Bio Graduate Seminar!"
       - text: "<strong>Conference:</strong> SANDLab had a strong showing at the Frontiers of CPH Conference at UC Berkeley, with three posters from lab members and Sandya on a panel!"
+        inline_img: "/assets/img/TBME_featured_thumbnail.jpg"
       - text: "<strong>Lab event:</strong> Lab hot pot dinner!"
         bullet_img: "/assets/img/labdinner_apr2025.jpg"
 
