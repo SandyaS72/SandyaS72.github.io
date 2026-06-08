@@ -5,7 +5,7 @@ subtitle: Recent lab happenings
 ticker_items:
   - "Welcome to our new graduate students: Vi, Josh, and Shruthi!"
   - "Sandya’s final PhD work on tracking surgical pain is published in PNAS!"
-  - "SANDLab is officially here at UC Berkeley and UCSF!"
+  - "SANDLab presents three papers and an abstract at IEEE EMBC 2025 in Copenhagen!"
 ---
 
 <div class="news-list" markdown="1">
@@ -14,7 +14,7 @@ ticker_items:
 * **New Lab Members:** We are thrilled to have Vi Nguyen, Josh Everts, and Shruthi Ravichandran join the SANDLab team for their PhDs!
 
 ### Jul 2025
-* **Conference:** SANDLab's first international conference! We presented three papers and one abstract at the IEEE Annual Conference on Engineering Medicine and Biology in Copenhagen!
+* **Conference:** SANDLab's first international conference! We presented three papers and an abstract at the IEEE Annual Conference on Engineering Medicine and Biology (EMBC) in Copenhagen!
 
 ### Jun 2025
 * **New Lab Members:** Welcoming our new CITRIS summer intern, Bhuvana!
