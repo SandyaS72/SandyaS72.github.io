@@ -58,9 +58,8 @@ news_items:
     bullets:
       - text: "<strong>Invited Talk:</strong> Sandya was invited to give a talk at the UC Berkeley Comp Bio Graduate Seminar!"
       - text: "<strong>Conference:</strong> SANDLab had a strong showing at the Frontiers of CPH Conference at UC Berkeley, with three posters from lab members and Sandya on a panel!"
-      # EDIT HERE: Change path to your new dynamic fourth picture for April!
-      - text: "<strong>Special Update:</strong> This is the brand new bullet item for April with its own unique standalone picture attached below it."
-        bullet_img: "/assets/img/frontiers_extra_4.jpg"
+      - text: "<strong>Lab event:</strong> Lab hot pot dinner!"
+        bullet_img: "/assets/img/labdinner_apr2025.jpg"
 
   - date: "Jan 2025"
     bullets:
