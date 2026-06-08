@@ -27,7 +27,7 @@ news_items:
     date: "Jun 2026"
     bullets:
       - text: "<strong>New Lab Members:</strong> Welcome to SANDLab Gayathri!"
-      - text: "<strong>Publication:</strong> <strong>Our network view of the autonomic nervous system published in Annual Reviews in Biomedical Engineering!</strong> Sandya's invited review, written with Sage Chen at NYU, Riccardo Barbieri at Politecnico di Milano, and Sriram in SANDLab (Go Sriram!), is now out in <a href='https://www.annualreviews.org/content/journals/10.1146/annurev-bioeng-103023-065411' target='_blank'>Annual Reviews in BME</a>."
+      - text: "<strong>Publication:</strong> <strong>Our newest preprint benchmarking time series foundation models on forecasting heartbeat dynamics is out!</strong> This is Adrian's awesome rotation project, now on <a href='https://www.biorxiv.org/content/10.64898/2026.05.25.727760v1' target='_blank'>bioRxiv</a>. See <a href='https://www.linkedin.com/posts/sandya-subramanian_aiinhealthcare-aiforphysiology-timeseries-share-7469881824836493312-DkWR/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAwVOggBpwxL2oBo3PV_olDKQD1b8mZNe0Y' target='_blank'>Sandya's Linkedin post</a> for details."
   
   - date: "May 2026"
     bullets:
