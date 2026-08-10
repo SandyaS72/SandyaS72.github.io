@@ -60,6 +60,18 @@ subtitle: Systemic Autonomic Neuro Dynamics Lab
 <img src="/assets/img/LabPhoto_spring2025.jpg" style="height:150px; width:100%; object-fit:cover;" class="rounded shadow-sm" alt="Shruthi Ravichandran">
 </div>
 <div class="col-sm-8 pl-3" markdown="1">
+#### Gayathri Sunil
+**M.S. Student, CS, UMass Amherst** <br> *Co-op student* <br> Working on physiology-informed AI models.
+</div>
+</div>
+</div>
+
+<div class="col-md-6 mb-4" markdown="1">
+<div class="row no-gutters" markdown="1">
+<div class="col-sm-4" markdown="1">
+<img src="/assets/img/LabPhoto_spring2025.jpg" style="height:150px; width:100%; object-fit:cover;" class="rounded shadow-sm" alt="Shruthi Ravichandran">
+</div>
+<div class="col-sm-8 pl-3" markdown="1">
 #### Andy Seymour
 **M.S. Student, EECS** <br> *Co-advised by Prabal Dutta* <br> Working on hardware-firmware applications.
 </div>
