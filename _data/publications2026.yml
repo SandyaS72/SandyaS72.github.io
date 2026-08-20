@@ -20,3 +20,56 @@ EMBC:
   journal: <i>Proc IEEE Eng in Med & Biol</i>
   year: "2026"
   image: <img src="/assets/img/EMBC_2026.png">
+
+BSN_1: 
+  title: "<b>Network topology of dynamic multi-organ autonomic functional connectivity in migraine via at-home sensors</b>"
+  authors: "J Mohan, S Subramanian"
+  journal: <i>Proc IEEE Body Sensors and Networks</i>
+  year: "2026"
+  image: <img src="/assets/img/BSN_1_2026.png">
+
+BSN_2: 
+  title: "<b>Recovering the spatiotemporal dynamics of stomach muscle coupling during digestion using wearable high-resolution electrogastrography</b>"
+  authors: "J Everts, J Mohan, S Ravichandran, B Chen, S Subramanian"
+  journal: <i>Proc IEEE Body Sensors and Networks</i>
+  year: "2026"
+  image: <img src="/assets/img/BSN_2_2026.png">
+
+Belinda_preprint: 
+  title: <b>Towards Passive Dietary Monitoring: Dilated CNN-Based Meal Detection Using Ambulatory High-Resolution Electrogastrography</b>
+  authors: "B Chen, S Subramanian"
+  journal: <i>bioRxiv</i>
+  year: "2026"
+  link: <a href="https://doi.org/10.64898/2026.06.13.731982">Link</a>
+  image: <img src="/assets/img/Belinda_bioRxiv_2026.jpg">
+
+Jeshu_preprint: 
+  title: <b>The Dynamic Coupling Index for Graph Structure Learning in Heterogeneous Time Series</b>
+  authors: "J Mohan, B Ramsundar, S Subramanian"
+  year: "2026"
+  link: <a href="https://github.com/SubramanianLab/DCI-paper/blob/main/DCI_Paper_v4.pdf">Link</a>
+  image: <img src="/assets/img/Jeshu_github_2026.jpg">
+
+Bhuvana_preprint: 
+  title: <b>Lognormal Neural Point Process Models for Interpretable Heartbeat Dynamics</b>
+  authors: "B Ravikumar, B Ramsundar, S Subramanian"
+  journal: <i>bioRxiv</i>
+  year: "2026"
+  link: <a href="https://doi.org/10.64898/2026.08.12.744524">Link</a>
+  image: <img src="/assets/img/Bhuvana_bioRxiv_2026.jpg">
+
+Gayathri_preprint: 
+  title: <b>Towards a Physiological Scaling Law: Model Quality vs. Cohort Size for Stochastic Sequence Data</b>
+  authors: "G Sunil, B Ravikumar, B Ramsundar, S Subramanian"
+  journal: <i>bioRxiv</i>
+  year: "2026"
+  link: <a href="https://doi.org/10.64898/2026.08.11.744303">Link</a>
+  image: <img src="/assets/img/Gayathri_bioRxiv_2026.jpg">
+
+Josh_preprint: 
+  title: <b>System Identification of Large-Scale Coupled Dynamics Using Differentiable Programming</b>
+  authors: "J Everts, A Shinde, B Ramsundar, S Subramanian"
+  journal: <i>engrXiv</i>
+  year: "2026"
+  link: <a href="https://doi.org/10.31224/7949">Link</a>
+  image: <img src="/assets/img/Josh_engrXiv_2026.jpg">
