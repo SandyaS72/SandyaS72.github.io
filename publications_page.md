@@ -13,7 +13,7 @@ title: Publications
 {% include publications-format.md items="AnnRev, SD4H, EMBC, Belinda_preprint, Jeshu_preprint, Bhuvana_preprint, Gayathri_preprint, BSN_1, BSN_2, Josh_preprint" file="publications2026" caption="2026 publications" %}
 
 ## 2025
-{% include publications-format.md items="EMBC_1, EMBC_2, EMBC_3, EMBC_4" file="publications2025" caption="2025 publications" %}
+{% include publications-format.md items="EMBC_1, EMBC_2, EMBC_3, EMBC_4, Jeshu_Baylearn, SfN" file="publications2025" caption="2025 publications" %}
 
 ## 2024
 {% include publications-format.md items="PNAS_2024, EMBC, ICLR" file="publications2024" caption="2024 publications" %}
