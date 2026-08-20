@@ -59,7 +59,7 @@ Bhuvana_preprint:
   image: <img src="/assets/img/Bhuvana_bioRxiv_2026.png">
 
 Gayathri_preprint: 
-  title: <b>Towards a Physiological Scaling Law: Model Quality vs. Cohort Size for Stochastic Sequence Data</b>
+  title: "<b>Towards a Physiological Scaling Law: Model Quality vs. Cohort Size for Stochastic Sequence Data</b>"
   authors: "G Sunil, B Ravikumar, B Ramsundar, S Subramanian"
   journal: <i>bioRxiv</i>
   year: "2026"
