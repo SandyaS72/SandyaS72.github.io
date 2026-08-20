@@ -15,7 +15,7 @@ SD4H:
   image: <img src="/assets/img/SD4H_2026.jpg">
 
 EMBC: 
-  title: <b>From Gut Signals to Meals":" Non-invasive Meal Detection Using Dilated CNNs</b>
+  title: "<b>From Gut Signals to Meals: Non-invasive Meal Detection Using Dilated CNNs</b>"
   authors: "B Chen, S Subramanian"
   journal: <i>Proc IEEE Eng in Med & Biol</i>
   year: "2026"
