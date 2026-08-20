@@ -31,3 +31,20 @@ EMBC_4:
   journal: <i>Proc IEEE Eng in Med & Biol</i>
   year: "2025"
   image: <img src="/assets/img/EMBC_4_2025.png">
+
+
+Jeshu_Baylearn: 
+  title: <b>Inferring Dynamic Hidden Graph Structure in Heterogeneous Correlated Time Series</b> (Abstract)
+  authors: "J Mohan, B Ramsundar, S Subramanian"
+  journal: <i>arXiv (presented at BayLearn)</i>
+  year: "2025"
+  link: <a href="https://doi.org/10.48550/arXiv.2512.01301">Link</a>
+  image: <img src="/assets/img/Jeshu_arXiv_2025.png">
+
+
+SfN:
+  title: <b>Modeling dynamic multi-organ autonomic functional connectivity in migraineurs during migraine and interictal periods</b> (Abstract)
+  authors: "J Mohan, S Mackey, S Subramanian"
+  journal: <i>Society for Neuroscience</i>
+  year: "2025"
+  image: <img src="/assets/img/SfN_2025.png">
