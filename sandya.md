@@ -36,6 +36,9 @@ I returned to the US in 2016 to the other Cambridge where I completed my Ph.D. a
 
 ---
 ### Awards and Honors
+* UC Office of the President Early Career Award, 2026
+* UCSF Weill Catalyst Award, 2026
+* Schmidt Sciences Catalyst Award, 2025
 * Rose Hills Innovator Award, UC Berkeley, 2025
 * Johns Hopkins/Columbia Rising Stars in Engineering in Health, 2022
 * L’Oreal USA For Women in Science Fellowship, 2022
