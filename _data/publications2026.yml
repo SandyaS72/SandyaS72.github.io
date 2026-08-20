@@ -17,7 +17,6 @@ SD4H:
 EMBC: 
   title: <b>From Gut Signals to Meals: Non-invasive Meal Detection Using Dilated CNNs</b>
   authors: "B Chen, S Subramanian"
-  journal: <i>Proc. ICML Structured Data for Health (SD4H)</i>
+  journal: <i>Proc IEEE Eng in Med & Biol</i>
   year: "2026"
-  link: <a href="https://www.biorxiv.org/content/10.64898/2026.05.25.727760v1">Link</a>
-  image: <img src="/assets/img/SD4H_2026.jpg">
+  image: <img src="/assets/img/EMBC_2026.png">
