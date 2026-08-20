@@ -51,7 +51,7 @@ Jeshu_preprint:
   image: <img src="/assets/img/Jeshu_github_2026.png">
 
 Bhuvana_preprint: 
-  title: <b>Lognormal Neural Point Process Models for Interpretable Heartbeat Dynamics</b>
+  title: <b>Lognormal Neural Point Process Models for Interpretable Heartbeat Dynamics</b> (Abstract)
   authors: "B Ravikumar, B Ramsundar, S Subramanian"
   journal: <i>bioRxiv</i>
   year: "2026"
@@ -59,7 +59,7 @@ Bhuvana_preprint:
   image: <img src="/assets/img/Bhuvana_bioRxiv_2026.png">
 
 Gayathri_preprint: 
-  title: "<b>Towards a Physiological Scaling Law: Model Quality vs. Cohort Size for Stochastic Sequence Data</b>"
+  title: "<b>Towards a Physiological Scaling Law: Model Quality vs. Cohort Size for Stochastic Sequence Data</b> (Abstract)" 
   authors: "G Sunil, B Ravikumar, B Ramsundar, S Subramanian"
   journal: <i>bioRxiv</i>
   year: "2026"
@@ -67,7 +67,7 @@ Gayathri_preprint:
   image: <img src="/assets/img/Gayathri_bioRxiv_2026.png">
 
 Josh_preprint: 
-  title: <b>System Identification of Large-Scale Coupled Dynamics Using Differentiable Programming</b>
+  title: <b>System Identification of Large-Scale Coupled Dynamics Using Differentiable Programming</b> (Abstract)
   authors: "J Everts, A Shinde, B Ramsundar, S Subramanian"
   journal: <i>engrXiv</i>
   year: "2026"
