@@ -10,7 +10,7 @@ title: Publications
 </div>
 
 ## 2026
-{% include publications-format.md items="AnnRev, SD4H" file="publications2026" caption="2026 publications" %}
+{% include publications-format.md items="AnnRev, SD4H, EMBC" file="publications2026" caption="2026 publications" %}
 
 ## 2025
 {% include publications-format.md items="EMBC_1, EMBC_2, EMBC_3, EMBC_4" file="publications2025" caption="2025 publications" %}
