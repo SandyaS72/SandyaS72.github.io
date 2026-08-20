@@ -9,7 +9,15 @@ AnnRev:
 SD4H: 
   title: <b>Evaluating Long-Range Temporal Structure in Foundation Model-Based Forecasts of Heartbeat Dynamics</b>
   authors: "A Serapio, B Ramsundar, S Subramanian"
-  journal: <i>bioRxiv</i>
+  journal: <i>Proc. ICML Structured Data for Health (SD4H)</i>
+  year: "2026"
+  link: <a href="https://www.biorxiv.org/content/10.64898/2026.05.25.727760v1">Link</a>
+  image: <img src="/assets/img/SD4H_2026.jpg">
+
+EMBC: 
+  title: <b>From Gut Signals to Meals: Non-invasive Meal Detection Using Dilated CNNs</b>
+  authors: "B Chen, S Subramanian"
+  journal: <i>Proc. ICML Structured Data for Health (SD4H)</i>
   year: "2026"
   link: <a href="https://www.biorxiv.org/content/10.64898/2026.05.25.727760v1">Link</a>
   image: <img src="/assets/img/SD4H_2026.jpg">
