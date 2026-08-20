@@ -22,21 +22,21 @@ EMBC:
   image: <img src="/assets/img/EMBC_2026.png">
 
 BSN_1: 
-  title: "<b>Network topology of dynamic multi-organ autonomic functional connectivity in migraine via at-home sensors</b>"
+  title: <b>Network topology of dynamic multi-organ autonomic functional connectivity in migraine via at-home sensors</b>
   authors: "J Mohan, S Subramanian"
   journal: <i>Proc IEEE Body Sensors and Networks</i>
   year: "2026"
   image: <img src="/assets/img/BSN_1_2026.png">
 
 BSN_2: 
-  title: "<b>Recovering the spatiotemporal dynamics of stomach muscle coupling during digestion using wearable high-resolution electrogastrography</b>"
+  title: <b>Recovering the spatiotemporal dynamics of stomach muscle coupling during digestion using wearable high-resolution electrogastrography</b>
   authors: "J Everts, J Mohan, S Ravichandran, B Chen, S Subramanian"
   journal: <i>Proc IEEE Body Sensors and Networks</i>
   year: "2026"
   image: <img src="/assets/img/BSN_2_2026.png">
 
 Belinda_preprint: 
-  title: <b>Towards Passive Dietary Monitoring: Dilated CNN-Based Meal Detection Using Ambulatory High-Resolution Electrogastrography</b>
+  title: "<b>Towards Passive Dietary Monitoring: Dilated CNN-Based Meal Detection Using Ambulatory High-Resolution Electrogastrography</b>"
   authors: "B Chen, S Subramanian"
   journal: <i>bioRxiv</i>
   year: "2026"
